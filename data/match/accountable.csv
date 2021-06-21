@@ -1,0 +1,66 @@
+RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
+733,Standard for the format of ARPA network text messages,"D. Crocker, J. Vittal, K.T. Pogran, D.A. Henderson",November 1977,UNKNOWN,Legacy,,
+822,STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT MESSAGES,D. Crocker,August 1982,INTERNET STANDARD,Legacy,,
+1017,Network requirements for scientific research: Internet task force on scientific computing,B.M. Leiner,August 1987,UNKNOWN,Legacy,,
+1192,Commercialization of the Internet summary report,B. Kahin,November 1990,INFORMATIONAL,Legacy,,
+1244,Site Security Handbook,"J.P. Holbrook, J.K. Reynolds",July 1991,INFORMATIONAL,Legacy,,
+1272,Internet Accounting: Background,"C. Mills, D. Hirsh, G.R. Ruth",November 1991,INFORMATIONAL,IETF,,acct
+1281,Guidelines for the Secure Operation of the Internet,"R. Pethia, S. Crocker, B. Fraser",November 1991,INFORMATIONAL,IETF,sec,spwg
+1507,DASS - Distributed Authentication Security Service,C. Kaufman,September 1993,EXPERIMENTAL,IETF,sec,cat
+1945,Hypertext Transfer Protocol -- HTTP/1.0,"T. Berners-Lee, R. Fielding, H. Frystyk",May 1996,INFORMATIONAL,IETF,app,http
+2063,Traffic Flow Measurement:  Architecture,"N. Brownlee, C. Mills, G. Ruth",January 1997,EXPERIMENTAL,IETF,tsv,rtfm
+2064,Traffic Flow Measurement:  Meter MIB,N. Brownlee,January 1997,EXPERIMENTAL,IETF,tsv,rtfm
+2068,Hypertext Transfer Protocol -- HTTP/1.1,"R. Fielding, J. Gettys, J. Mogul, H. Frystyk, T. Berners-Lee",January 1997,PROPOSED STANDARD,IETF,app,http
+2310,The Safe Response Header Field,K. Holtman,April 1998,EXPERIMENTAL,IETF,app,http
+2504,Users\' Security Handbook,"E. Guttman, L. Leong, G. Malkin",February 1999,INFORMATIONAL,IETF,,ssh
+2527,Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework,"S. Chokhani, W. Ford",March 1999,INFORMATIONAL,IETF,sec,pkix
+2616,Hypertext Transfer Protocol -- HTTP/1.1,"R. Fielding, J. Gettys, J. Mogul, H. Frystyk, L. Masinter, P. Leach, T. Berners-Lee",June 1999,DRAFT STANDARD,IETF,app,http
+2720,Traffic Flow Measurement: Meter MIB,N. Brownlee,October 1999,PROPOSED STANDARD,IETF,tsv,rtfm
+2828,Internet Security Glossary,R. Shirey,May 2000,INFORMATIONAL,Legacy,,
+2970,Architecture for Integrated Directory Services - Result from TISDAG,"L. Daigle, T. Eklof",October 2000,INFORMATIONAL,IETF,,NON WORKING GROUP
+3086,Definition of Differentiated Services Per Domain Behaviors and Rules for their Specification,"K. Nichols, B. Carpenter",April 2001,INFORMATIONAL,IETF,tsv,diffserv
+3323,A Privacy Mechanism for the Session Initiation Protocol (SIP),J. Peterson,November 2002,PROPOSED STANDARD,IETF,rai,sip
+3628,Policy Requirements for Time-Stamping Authorities (TSAs),"D. Pinkas, N. Pope, J. Ross",November 2003,INFORMATIONAL,IETF,sec,pkix
+3694,Threat Analysis of the Geopriv Protocol,"M. Danley, D. Mulligan, J. Morris, J. Peterson",February 2004,INFORMATIONAL,IETF,rai,geopriv
+3716,IETF in the Large:  Administration and Execution,IAB Advisory Committee,March 2004,HISTORIC,IAB,,
+3774,IETF Problem Statement,E. Davies,May 2004,INFORMATIONAL,IETF,gen,problem
+4071,Structure of the IETF Administrative Support Activity (IASA),"R. Austein, B. Wijnen",April 2005,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+4089,IAB and IESG Recommendation for IETF Administrative Restructuring,"S. Hollenbeck, IAB and IESG",May 2005,INFORMATIONAL,IAB,,
+4141,SMTP and MIME Extensions for Content Conversion,"K. Toyoda, D. Crocker",November 2005,PROPOSED STANDARD,IETF,app,fax
+4333,The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process,"G. Huston, B. Wijnen",December 2005,BEST CURRENT PRACTICE,IAB,,
+4474,Enhancements for Authenticated Identity Management in the Session Initiation Protocol (SIP),"J. Peterson, C. Jennings",August 2006,PROPOSED STANDARD,IETF,rai,sip
+4651,A Taxonomy and Analysis of Enhancements to Mobile IPv6 Route Optimization,"C. Vogt, J. Arkko",February 2007,INFORMATIONAL,IRTF,,
+4686,Analysis of Threats Motivating DomainKeys Identified Mail (DKIM),J. Fenton,September 2006,INFORMATIONAL,IETF,sec,dkim
+4949,"Internet Security Glossary, Version 2",R. Shirey,August 2007,INFORMATIONAL,INDEPENDENT,,
+5209,Network Endpoint Assessment (NEA): Overview and Requirements,"P. Sangster, H. Khosravi, M. Mani, K. Narayan, J. Tardo",June 2008,INFORMATIONAL,IETF,sec,nea
+5226,Guidelines for Writing an IANA Considerations Section in RFCs,"T. Narten, H. Alvestrand",May 2008,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+5228,Sieve: An Email Filtering Language,"P. Guenther, T. Showalter",January 2008,PROPOSED STANDARD,IETF,app,sieve
+5290,Comments on the Usefulness of Simple Best-Effort Traffic,"S. Floyd, M. Allman",July 2008,INFORMATIONAL,INDEPENDENT,,
+5355,Threats Introduced by Reliable Server Pooling (RSerPool) and Requirements for Security in Response to Threats,"M. Stillman, R. Gopal, E. Guttman, S. Sengodan, M. Holdrege",September 2008,INFORMATIONAL,IETF,tsv,rserpool
+5435,Sieve Email Filtering: Extension for Notifications,"A. Melnikov, B. Leiba, W. Segmuller, T. Martin",January 2009,PROPOSED STANDARD,IETF,app,sieve
+5518,Vouch By Reference,"P. Hoffman, J. Levine, A. Hathcock",April 2009,PROPOSED STANDARD,IETF,,NON WORKING GROUP
+5585,DomainKeys Identified Mail (DKIM) Service Overview,"T. Hansen, D. Crocker, P. Hallam-Baker",July 2009,INFORMATIONAL,IETF,sec,dkim
+5598,Internet Mail Architecture,D. Crocker,July 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
+5765,Security Issues and Solutions in Peer-to-Peer Systems for Realtime Communications,"H. Schulzrinne, E. Marocco, E. Ivov",February 2010,INFORMATIONAL,IRTF,,
+6077,Open Research Issues in Internet Congestion Control,"D. Papadimitriou, M. Welzl, M. Scharf, B. Briscoe",February 2011,INFORMATIONAL,IRTF,,
+6462,Report from the Internet Privacy Workshop,A. Cooper,January 2012,INFORMATIONAL,IAB,,
+6635,RFC Editor Model (Version 2),"O. Kolkman, J. Halpern, IAB",June 2012,INFORMATIONAL,IAB,,
+7015,Flow Aggregation for the IP Flow Information Export (IPFIX) Protocol,"B. Trammell, A. Wagner, B. Claise",September 2013,PROPOSED STANDARD,IETF,ops,ipfix
+7231,Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content,"R. Fielding, J. Reschke",June 2014,PROPOSED STANDARD,IETF,app,httpbis
+7378,Trustworthy Location,"H. Tschofenig, H. Schulzrinne, B. Aboba",December 2014,INFORMATIONAL,IETF,rai,ecrit
+7500,Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries,"R. Housley, O. Kolkman",April 2015,INFORMATIONAL,IAB,,
+7704,An IETF with Much Diversity and Professional Conduct,"D. Crocker, N. Clark",November 2015,INFORMATIONAL,INDEPENDENT,,
+7906,NSA\'s Cryptographic Message Syntax (CMS) Key Management Attributes,"P. Timmel, R. Housley, S. Turner",June 2016,INFORMATIONAL,INDEPENDENT,,
+7979,Response to the IANA Stewardship Transition Coordination Group (ICG) Request for Proposals on the IANA Protocol Parameters Registries,"E. Lear, R. Housley",August 2016,INFORMATIONAL,IETF,gen,ianaplan
+8126,Guidelines for Writing an IANA Considerations Section in RFCs,"M. Cotton, B. Leiba, T. Narten",June 2017,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+8224,Authenticated Identity Management in the Session Initiation Protocol (SIP),"J. Peterson, C. Jennings, E. Rescorla, C. Wendt",February 2018,PROPOSED STANDARD,IETF,art,stir
+8280,Research into Human Rights Protocol Considerations,"N. ten Oever, C. Cath",October 2017,INFORMATIONAL,IRTF,,
+8324,"DNS Privacy, Authorization, Special Uses, Encoding, Characters, Matching, and Root Structure: Time for Another Look?",J. Klensin,February 2018,INFORMATIONAL,INDEPENDENT,,
+8576,Internet of Things (IoT) Security: State of the Art and Challenges,"O. Garcia-Morchon, S. Kumar, M. Sethi",April 2019,INFORMATIONAL,IRTF,,
+8711,"Structure of the IETF Administrative Support Activity, Version 2.0","B. Haberman, J. Hall, J. Livingood",February 2020,BEST CURRENT PRACTICE,IETF,gen,iasa2
+8720,Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries,"R. Housley, O. Kolkman",February 2020,INFORMATIONAL,IAB,,
+8728,RFC Editor Model (Version 2),"O. Kolkman, J. Halpern, R. Hinden",February 2020,INFORMATIONAL,IAB,,
+8729,The RFC Series and RFC Editor,"R. Housley, L. Daigle",February 2020,INFORMATIONAL,IAB,,
+8753,Internationalized Domain Names for Applications (IDNA) Review for New Unicode Versions,"J. Klensin, P. F\xc3\xa4ltstr\xc3\xb6m",April 2020,PROPOSED STANDARD,IETF,,NON WORKING GROUP
+8802,The Quality for Service (Q4S) Protocol,"J.J. Aranda, M. Cortes, J. Salvach\xc3\xbaa, M. Narganes, I. Mart\xc3\xadnez-Sarriegui",July 2020,INFORMATIONAL,INDEPENDENT,,
+8962,Establishing the Protocol Police,"G. Grover, N. ten Oever, C. Cath, S. Sahib",1 April 2021,INFORMATIONAL,INDEPENDENT,,

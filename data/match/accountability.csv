@@ -1,0 +1,70 @@
+RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
+721,Out-of-Band Control Signals in a Host-to-Host Protocol,L.L. Garlick,September 1976,HISTORIC,Legacy,,
+808,Summary of computer mail services meeting held at BBN on 10 January 1979,J. Postel,March 1982,UNKNOWN,Legacy,,
+1015,Implementation plan for interagency research Internet,B.M. Leiner,July 1987,UNKNOWN,Legacy,,
+1107,Plan for Internet directory services,K.R. Sollins,July 1989,INFORMATIONAL,Legacy,,
+1114,Privacy enhancement for Internet electronic mail: Part II - certificate-based key management,"S.T. Kent, J. Linn",August 1989,HISTORIC,Legacy,,
+1125,Policy requirements for inter Administrative Domain routing,D. Estrin,November 1989,UNKNOWN,Legacy,,
+1297,"NOC Internal Integrated Trouble Ticket System Functional Specification Wishlist (""NOC TT REQUIREMENTS"")",D. Johnson,January 1992,INFORMATIONAL,IETF,,ucp
+1507,DASS - Distributed Authentication Security Service,C. Kaufman,September 1993,EXPERIMENTAL,IETF,sec,cat
+1529,Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Administrative Policies,"C. Malamud, M. Rose",October 1993,INFORMATIONAL,Legacy,,
+1588,White Pages Meeting Report,"J. Postel, C. Anderson",February 1994,INFORMATIONAL,Legacy,,
+1681,On Many Addresses per Host,S. Bellovin,August 1994,INFORMATIONAL,Legacy,,
+2196,Site Security Handbook,B. Fraser,September 1997,INFORMATIONAL,IETF,,ssh
+2305,A Simple Mode of Facsimile Using Internet Mail,"K. Toyoda, H. Ohno, J. Murai, D. Wing",March 1998,PROPOSED STANDARD,IETF,app,fax
+2725,Routing Policy System Security,"C. Villamizar, C. Alaettinoglu, D. Meyer, S. Murphy",December 1999,PROPOSED STANDARD,IETF,ops,rps
+2828,Internet Security Glossary,R. Shirey,May 2000,INFORMATIONAL,Legacy,,
+2888,Secure Remote Access with L2TP,P. Srisuresh,August 2000,INFORMATIONAL,Legacy,,
+2906,AAA Authorization Requirements,"S. Farrell, J. Vollbrecht, P. Calhoun, L. Gommans, G. Gross, B. de Bruijn, C. de Laat, M. Holdrege, D. Spence",August 2000,INFORMATIONAL,Legacy,,
+3013,Recommended Internet Service Provider Security Services and Procedures,T. Killalea,November 2000,BEST CURRENT PRACTICE,IETF,ops,grip
+3067,TERENA\'S Incident Object Description and Exchange Format Requirements,"J. Arvidsson, A. Cormack, Y. Demchenko, J. Meijer",February 2001,INFORMATIONAL,Legacy,,
+3578,Mapping of Integrated Services Digital Network (ISDN) User Part (ISUP) Overlap Signalling to the Session Initiation Protocol (SIP),"G. Camarillo, A. B. Roach, J. Peterson, L. Ong",August 2003,PROPOSED STANDARD,IETF,rai,sipping
+3647,Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework,"S. Chokhani, W. Ford, R. Sabett, C. Merrill, S. Wu",November 2003,INFORMATIONAL,IETF,sec,pkix
+3694,Threat Analysis of the Geopriv Protocol,"M. Danley, D. Mulligan, J. Morris, J. Peterson",February 2004,INFORMATIONAL,IETF,rai,geopriv
+3716,IETF in the Large:  Administration and Execution,IAB Advisory Committee,March 2004,HISTORIC,IAB,,
+3726,Requirements for Signaling Protocols,M. Brunner,April 2004,INFORMATIONAL,IETF,tsv,nsis
+3871,Operational Security Requirements for Large Internet Service Provider (ISP) IP Network Infrastructure,G. Jones,September 2004,INFORMATIONAL,IETF,,NON WORKING GROUP
+3881,Security Audit and Access Accountability Message XML Data Definitions for Healthcare Applications,G. Marshall,September 2004,INFORMATIONAL,INDEPENDENT,,
+3965,A Simple Mode of Facsimile Using Internet Mail,"K. Toyoda, H. Ohno, J. Murai, D. Wing",December 2004,DRAFT STANDARD,IETF,app,fax
+4071,Structure of the IETF Administrative Support Activity (IASA),"R. Austein, B. Wijnen",April 2005,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+4089,IAB and IESG Recommendation for IETF Administrative Restructuring,"S. Hollenbeck, IAB and IESG",May 2005,INFORMATIONAL,IAB,,
+4258,Requirements for Generalized Multi-Protocol Label Switching (GMPLS) Routing for the Automatically Switched Optical Network (ASON),D. Brungard,November 2005,INFORMATIONAL,IETF,rtg,ccamp
+4652,Evaluation of Existing Routing Protocols against Automatic Switched Optical Network (ASON) Routing Requirements,"D. Papadimitriou, L. Ong, J. Sadler, S. Shew, D. Ward",October 2006,INFORMATIONAL,IETF,rtg,ccamp
+4686,Analysis of Threats Motivating DomainKeys Identified Mail (DKIM),J. Fenton,September 2006,INFORMATIONAL,IETF,sec,dkim
+4844,The RFC Series and RFC Editor,"L. Daigle, Internet Architecture Board",July 2007,INFORMATIONAL,IAB,,
+4949,"Internet Security Glossary, Version 2",R. Shirey,August 2007,INFORMATIONAL,INDEPENDENT,,
+4962,"Guidance for Authentication, Authorization, and Accounting (AAA) Key Management","R. Housley, B. Aboba",July 2007,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+5000,Internet Official Protocol Standards,RFC Editor,May 2008,HISTORIC,INDEPENDENT,,
+5016,Requirements for a DomainKeys Identified Mail (DKIM) Signing Practices Protocol,M. Thomas,October 2007,INFORMATIONAL,IETF,sec,dkim
+5068,Email Submission Operations: Access and Accountability Requirements,"C. Hutzler, D. Crocker, P. Resnick, E. Allman, T. Finch",November 2007,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+5111,Experiment in Exploratory Group Formation within the Internet Engineering Task Force (IETF),"B. Aboba, L. Dondeti",January 2008,EXPERIMENTAL,IETF,,NON WORKING GROUP
+5550,The Internet Email to Support Diverse Service Environments (Lemonade) Profile,"D. Cridland, A. Melnikov, S. Maes",August 2009,PROPOSED STANDARD,IETF,app,lemonade
+5585,DomainKeys Identified Mail (DKIM) Service Overview,"T. Hansen, D. Crocker, P. Hallam-Baker",July 2009,INFORMATIONAL,IETF,sec,dkim
+5598,Internet Mail Architecture,D. Crocker,July 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
+5636,Traceable Anonymous Certificate,"S. Park, H. Park, Y. Won, J. Lee, S. Kent",August 2009,EXPERIMENTAL,IETF,sec,pkix
+5863,"DomainKeys Identified Mail (DKIM) Development, Deployment, and Operations","T. Hansen, E. Siegel, P. Hallam-Baker, D. Crocker",May 2010,INFORMATIONAL,IETF,sec,dkim
+6077,Open Research Issues in Internet Congestion Control,"D. Papadimitriou, M. Welzl, M. Scharf, B. Briscoe",February 2011,INFORMATIONAL,IRTF,,
+6257,Bundle Security Protocol Specification,"S. Symington, S. Farrell, H. Weiss, P. Lovell",May 2011,EXPERIMENTAL,IRTF,,
+6973,Privacy Considerations for Internet Protocols,"A. Cooper, H. Tschofenig, B. Aboba, J. Peterson, J. Morris, M. Hansen, R. Smith",July 2013,INFORMATIONAL,IAB,,
+7375,Secure Telephone Identity Threat Model,J. Peterson,October 2014,INFORMATIONAL,IETF,rai,stir
+7378,Trustworthy Location,"H. Tschofenig, H. Schulzrinne, B. Aboba",December 2014,INFORMATIONAL,IETF,rai,ecrit
+7381,Enterprise IPv6 Deployment Guidelines,"K. Chittimaneni, T. Chown, L. Howard, V. Kuarsingh, Y. Pouffary, E. Vyncke",October 2014,INFORMATIONAL,IETF,ops,v6ops
+7500,Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries,"R. Housley, O. Kolkman",April 2015,INFORMATIONAL,IAB,,
+7593,The eduroam Architecture for Network Roaming,"K. Wierenga, S. Winter, T. Wolniewicz",September 2015,INFORMATIONAL,INDEPENDENT,,
+7707,Network Reconnaissance in IPv6 Networks,"F. Gont, T. Chown",March 2016,INFORMATIONAL,IETF,ops,opsec
+7713,"Congestion Exposure (ConEx) Concepts, Abstract Mechanism, and Requirements","M. Mathis, B. Briscoe",December 2015,INFORMATIONAL,IETF,tsv,conex
+7778,Mobile Communication Congestion Exposure Scenario,"D. Kutscher, F. Mir, R. Winter, S. Krishnan, Y. Zhang, CJ. Bernardos",March 2016,INFORMATIONAL,IETF,tsv,conex
+7786,TCP Modifications for Congestion Exposure (ConEx),"M. Kuehlewind, R. Scheffenegger",May 2016,EXPERIMENTAL,IETF,tsv,conex
+7955,Management Guidelines for the Locator/ID Separation Protocol (LISP) Endpoint Identifier (EID) Block,"L. Iannone, R. Jorgensen, D. Conrad, G. Huston",September 2016,INFORMATIONAL,IETF,rtg,lisp
+7979,Response to the IANA Stewardship Transition Coordination Group (ICG) Request for Proposals on the IANA Protocol Parameters Registries,"E. Lear, R. Housley",August 2016,INFORMATIONAL,IETF,gen,ianaplan
+8107,Advertising Digital Identifier (Ad-ID) URN Namespace Definition,J. Wold,March 2017,INFORMATIONAL,IETF,,NON WORKING GROUP
+8116,Security Threats to the Optimized Link State Routing Protocol Version 2 (OLSRv2),"T. Clausen, U. Herberg, J. Yi",May 2017,INFORMATIONAL,IETF,rtg,manet
+8192,Interface to Network Security Functions (I2NSF): Problem Statement and Use Cases,"S. Hares, D. Lopez, M. Zarny, C. Jacquenet, R. Kumar, J. Jeong",July 2017,INFORMATIONAL,IETF,sec,i2nsf
+8280,Research into Human Rights Protocol Considerations,"N. ten Oever, C. Cath",October 2017,INFORMATIONAL,IRTF,,
+8314,Cleartext Considered Obsolete: Use of Transport Layer Security (TLS) for Email Submission and Access,"K. Moore, C. Newman",January 2018,PROPOSED STANDARD,IETF,art,uta
+8324,"DNS Privacy, Authorization, Special Uses, Encoding, Characters, Matching, and Root Structure: Time for Another Look?",J. Klensin,February 2018,INFORMATIONAL,INDEPENDENT,,
+8520,Manufacturer Usage Description Specification,"E. Lear, R. Droms, D. Romascanu",March 2019,PROPOSED STANDARD,IETF,ops,opsawg
+8711,"Structure of the IETF Administrative Support Activity, Version 2.0","B. Haberman, J. Hall, J. Livingood",February 2020,BEST CURRENT PRACTICE,IETF,gen,iasa2
+8720,Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries,"R. Housley, O. Kolkman",February 2020,INFORMATIONAL,IAB,,
+8729,The RFC Series and RFC Editor,"R. Housley, L. Daigle",February 2020,INFORMATIONAL,IAB,,
+8932,Recommendations for DNS Privacy Service Operators,"S. Dickinson, B. Overeinder, R. van Rijswijk-Deij, A. Mankin",October 2020,BEST CURRENT PRACTICE,IETF,int,dprive
