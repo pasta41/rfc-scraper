@@ -15,14 +15,23 @@ word = sys.argv[1]
 print("Performing RFC mapping for: {}".format(word))
 
 # call grep bash script to match word, case insensitive, against rfcs
+# with surrounding text
 response = check_call(["./match.sh", word])
 if response != 0:
 	print("Error: Crashed running match.sh")
 	exit(1)
 
+# call grep bash script to match word, case insensitive, against rfcs
+response = check_call(["./match_rfc.sh", word])
+if response != 0:
+	print("Error: Crashed running match_rfc.sh")
+	exit(1)
+
 # TODO better encapsulation...pass output path to match.sh
 match_output_file = "../data/match/{}.txt".format(word)
+match_output_html = "../data/match/{}.html".format(word)
 print("Saved matched rfc paths list: {}".format(match_output_file))
+print("Saved matches with surrounding text: {}".format(match_output_html))
 
 print("Number of rfcs matched: ")
 
@@ -53,4 +62,3 @@ with open(match_output_file) as f:
 matched_df = metadata_df[metadata_df['RFC_ID'].isin(rfc_id_list)]
 
 matched_df.to_csv("../data/match/{}.csv".format(word), index = False)
-    	

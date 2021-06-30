@@ -1,2 +1,4 @@
 #!/bin/sh
-grep -lri $1 ../data/rfc/ > ../data/match/$1.txt
+
+# -i matches upper and lower case; aha keeps the formatting
+grep -ri -C5 --color=always $1 ../data/rfc | aha > ../data/match/$1.html
