@@ -7,22 +7,22 @@ RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
 101,"Notes on the Network Working Group meeting, Urbana, Illinois, February 17, 1971",R.W. Watson,February 1971,UNKNOWN,Legacy,,
 105,Network Specifications for Remote Job Entry and Remote Job Output Retrieval at UCSB,J.E. White,March 1971,UNKNOWN,Legacy,,
 122,Network specifications for UCSB\'s Simple-Minded File System,J.E. White,April 1971,UNKNOWN,Legacy,,
-129,Request for comments on socket name structure,"E. Harslem, J. Heafner, E. Meyer",April 1971,UNKNOWN,Legacy,,
+129,Request for comments on socket name structure,"E. Harslem,E. Meyer,J. Heafner",April 1971,UNKNOWN,Legacy,,
 136,Host accounting and administrative procedures,R.E. Kahn,April 1971,UNKNOWN,Legacy,,
 147,Definition of a socket,J.M. Winett,May 1971,UNKNOWN,Legacy,,
 150,Use of IPC Facilities: A Working Paper,R.B. Kalin,May 1971,UNKNOWN,Legacy,,
 160,RFC brief list,Network Information Center. Stanford Research Institute,May 1971,UNKNOWN,Legacy,,
 164,"Minutes of Network Working Group meeting, 5/16 through 5/19/71",J.F. Heafner,May 1971,UNKNOWN,Legacy,,
-167,Socket conventions reconsidered,"A.K. Bhushan, R.M. Metcalfe, J.M. Winett",May 1971,UNKNOWN,Legacy,,
+167,Socket conventions reconsidered,"A.K. Bhushan,J.M. Winett,R.M. Metcalfe",May 1971,UNKNOWN,Legacy,,
 170,RFC List by Number,Network Information Center. Stanford Research Institute,June 1971,UNKNOWN,Legacy,,
-187,Network/440 Protocol Concept,"D.B. McKay, D.P. Karp",July 1971,UNKNOWN,Legacy,,
+187,Network/440 Protocol Concept,"D.B. McKay,D.P. Karp",July 1971,UNKNOWN,Legacy,,
 189,Interim NETRJS specifications,R.T. Braden,July 1971,UNKNOWN,Legacy,,
 200,RFC list by number,J.B. North,August 1971,UNKNOWN,Legacy,,
 216,Telnet Access to UCSB\'s On-Line System,J.E. White,September 1971,UNKNOWN,Legacy,,
-231,Service center standards for remote usage: A user\'s view,"J.F. Heafner, E. Harslem",September 1971,UNKNOWN,Legacy,,
-333,Proposed experiment with a Message Switching Protocol,"R.D. Bressler, D. Murphy, D.C. Walden",May 1972,UNKNOWN,Legacy,,
+231,Service center standards for remote usage: A user\'s view,"E. Harslem,J.F. Heafner",September 1971,UNKNOWN,Legacy,,
+333,Proposed experiment with a Message Switching Protocol,"D. Murphy,D.C. Walden,R.D. Bressler",May 1972,UNKNOWN,Legacy,,
 385,Comments on the File Transfer Protocol,A.K. Bhushan,August 1972,UNKNOWN,Legacy,,
-392,Measurement of host costs for transmitting network data,"G. Hicks, B.D. Wessler",September 1972,UNKNOWN,Legacy,,
+392,Measurement of host costs for transmitting network data,"B.D. Wessler,G. Hicks",September 1972,UNKNOWN,Legacy,,
 399,SMFS Login and Logout,M. Krilanovich,September 1972,UNKNOWN,Legacy,,
 409,Tenex interface to UCSB\'s Simple-Minded File System,J.E. White,December 1972,UNKNOWN,Legacy,,
 431,Update on SMFS Login and Logout,M. Krilanovich,December 1972,UNKNOWN,Legacy,,
@@ -38,28 +38,28 @@ RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
 501,"Un-muddling ""free file transfer""",K.T. Pogran,May 1973,UNKNOWN,Legacy,,
 504,Distributed resources workshop announcement,R. Thomas,April 1973,UNKNOWN,Legacy,,
 524,Proposed Mail Protocol,J.E. White,June 1973,UNKNOWN,Legacy,,
-525,MIT-MATHLAB meets UCSB-OLS -an example of resource sharing,"W. Parrish, J.R. Pickens",June 1973,UNKNOWN,Legacy,,
+525,MIT-MATHLAB meets UCSB-OLS -an example of resource sharing,"J.R. Pickens,W. Parrish",June 1973,UNKNOWN,Legacy,,
 532,UCSD-CC Server-FTP facility,R.G. Merryman,July 1973,UNKNOWN,Legacy,,
 542,File Transfer Protocol,N. Neigus,August 1973,UNKNOWN,Legacy,,
 555,Responses to critiques of the proposed mail protocol,J.E. White,July 1973,UNKNOWN,Legacy,,
-585,ARPANET users interest working group meeting,"D. Crocker, N. Neigus, E.J. Feinler, J. Iseli",November 1973,UNKNOWN,Legacy,,
+585,ARPANET users interest working group meeting,"D. Crocker,E.J. Feinler,J. Iseli,N. Neigus",November 1973,UNKNOWN,Legacy,,
 592,Some thoughts on system design to facilitate resource sharing,R.W. Watson,November 1973,UNKNOWN,Legacy,,
 599,Update on NETRJS,R.T. Braden,December 1973,UNKNOWN,Legacy,,
-610,Further datalanguage design concepts,"R. Winter, J. Hill, W. Greiff",December 1973,UNKNOWN,Legacy,,
+610,Further datalanguage design concepts,"J. Hill,R. Winter,W. Greiff",December 1973,UNKNOWN,Legacy,,
 615,Proposed Network Standard Data Pathname syntax,D. Crocker,March 1974,UNKNOWN,Legacy,,
 617,Note on socket number assignment,E.A. Taft,February 1974,UNKNOWN,Legacy,,
 640,Revised FTP reply codes,J. Postel,June 1974,UNKNOWN,Legacy,,
 661,Protocol information,J. Postel,November 1974,UNKNOWN,Legacy,,
 666,Specification of the Unified User-Level Protocol,M.A. Padlipsky,November 1974,UNKNOWN,Legacy,,
 672,Multi-site data collection facility,R. Schantz,December 1974,UNKNOWN,Legacy,,
-674,Procedure call documents: Version 2,"J. Postel, J.E. White",December 1974,UNKNOWN,Legacy,,
-677,Maintenance of duplicate databases,"P.R. Johnson, R. Thomas",January 1975,UNKNOWN,Legacy,,
+674,Procedure call documents: Version 2,"J. Postel,J.E. White",December 1974,UNKNOWN,Legacy,,
+677,Maintenance of duplicate databases,"P.R. Johnson,R. Thomas",January 1975,UNKNOWN,Legacy,,
 681,Network UNIX,S. Holmgren,March 1975,UNKNOWN,Legacy,,
 684,Commentary on procedure calling as a network protocol,R. Schantz,April 1975,UNKNOWN,Legacy,,
 694,Protocol information,J. Postel,June 1975,UNKNOWN,Legacy,,
 696,Comments on the IMP/Host and Host/IMP Protocol changes,V.G. Cerf,July 1975,UNKNOWN,Legacy,,
-699,Request For Comments summary notes: 600-699,"J. Postel, J. Vernon",November 1982,INFORMATIONAL,Legacy,,
-725,RJE protocol for a resource sharing network,"J.D. Day, G.R. Grossman",March 1977,UNKNOWN,Legacy,,
+699,Request For Comments summary notes: 600-699,"J. Postel,J. Vernon",November 1982,INFORMATIONAL,Legacy,,
+725,RJE protocol for a resource sharing network,"G.R. Grossman,J.D. Day",March 1977,UNKNOWN,Legacy,,
 739,Assigned numbers,J. Postel,November 1977,HISTORIC,Legacy,,
 740,NETRJS Protocol,R.T. Braden,November 1977,HISTORIC,Legacy,,
 750,Assigned numbers,J. Postel,September 1978,HISTORIC,Legacy,,
@@ -74,762 +74,762 @@ RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
 808,Summary of computer mail services meeting held at BBN on 10 January 1979,J. Postel,March 1982,UNKNOWN,Legacy,,
 820,Assigned numbers,J. Postel,August 1982,HISTORIC,Legacy,,
 869,Host Monitoring Protocol,R. Hinden,December 1983,HISTORIC,Legacy,,
-870,Assigned numbers,"J.K. Reynolds, J. Postel",October 1983,HISTORIC,Legacy,,
+870,Assigned numbers,"J. Postel,J.K. Reynolds",October 1983,HISTORIC,Legacy,,
 871,Perspective on the ARPANET reference model,M.A. Padlipsky,September 1982,UNKNOWN,Legacy,,
 874,Critique of X.25,M.A. Padlipsky,September 1982,UNKNOWN,Legacy,,
 892,ISO Transport Protocol specification,International Organization for Standardization,December 1983,UNKNOWN,Legacy,,
-900,Assigned Numbers,"J.K. Reynolds, J. Postel",June 1984,HISTORIC,Legacy,,
+900,Assigned Numbers,"J. Postel,J.K. Reynolds",June 1984,HISTORIC,Legacy,,
 905,ISO Transport Protocol specification ISO DP 8073,ISO,April 1984,UNKNOWN,Legacy,,
 913,Simple File Transfer Protocol,M. Lottor,September 1984,HISTORIC,Legacy,,
-923,Assigned numbers,"J.K. Reynolds, J. Postel",October 1984,HISTORIC,Legacy,,
+923,Assigned numbers,"J. Postel,J.K. Reynolds",October 1984,HISTORIC,Legacy,,
 926,Protocol for providing the connectionless mode network services,International Organization for Standardization,December 1984,UNKNOWN,Legacy,,
-943,Assigned numbers,"J.K. Reynolds, J. Postel",April 1985,HISTORIC,Legacy,,
+943,Assigned numbers,"J. Postel,J.K. Reynolds",April 1985,HISTORIC,Legacy,,
 949,FTP unique-named store command,M.A. Padlipsky,July 1985,UNKNOWN,Legacy,,
-959,File Transfer Protocol,"J. Postel, J. Reynolds",October 1985,INTERNET STANDARD,Legacy,,
-960,Assigned numbers,"J.K. Reynolds, J. Postel",December 1985,HISTORIC,Legacy,,
-985,Requirements for Internet gateways - draft,"National Science Foundation, Network Technical Advisory Group",May 1986,UNKNOWN,Legacy,,
-990,Assigned numbers,"J.K. Reynolds, J. Postel",November 1986,HISTORIC,Legacy,,
-1000,Request For Comments reference guide,"J.K. Reynolds, J. Postel",August 1987,UNKNOWN,Legacy,,
-1009,Requirements for Internet gateways,"R.T. Braden, J. Postel",June 1987,HISTORIC,Legacy,,
-1010,Assigned numbers,"J.K. Reynolds, J. Postel",May 1987,HISTORIC,Legacy,,
-1012,Bibliography of Request For Comments 1 through 999,"J.K. Reynolds, J. Postel",June 1987,INFORMATIONAL,Legacy,,
+959,File Transfer Protocol,"J. Postel,J. Reynolds",October 1985,INTERNET STANDARD,Legacy,,
+960,Assigned numbers,"J. Postel,J.K. Reynolds",December 1985,HISTORIC,Legacy,,
+985,Requirements for Internet gateways - draft,"National Science Foundation,Network Technical Advisory Group",May 1986,UNKNOWN,Legacy,,
+990,Assigned numbers,"J. Postel,J.K. Reynolds",November 1986,HISTORIC,Legacy,,
+1000,Request For Comments reference guide,"J. Postel,J.K. Reynolds",August 1987,UNKNOWN,Legacy,,
+1009,Requirements for Internet gateways,"J. Postel,R.T. Braden",June 1987,HISTORIC,Legacy,,
+1010,Assigned numbers,"J. Postel,J.K. Reynolds",May 1987,HISTORIC,Legacy,,
+1012,Bibliography of Request For Comments 1 through 999,"J. Postel,J.K. Reynolds",June 1987,INFORMATIONAL,Legacy,,
 1015,Implementation plan for interagency research Internet,B.M. Leiner,July 1987,UNKNOWN,Legacy,,
 1017,Network requirements for scientific research: Internet task force on scientific computing,B.M. Leiner,August 1987,UNKNOWN,Legacy,,
 1030,On testing the NETBLT Protocol over divers networks,M.L. Lambert,November 1987,UNKNOWN,Legacy,,
 1045,VMTP: Versatile Message Transaction Protocol: Protocol specification,D.R. Cheriton,February 1988,EXPERIMENTAL,Legacy,,
-1060,Assigned numbers,"J.K. Reynolds, J. Postel",March 1990,HISTORIC,Legacy,,
-1068,Background File Transfer Program (BFTP),"A.L. DeSchon, R.T. Braden",August 1988,UNKNOWN,Legacy,,
+1060,Assigned numbers,"J. Postel,J.K. Reynolds",March 1990,HISTORIC,Legacy,,
+1068,Background File Transfer Program (BFTP),"A.L. DeSchon,R.T. Braden",August 1988,UNKNOWN,Legacy,,
 1077,Critical issues in high bandwidth networking,B.M. Leiner,November 1988,UNKNOWN,Legacy,,
-1095,Common Management Information Services and Protocol over TCP/IP (CMOT),"U.S. Warrier, L. Besaw",April 1989,UNKNOWN,Legacy,,
+1095,Common Management Information Services and Protocol over TCP/IP (CMOT),"L. Besaw,U.S. Warrier",April 1989,UNKNOWN,Legacy,,
 1102,Policy routing in Internet protocols,D.D. Clark,May 1989,UNKNOWN,Legacy,,
 1104,Models of policy based routing,H.W. Braun,June 1989,UNKNOWN,Legacy,,
 1107,Plan for Internet directory services,K.R. Sollins,July 1989,INFORMATIONAL,Legacy,,
-1114,Privacy enhancement for Internet electronic mail: Part II - certificate-based key management,"S.T. Kent, J. Linn",August 1989,HISTORIC,Legacy,,
+1114,Privacy enhancement for Internet electronic mail: Part II - certificate-based key management,"J. Linn,S.T. Kent",August 1989,HISTORIC,Legacy,,
 1125,Policy requirements for inter Administrative Domain routing,D. Estrin,November 1989,UNKNOWN,Legacy,,
 1126,Goals and functional requirements for inter-autonomous system routing,M. Little,October 1989,UNKNOWN,Legacy,,
 1135,Helminthiasis of the Internet,J.K. Reynolds,December 1989,INFORMATIONAL,Legacy,,
 1147,FYI on a Network Management Tool Catalog: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices,R.H. Stine,April 1990,INFORMATIONAL,IETF,,noctools
 1167,Thoughts on the National Research and Education Network,V.G. Cerf,July 1990,INFORMATIONAL,Legacy,,
-1168,Intermail and Commercial Mail Relay services,"A. Westine, A.L. DeSchon, J. Postel, C.E. Ward",July 1990,INFORMATIONAL,Legacy,,
-1175,FYI on where to start: A bibliography of internetworking information,"K.L. Bowers, T.L. LaQuey, J.K. Reynolds, K. Roubicek, M.K. Stahl, A. Yuan",August 1990,INFORMATIONAL,IETF,,userdoc
-1180,TCP/IP tutorial,"T.J. Socolofsky, C.J. Kale",January 1991,INFORMATIONAL,Legacy,,
+1168,Intermail and Commercial Mail Relay services,"A. Westine,A.L. DeSchon,C.E. Ward,J. Postel",July 1990,INFORMATIONAL,Legacy,,
+1175,FYI on where to start: A bibliography of internetworking information,"A. Yuan,J.K. Reynolds,K. Roubicek,K.L. Bowers,M.K. Stahl,T.L. LaQuey",August 1990,INFORMATIONAL,IETF,,userdoc
+1180,TCP/IP tutorial,"C.J. Kale,T.J. Socolofsky",January 1991,INFORMATIONAL,Legacy,,
 1190,Experimental Internet Stream Protocol: Version 2 (ST-II),C. Topolcic,October 1990,EXPERIMENTAL,IETF,int,cip
 1192,Commercialization of the Internet summary report,B. Kahin,November 1990,INFORMATIONAL,Legacy,,
-1244,Site Security Handbook,"J.P. Holbrook, J.K. Reynolds",July 1991,INFORMATIONAL,Legacy,,
+1244,Site Security Handbook,"J.K. Reynolds,J.P. Holbrook",July 1991,INFORMATIONAL,Legacy,,
 1259,Building the open road: The NREN as test-bed for the national public network,M. Kapor,September 1991,INFORMATIONAL,Legacy,,
-1272,Internet Accounting: Background,"C. Mills, D. Hirsh, G.R. Ruth",November 1991,INFORMATIONAL,IETF,,acct
+1272,Internet Accounting: Background,"C. Mills,D. Hirsh,G.R. Ruth",November 1991,INFORMATIONAL,IETF,,acct
 1280,IAB Official Protocol Standards,J. Postel,March 1992,HISTORIC,Legacy,,
-1281,Guidelines for the Secure Operation of the Internet,"R. Pethia, S. Crocker, B. Fraser",November 1991,INFORMATIONAL,IETF,sec,spwg
-1287,Towards the Future Internet Architecture,"D. Clark, L. Chapin, V. Cerf, R. Braden, R. Hobby",December 1991,INFORMATIONAL,Legacy,,
+1281,Guidelines for the Secure Operation of the Internet,"B. Fraser,R. Pethia,S. Crocker",November 1991,INFORMATIONAL,IETF,sec,spwg
+1287,Towards the Future Internet Architecture,"D. Clark,L. Chapin,R. Braden,R. Hobby,V. Cerf",December 1991,INFORMATIONAL,Legacy,,
 1299,Summary of 1200-1299,M. Kennedy,January 1997,INFORMATIONAL,Legacy,,
-1306,Experiences Supporting By-Request Circuit-Switched T3 Networks,"A. Nicholson, J. Young",March 1992,INFORMATIONAL,Legacy,,
-1322,A Unified Approach to Inter-Domain Routing,"D. Estrin, Y. Rekhter, S. Hotz",May 1992,INFORMATIONAL,IETF,rtg,bgp
+1306,Experiences Supporting By-Request Circuit-Switched T3 Networks,"A. Nicholson,J. Young",March 1992,INFORMATIONAL,Legacy,,
+1322,A Unified Approach to Inter-Domain Routing,"D. Estrin,S. Hotz,Y. Rekhter",May 1992,INFORMATIONAL,IETF,rtg,bgp
 1331,The Point-to-Point Protocol (PPP) for the Transmission of Multi-protocol Datagrams over Point-to-Point Links,W. Simpson,May 1992,PROPOSED STANDARD,IETF,int,pppext
-1340,Assigned Numbers,"J. Reynolds, J. Postel",July 1992,HISTORIC,Legacy,,
+1340,Assigned Numbers,"J. Postel,J. Reynolds",July 1992,HISTORIC,Legacy,,
 1346,"Resource Allocation, Control, and Accounting for the Use of Network Resources",P. Jones,June 1992,INFORMATIONAL,Legacy,,
-1356,Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode,"A. Malis, D. Robinson, R. Ullmann",August 1992,DRAFT STANDARD,IETF,int,iplpdn
+1356,Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode,"A. Malis,D. Robinson,R. Ullmann",August 1992,DRAFT STANDARD,IETF,int,iplpdn
 1360,IAB Official Protocol Standards,J. Postel,September 1992,HISTORIC,Legacy,,
-1374,IP and ARP on HIPPI,"J. Renwick, A. Nicholson",October 1992,PROPOSED STANDARD,Legacy,,
-1380,IESG Deliberations on Routing and Addressing,"P. Gross, P. Almquist",November 1992,INFORMATIONAL,IETF,,IESG
+1374,IP and ARP on HIPPI,"A. Nicholson,J. Renwick",October 1992,PROPOSED STANDARD,Legacy,,
+1380,IESG Deliberations on Routing and Addressing,"P. Almquist,P. Gross",November 1992,INFORMATIONAL,IETF,,IESG
 1391,The Tao of the IETF: A Guide for New Attendees of the Internet Engineering Task Force,G. Malkin,January 1993,INFORMATIONAL,Legacy,,
 1399,Summary of 1300-1399,J. Elliott,January 1997,INFORMATIONAL,Legacy,,
 1454,Comparison of Proposals for Next Version of IP,T. Dixon,May 1993,INFORMATIONAL,Legacy,,
 1466,Guidelines for Management of IP Address Space,E. Gerich,May 1993,INFORMATIONAL,Legacy,,
-1470,FYI on a Network Management Tool Catalog: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices,"R. Enger, J. Reynolds",June 1993,INFORMATIONAL,IETF,,noctool2
+1470,FYI on a Network Management Tool Catalog: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices,"J. Reynolds,R. Enger",June 1993,INFORMATIONAL,IETF,,noctool2
 1478,An Architecture for Inter-Domain Policy Routing,M. Steenstrup,June 1993,HISTORIC,IETF,rtg,idpr
-1486,An Experiment in Remote Printing,"M. Rose, C. Malamud",July 1993,EXPERIMENTAL,Legacy,,
+1486,An Experiment in Remote Printing,"C. Malamud,M. Rose",July 1993,EXPERIMENTAL,Legacy,,
 1498,On the Naming and Binding of Network Destinations,J. Saltzer,August 1993,INFORMATIONAL,Legacy,,
-1510,The Kerberos Network Authentication Service (V5),"J. Kohl, C. Neuman",September 1993,HISTORIC,IETF,sec,cat
-1528,Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Technical Procedures,"C. Malamud, M. Rose",October 1993,EXPERIMENTAL,Legacy,,
+1510,The Kerberos Network Authentication Service (V5),"C. Neuman,J. Kohl",September 1993,HISTORIC,IETF,sec,cat
+1528,Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Technical Procedures,"C. Malamud,M. Rose",October 1993,EXPERIMENTAL,Legacy,,
 1539,The Tao of IETF - A Guide for New Attendees of the Internet Engineering Task Force,G. Malkin,October 1993,INFORMATIONAL,Legacy,,
 1545,FTP Operation Over Big Address Records (FOOBAR),D. Piscitello,November 1993,EXPERIMENTAL,Legacy,,
 1549,PPP in HDLC Framing,W. Simpson,December 1993,DRAFT STANDARD,IETF,int,pppext
-1550,IP: Next Generation (IPng) White Paper Solicitation,"S. Bradner, A. Mankin",December 1993,INFORMATIONAL,Legacy,,
+1550,IP: Next Generation (IPng) White Paper Solicitation,"A. Mankin,S. Bradner",December 1993,INFORMATIONAL,Legacy,,
 1596,Definitions of Managed Objects for Frame Relay Service,T. Brown,March 1994,PROPOSED STANDARD,IETF,int,frnetmib
 1604,Definitions of Managed Objects for Frame Relay Service,T. Brown,March 1994,PROPOSED STANDARD,Legacy,,
-1616,X.400(1988) for the Academic and Research Community in Europe,"RARE WG-MSG Task Force 88, E. Huizer, J. Romaguera",May 1994,INFORMATIONAL,Legacy,,
-1633,Integrated Services in the Internet Architecture: an Overview,"R. Braden, D. Clark, S. Shenker",June 1994,INFORMATIONAL,Legacy,,
-1636,"Report of IAB Workshop on Security in the Internet Architecture - February 8-10, 1994","R. Braden, D. Clark, S. Crocker, C. Huitema",June 1994,INFORMATIONAL,Legacy,,
+1616,X.400(1988) for the Academic and Research Community in Europe,"E. Huizer,J. Romaguera,RARE WG-MSG Task Force 88",May 1994,INFORMATIONAL,Legacy,,
+1633,Integrated Services in the Internet Architecture: an Overview,"D. Clark,R. Braden,S. Shenker",June 1994,INFORMATIONAL,Legacy,,
+1636,"Report of IAB Workshop on Security in the Internet Architecture - February 8-10, 1994","C. Huitema,D. Clark,R. Braden,S. Crocker",June 1994,INFORMATIONAL,Legacy,,
 1639,FTP Operation Over Big Address Records (FOOBAR),D. Piscitello,June 1994,EXPERIMENTAL,Legacy,,
-1649,Operational Requirements for X.400 Management Domains in the GO-MHS Community,"R. Hagens, A. Hansen",July 1994,INFORMATIONAL,IETF,app,x400ops
+1649,Operational Requirements for X.400 Management Domains in the GO-MHS Community,"A. Hansen,R. Hagens",July 1994,INFORMATIONAL,IETF,app,x400ops
 1662,PPP in HDLC-like Framing,W. Simpson,July 1994,INTERNET STANDARD,IETF,int,pppext
 1671,IPng White Paper on Transition and Other Considerations,B. Carpenter,August 1994,INFORMATIONAL,Legacy,,
 1672,Accounting Requirements for IPng,N. Brownlee,August 1994,INFORMATIONAL,Legacy,,
 1674,A Cellular Industry View of IPng,M. Taylor,August 1994,INFORMATIONAL,Legacy,,
 1675,Security Concerns for IPng,S. Bellovin,August 1994,INFORMATIONAL,Legacy,,
-1678,IPng Requirements of Large Corporate Networks,"E. Britton, J. Tavs",August 1994,INFORMATIONAL,Legacy,,
+1678,IPng Requirements of Large Corporate Networks,"E. Britton,J. Tavs",August 1994,INFORMATIONAL,Legacy,,
 1681,On Many Addresses per Host,S. Bellovin,August 1994,INFORMATIONAL,Legacy,,
 1686,IPng Requirements: A Cable Television Industry Viewpoint,M. Vecchi,August 1994,INFORMATIONAL,Legacy,,
 1688,IPng Mobility Considerations,W. Simpson,August 1994,INFORMATIONAL,Legacy,,
 1689,A Status Report on Networked Information Retrieval: Tools and Groups,J. Foster,August 1994,INFORMATIONAL,IETF,,nir
 1699,Summary of 1600-1699,J. Elliott,January 1997,INFORMATIONAL,Legacy,,
-1700,Assigned Numbers,"J. Reynolds, J. Postel",October 1994,HISTORIC,Legacy,,
+1700,Assigned Numbers,"J. Postel,J. Reynolds",October 1994,HISTORIC,Legacy,,
 1713,Tools for DNS debugging,A. Romao,November 1994,INFORMATIONAL,Legacy,,
-1716,Towards Requirements for IP Routers,"P. Almquist, F. Kastenholz",November 1994,INFORMATIONAL,IETF,rtg,rreq
-1718,The Tao of IETF - A Guide for New Attendees of the Internet Engineering Task Force,"IETF Secretariat, G. Malkin",November 1994,INFORMATIONAL,Legacy,,
+1716,Towards Requirements for IP Routers,"F. Kastenholz,P. Almquist",November 1994,INFORMATIONAL,IETF,rtg,rreq
+1718,The Tao of IETF - A Guide for New Attendees of the Internet Engineering Task Force,"G. Malkin,IETF Secretariat",November 1994,INFORMATIONAL,Legacy,,
 1720,Internet Official Protocol Standards,J. Postel,November 1994,HISTORIC,Legacy,,
-1726,Technical Criteria for Choosing IP The Next Generation (IPng),"C. Partridge, F. Kastenholz",December 1994,INFORMATIONAL,Legacy,,
-1742,AppleTalk Management Information Base II,"S. Waldbusser, K. Frisa",January 1995,HISTORIC,IETF,int,appleip
-1752,The Recommendation for the IP Next Generation Protocol,"S. Bradner, A. Mankin",January 1995,PROPOSED STANDARD,Legacy,,
+1726,Technical Criteria for Choosing IP The Next Generation (IPng),"C. Partridge,F. Kastenholz",December 1994,INFORMATIONAL,Legacy,,
+1742,AppleTalk Management Information Base II,"K. Frisa,S. Waldbusser",January 1995,HISTORIC,IETF,int,appleip
+1752,The Recommendation for the IP Next Generation Protocol,"A. Mankin,S. Bradner",January 1995,PROPOSED STANDARD,Legacy,,
 1753,IPng Technical Requirements Of the Nimrod Routing and Addressing Architecture,N. Chiappa,December 1994,INFORMATIONAL,Legacy,,
 1758,NADF Standing Documents: A Brief Overview,The North American Directory Forum,February 1995,INFORMATIONAL,Legacy,,
 1789,INETPhone: Telephone Services and Servers on Internet,C. Yang,April 1995,INFORMATIONAL,Legacy,,
 1812,Requirements for IP Version 4 Routers,F. Baker,June 1995,PROPOSED STANDARD,IETF,rtg,rreq
 1820,Multimedia E-mail (MIME) User Agent Checklist,E. Huizer,August 1995,INFORMATIONAL,Legacy,,
 1844,Multimedia E-mail (MIME) User Agent Checklist,E. Huizer,August 1995,INFORMATIONAL,IETF,app,mailext
-1862,"Report of the IAB Workshop on Internet Information Infrastructure, October 12-14, 1994","M. McCahill, J. Romkey, M. Schwartz, K. Sollins, T. Verschuren, C. Weider",November 1995,INFORMATIONAL,Legacy,,
+1862,"Report of the IAB Workshop on Internet Information Infrastructure, October 12-14, 1994","C. Weider,J. Romkey,K. Sollins,M. McCahill,M. Schwartz,T. Verschuren",November 1995,INFORMATIONAL,Legacy,,
 1927,Suggested Additional MIME Types for Associating Documents,C. Rogers,1 April 1996,INFORMATIONAL,Legacy,,
-1935,"What is the Internet, Anyway?","J. Quarterman, S. Carl-Mitchell",April 1996,INFORMATIONAL,Legacy,,
+1935,"What is the Internet, Anyway?","J. Quarterman,S. Carl-Mitchell",April 1996,INFORMATIONAL,Legacy,,
 1946,Native ATM Support for ST2+,S. Jackowski,May 1996,INFORMATIONAL,Legacy,,
-1987,Ipsilon\'s General Switch Management Protocol Specification Version 1.1,"P. Newman, W. Edwards, R. Hinden, E. Hoffman, F. Ching Liaw, T. Lyon, G. Minshall",August 1996,INFORMATIONAL,Legacy,,
+1987,Ipsilon\'s General Switch Management Protocol Specification Version 1.1,"E. Hoffman,F. Ching Liaw,G. Minshall,P. Newman,R. Hinden,T. Lyon,W. Edwards",August 1996,INFORMATIONAL,Legacy,,
 2000,Internet Official Protocol Standards,J. Postel,February 1997,HISTORIC,Legacy,,
 2002,IP Mobility Support,C. Perkins,October 1996,PROPOSED STANDARD,IETF,int,mobileip
-2050,Internet Registry IP Allocation Guidelines,"K. Hubbard, M. Kosters, D. Conrad, D. Karrenberg, J. Postel",November 1996,HISTORIC,Legacy,,
-2058,Remote Authentication Dial In User Service (RADIUS),"C. Rigney, A. Rubens, W. Simpson, S. Willens",January 1997,PROPOSED STANDARD,IETF,ops,nasreq
+2050,Internet Registry IP Allocation Guidelines,"D. Conrad,D. Karrenberg,J. Postel,K. Hubbard,M. Kosters",November 1996,HISTORIC,Legacy,,
+2058,Remote Authentication Dial In User Service (RADIUS),"A. Rubens,C. Rigney,S. Willens,W. Simpson",January 1997,PROPOSED STANDARD,IETF,ops,nasreq
 2059,RADIUS Accounting,C. Rigney,January 1997,INFORMATIONAL,IETF,ops,radius
-2063,Traffic Flow Measurement:  Architecture,"N. Brownlee, C. Mills, G. Ruth",January 1997,EXPERIMENTAL,IETF,tsv,rtfm
+2063,Traffic Flow Measurement:  Architecture,"C. Mills,G. Ruth,N. Brownlee",January 1997,EXPERIMENTAL,IETF,tsv,rtfm
 2064,Traffic Flow Measurement:  Meter MIB,N. Brownlee,January 1997,EXPERIMENTAL,IETF,tsv,rtfm
 2067,IP over HIPPI,J. Renwick,January 1997,DRAFT STANDARD,Legacy,,
 2072,Router Renumbering Guide,H. Berkowitz,January 1997,INFORMATIONAL,IETF,ops,pier
-2093,Group Key Management Protocol (GKMP) Specification,"H. Harney, C. Muckenhirn",July 1997,EXPERIMENTAL,Legacy,,
-2094,Group Key Management Protocol (GKMP) Architecture,"H. Harney, C. Muckenhirn",July 1997,EXPERIMENTAL,Legacy,,
+2093,Group Key Management Protocol (GKMP) Specification,"C. Muckenhirn,H. Harney",July 1997,EXPERIMENTAL,Legacy,,
+2094,Group Key Management Protocol (GKMP) Architecture,"C. Muckenhirn,H. Harney",July 1997,EXPERIMENTAL,Legacy,,
 2099,Request for Comments Summary RFC Numbers 2000-2099,J. Elliott,March 1997,INFORMATIONAL,Legacy,,
-2116,X.500 Implementations Catalog-96,"C. Apple, K. Rossen",April 1997,INFORMATIONAL,IETF,app,ids
+2116,X.500 Implementations Catalog-96,"C. Apple,K. Rossen",April 1997,INFORMATIONAL,IETF,app,ids
 2123,Traffic Flow Measurement: Experiences with NeTraMet,N. Brownlee,March 1997,INFORMATIONAL,IETF,tsv,rtfm
-2124,Cabletron\'s Light-weight Flow Admission Protocol Specification Version 1.0,"P. Amsden, J. Amweg, P. Calato, S. Bensley, G. Lyons",March 1997,INFORMATIONAL,Legacy,,
-2138,Remote Authentication Dial In User Service (RADIUS),"C. Rigney, A. Rubens, W. Simpson, S. Willens",April 1997,PROPOSED STANDARD,IETF,ops,radius
+2124,Cabletron\'s Light-weight Flow Admission Protocol Specification Version 1.0,"G. Lyons,J. Amweg,P. Amsden,P. Calato,S. Bensley",March 1997,INFORMATIONAL,Legacy,,
+2138,Remote Authentication Dial In User Service (RADIUS),"A. Rubens,C. Rigney,S. Willens,W. Simpson",April 1997,PROPOSED STANDARD,IETF,ops,radius
 2139,RADIUS Accounting,C. Rigney,April 1997,INFORMATIONAL,Legacy,,
-2150,Humanities and Arts: Sharing Center Stage on the Internet,"J. Max, W. Stickle",October 1997,INFORMATIONAL,IETF,,harts
-2165,Service Location Protocol,"J. Veizades, E. Guttman, C. Perkins, S. Kaplan",June 1997,PROPOSED STANDARD,IETF,int,svrloc
-2194,Review of Roaming Implementations,"B. Aboba, J. Lu, J. Alsop, J. Ding, W. Wang",September 1997,INFORMATIONAL,IETF,ops,roamops
+2150,Humanities and Arts: Sharing Center Stage on the Internet,"J. Max,W. Stickle",October 1997,INFORMATIONAL,IETF,,harts
+2165,Service Location Protocol,"C. Perkins,E. Guttman,J. Veizades,S. Kaplan",June 1997,PROPOSED STANDARD,IETF,int,svrloc
+2194,Review of Roaming Implementations,"B. Aboba,J. Alsop,J. Ding,J. Lu,W. Wang",September 1997,INFORMATIONAL,IETF,ops,roamops
 2196,Site Security Handbook,B. Fraser,September 1997,INFORMATIONAL,IETF,,ssh
 2199,Request for Comments Summary RFC Numbers 2100-2199,A. Ramos,January 1998,INFORMATIONAL,Legacy,,
 2200,Internet Official Protocol Standards,J. Postel,June 1997,HISTORIC,Legacy,,
-2205,Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification,"R. Braden, L. Zhang, S. Berson, S. Herzog, S. Jamin",September 1997,PROPOSED STANDARD,IETF,tsv,rsvp
-2208,Resource ReSerVation Protocol (RSVP) -- Version 1 Applicability Statement Some Guidelines on Deployment,"A. Mankin, F. Baker, B. Braden, S. Bradner, M. O\'Dell, A. Romanow, A. Weinrib, L. Zhang",September 1997,INFORMATIONAL,IETF,tsv,rsvp
+2205,Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification,"L. Zhang,R. Braden,S. Berson,S. Herzog,S. Jamin",September 1997,PROPOSED STANDARD,IETF,tsv,rsvp
+2208,Resource ReSerVation Protocol (RSVP) -- Version 1 Applicability Statement Some Guidelines on Deployment,"A. Mankin,A. Romanow,A. Weinrib,B. Braden,F. Baker,L. Zhang,M. O\'Dell,S. Bradner",September 1997,INFORMATIONAL,IETF,tsv,rsvp
 2210,The Use of RSVP with IETF Integrated Services,J. Wroclawski,September 1997,PROPOSED STANDARD,IETF,tsv,intserv
 2211,Specification of the Controlled-Load Network Element Service,J. Wroclawski,September 1997,PROPOSED STANDARD,IETF,tsv,intserv
-2212,Specification of Guaranteed Quality of Service,"S. Shenker, C. Partridge, R. Guerin",September 1997,PROPOSED STANDARD,IETF,tsv,intserv
-2249,Mail Monitoring MIB,"N. Freed, S. Kille",January 1998,PROPOSED STANDARD,IETF,app,madman
-2297,Ipsilon\'s General Switch Management Protocol Specification Version 2.0,"P. Newman, W. Edwards, R. Hinden, E. Hoffman, F. Ching Liaw, T. Lyon, G. Minshall",March 1998,INFORMATIONAL,Legacy,,
-2341,"Cisco Layer Two Forwarding (Protocol) ""L2F""","A. Valencia, M. Littlewood, T. Kolar",May 1998,HISTORIC,Legacy,,
-2378,The CCSO Nameserver (Ph) Architecture,"R. Hedberg, P. Pomes",September 1998,INFORMATIONAL,IETF,app,ids
-2382,A Framework for Integrated Services and RSVP over ATM,"E. Crawley, L. Berger, S. Berson, F. Baker, M. Borden, J. Krawczyk",August 1998,INFORMATIONAL,IETF,tsv,issll
-2400,Internet Official Protocol Standards,"J. Postel, J. Reynolds",September 1998,HISTORIC,Legacy,,
-2430,A Provider Architecture for Differentiated Services and Traffic Engineering (PASTE),"T. Li, Y. Rekhter",October 1998,INFORMATIONAL,Legacy,,
-2456,Definitions of Managed Objects for APPN TRAPS,"B. Clouston, B. Moore",November 1998,PROPOSED STANDARD,IETF,rtg,snanau
-2475,An Architecture for Differentiated Services,"S. Blake, D. Black, M. Carlson, E. Davies, Z. Wang, W. Weiss",December 1998,INFORMATIONAL,IETF,tsv,diffserv
-2477,Criteria for Evaluating Roaming Protocols,"B. Aboba, G. Zorn",January 1999,INFORMATIONAL,IETF,ops,roamops
-2486,The Network Access Identifier,"B. Aboba, M. Beadles",January 1999,PROPOSED STANDARD,IETF,ops,roamops
-2500,Internet Official Protocol Standards,"J. Reynolds, R. Braden",June 1999,HISTORIC,Legacy,,
-2501,Mobile Ad hoc Networking (MANET): Routing Protocol Performance Issues and Evaluation Considerations,"S. Corson, J. Macker",January 1999,INFORMATIONAL,IETF,rtg,manet
-2504,Users\' Security Handbook,"E. Guttman, L. Leong, G. Malkin",February 1999,INFORMATIONAL,IETF,,ssh
-2512,Accounting Information for ATM Networks,"K. McCloghrie, J. Heinanen, W. Greene, A. Prasad",February 1999,PROPOSED STANDARD,IETF,ops,atommib
-2513,Managed Objects for Controlling the Collection and Storage of Accounting Information for Connection-Oriented Networks,"K. McCloghrie, J. Heinanen, W. Greene, A. Prasad",February 1999,PROPOSED STANDARD,IETF,ops,atommib
-2527,Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework,"S. Chokhani, W. Ford",March 1999,INFORMATIONAL,IETF,sec,pkix
+2212,Specification of Guaranteed Quality of Service,"C. Partridge,R. Guerin,S. Shenker",September 1997,PROPOSED STANDARD,IETF,tsv,intserv
+2249,Mail Monitoring MIB,"N. Freed,S. Kille",January 1998,PROPOSED STANDARD,IETF,app,madman
+2297,Ipsilon\'s General Switch Management Protocol Specification Version 2.0,"E. Hoffman,F. Ching Liaw,G. Minshall,P. Newman,R. Hinden,T. Lyon,W. Edwards",March 1998,INFORMATIONAL,Legacy,,
+2341,"Cisco Layer Two Forwarding (Protocol) ""L2F""","A. Valencia,M. Littlewood,T. Kolar",May 1998,HISTORIC,Legacy,,
+2378,The CCSO Nameserver (Ph) Architecture,"P. Pomes,R. Hedberg",September 1998,INFORMATIONAL,IETF,app,ids
+2382,A Framework for Integrated Services and RSVP over ATM,"E. Crawley,F. Baker,J. Krawczyk,L. Berger,M. Borden,S. Berson",August 1998,INFORMATIONAL,IETF,tsv,issll
+2400,Internet Official Protocol Standards,"J. Postel,J. Reynolds",September 1998,HISTORIC,Legacy,,
+2430,A Provider Architecture for Differentiated Services and Traffic Engineering (PASTE),"T. Li,Y. Rekhter",October 1998,INFORMATIONAL,Legacy,,
+2456,Definitions of Managed Objects for APPN TRAPS,"B. Clouston,B. Moore",November 1998,PROPOSED STANDARD,IETF,rtg,snanau
+2475,An Architecture for Differentiated Services,"D. Black,E. Davies,M. Carlson,S. Blake,W. Weiss,Z. Wang",December 1998,INFORMATIONAL,IETF,tsv,diffserv
+2477,Criteria for Evaluating Roaming Protocols,"B. Aboba,G. Zorn",January 1999,INFORMATIONAL,IETF,ops,roamops
+2486,The Network Access Identifier,"B. Aboba,M. Beadles",January 1999,PROPOSED STANDARD,IETF,ops,roamops
+2500,Internet Official Protocol Standards,"J. Reynolds,R. Braden",June 1999,HISTORIC,Legacy,,
+2501,Mobile Ad hoc Networking (MANET): Routing Protocol Performance Issues and Evaluation Considerations,"J. Macker,S. Corson",January 1999,INFORMATIONAL,IETF,rtg,manet
+2504,Users\' Security Handbook,"E. Guttman,G. Malkin,L. Leong",February 1999,INFORMATIONAL,IETF,,ssh
+2512,Accounting Information for ATM Networks,"A. Prasad,J. Heinanen,K. McCloghrie,W. Greene",February 1999,PROPOSED STANDARD,IETF,ops,atommib
+2513,Managed Objects for Controlling the Collection and Storage of Accounting Information for Connection-Oriented Networks,"A. Prasad,J. Heinanen,K. McCloghrie,W. Greene",February 1999,PROPOSED STANDARD,IETF,ops,atommib
+2527,Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework,"S. Chokhani,W. Ford",March 1999,INFORMATIONAL,IETF,sec,pkix
 2548,Microsoft Vendor-specific RADIUS Attributes,G. Zorn,March 1999,INFORMATIONAL,IETF,ops,radius
-2566,Internet Printing Protocol/1.0: Model and Semantics,"R. deBry, T. Hastings, R. Herriot, S. Isaacson, P. Powell",April 1999,EXPERIMENTAL,IETF,app,ipp
+2566,Internet Printing Protocol/1.0: Model and Semantics,"P. Powell,R. Herriot,R. deBry,S. Isaacson,T. Hastings",April 1999,EXPERIMENTAL,IETF,app,ipp
 2567,Design Goals for an Internet Printing Protocol,F. Wright,April 1999,EXPERIMENTAL,IETF,app,ipp
 2588,IP Multicast and Firewalls,R. Finlayson,May 1999,INFORMATIONAL,IETF,ops,mboned
-2594,Definitions of Managed Objects for WWW Services,"H. Hazewinkel, C. Kalbfleisch, J. Schoenwaelder",May 1999,PROPOSED STANDARD,IETF,app,applmib
+2594,Definitions of Managed Objects for WWW Services,"C. Kalbfleisch,H. Hazewinkel,J. Schoenwaelder",May 1999,PROPOSED STANDARD,IETF,app,applmib
 2599,Request for Comments Summary RFC Numbers 2500-2599,A. DeLaCruz,March 2000,INFORMATIONAL,Legacy,,
-2600,Internet Official Protocol Standards,"J. Reynolds, R. Braden",March 2000,HISTORIC,Legacy,,
-2607,Proxy Chaining and Policy Implementation in Roaming,"B. Aboba, J. Vollbrecht",June 1999,INFORMATIONAL,IETF,ops,roamops
-2620,RADIUS Accounting Client MIB,"B. Aboba, G. Zorn",June 1999,INFORMATIONAL,IETF,ops,radius
-2621,RADIUS Accounting Server MIB,"G. Zorn, B. Aboba",June 1999,INFORMATIONAL,IETF,ops,radius
+2600,Internet Official Protocol Standards,"J. Reynolds,R. Braden",March 2000,HISTORIC,Legacy,,
+2607,Proxy Chaining and Policy Implementation in Roaming,"B. Aboba,J. Vollbrecht",June 1999,INFORMATIONAL,IETF,ops,roamops
+2620,RADIUS Accounting Client MIB,"B. Aboba,G. Zorn",June 1999,INFORMATIONAL,IETF,ops,radius
+2621,RADIUS Accounting Server MIB,"B. Aboba,G. Zorn",June 1999,INFORMATIONAL,IETF,ops,radius
 2626,The Internet and the Millennium Problem (Year 2000),P. Nesser II,June 1999,INFORMATIONAL,IETF,ops,2000
-2635,DON\'T SPEW A Set of Guidelines for Mass Unsolicited Mailings and Postings (spam*),"S. Hambridge, A. Lunde",June 1999,INFORMATIONAL,IETF,,run
-2654,A Tagged Index Object for use in the Common Indexing Protocol,"R. Hedberg, B. Greenblatt, R. Moats, M. Wahl",August 1999,EXPERIMENTAL,IETF,app,find
-2661,"Layer Two Tunneling Protocol ""L2TP""","W. Townsley, A. Valencia, A. Rubens, G. Pall, G. Zorn, B. Palter",August 1999,PROPOSED STANDARD,IETF,int,pppext
-2676,QoS Routing Mechanisms and OSPF Extensions,"G. Apostolopoulos, S. Kama, D. Williams, R. Guerin, A. Orda, T. Przygienda",August 1999,EXPERIMENTAL,IETF,rtg,ospf
-2679,A One-way Delay Metric for IPPM,"G. Almes, S. Kalidindi, M. Zekauskas",September 1999,PROPOSED STANDARD,IETF,tsv,ippm
-2680,A One-way Packet Loss Metric for IPPM,"G. Almes, S. Kalidindi, M. Zekauskas",September 1999,PROPOSED STANDARD,IETF,tsv,ippm
-2681,A Round-trip Delay Metric for IPPM,"G. Almes, S. Kalidindi, M. Zekauskas",September 1999,PROPOSED STANDARD,IETF,tsv,ippm
+2635,DON\'T SPEW A Set of Guidelines for Mass Unsolicited Mailings and Postings (spam*),"A. Lunde,S. Hambridge",June 1999,INFORMATIONAL,IETF,,run
+2654,A Tagged Index Object for use in the Common Indexing Protocol,"B. Greenblatt,M. Wahl,R. Hedberg,R. Moats",August 1999,EXPERIMENTAL,IETF,app,find
+2661,"Layer Two Tunneling Protocol ""L2TP""","A. Rubens,A. Valencia,B. Palter,G. Pall,G. Zorn,W. Townsley",August 1999,PROPOSED STANDARD,IETF,int,pppext
+2676,QoS Routing Mechanisms and OSPF Extensions,"A. Orda,D. Williams,G. Apostolopoulos,R. Guerin,S. Kama,T. Przygienda",August 1999,EXPERIMENTAL,IETF,rtg,ospf
+2679,A One-way Delay Metric for IPPM,"G. Almes,M. Zekauskas,S. Kalidindi",September 1999,PROPOSED STANDARD,IETF,tsv,ippm
+2680,A One-way Packet Loss Metric for IPPM,"G. Almes,M. Zekauskas,S. Kalidindi",September 1999,PROPOSED STANDARD,IETF,tsv,ippm
+2681,A Round-trip Delay Metric for IPPM,"G. Almes,M. Zekauskas,S. Kalidindi",September 1999,PROPOSED STANDARD,IETF,tsv,ippm
 2699,Request for Comments Summary RFC Numbers 2600-2699,S. Ginoza,May 2000,INFORMATIONAL,Legacy,,
-2700,Internet Official Protocol Standards,"J. Reynolds, R. Braden",August 2000,HISTORIC,Legacy,,
-2702,Requirements for Traffic Engineering Over MPLS,"D. Awduche, J. Malcolm, J. Agogbua, M. O\'Dell, J. McManus",September 1999,INFORMATIONAL,IETF,rtg,mpls
-2705,Media Gateway Control Protocol (MGCP) Version 1.0,"M. Arango, A. Dugan, I. Elliott, C. Huitema, S. Pickett",October 1999,INFORMATIONAL,Legacy,,
-2707,Job Monitoring MIB - V1.0,"R. Bergman, T. Hastings, S. Isaacson, H. Lewis",November 1999,INFORMATIONAL,IETF,app,printmib
+2700,Internet Official Protocol Standards,"J. Reynolds,R. Braden",August 2000,HISTORIC,Legacy,,
+2702,Requirements for Traffic Engineering Over MPLS,"D. Awduche,J. Agogbua,J. Malcolm,J. McManus,M. O\'Dell",September 1999,INFORMATIONAL,IETF,rtg,mpls
+2705,Media Gateway Control Protocol (MGCP) Version 1.0,"A. Dugan,C. Huitema,I. Elliott,M. Arango,S. Pickett",October 1999,INFORMATIONAL,Legacy,,
+2707,Job Monitoring MIB - V1.0,"H. Lewis,R. Bergman,S. Isaacson,T. Hastings",November 1999,INFORMATIONAL,IETF,app,printmib
 2708,Job Submission Protocol Mapping Recommendations for the Job Monitoring MIB,R. Bergman,November 1999,INFORMATIONAL,IETF,app,printmib
 2720,Traffic Flow Measurement: Meter MIB,N. Brownlee,October 1999,PROPOSED STANDARD,IETF,tsv,rtfm
 2721,RTFM: Applicability Statement,N. Brownlee,October 1999,INFORMATIONAL,IETF,tsv,rtfm
-2722,Traffic Flow Measurement: Architecture,"N. Brownlee, C. Mills, G. Ruth",October 1999,INFORMATIONAL,IETF,tsv,rtfm
-2724,RTFM: New Attributes for Traffic Flow Measurement,"S. Handelman, S. Stibler, N. Brownlee, G. Ruth",October 1999,EXPERIMENTAL,IETF,tsv,rtfm
-2748,The COPS (Common Open Policy Service) Protocol,"D. Durham, J. Boyle, R. Cohen, S. Herzog, R. Rajan, A. Sastry",January 2000,PROPOSED STANDARD,IETF,ops,rap
+2722,Traffic Flow Measurement: Architecture,"C. Mills,G. Ruth,N. Brownlee",October 1999,INFORMATIONAL,IETF,tsv,rtfm
+2724,RTFM: New Attributes for Traffic Flow Measurement,"G. Ruth,N. Brownlee,S. Handelman,S. Stibler",October 1999,EXPERIMENTAL,IETF,tsv,rtfm
+2748,The COPS (Common Open Policy Service) Protocol,"A. Sastry,D. Durham,J. Boyle,R. Cohen,R. Rajan,S. Herzog",January 2000,PROPOSED STANDARD,IETF,ops,rap
 2750,RSVP Extensions for Policy Control,S. Herzog,January 2000,PROPOSED STANDARD,IETF,ops,rap
-2753,A Framework for Policy-based Admission Control,"R. Yavatkar, D. Pendarakis, R. Guerin",January 2000,INFORMATIONAL,IETF,ops,rap
-2764,A Framework for IP Based Virtual Private Networks,"B. Gleeson, A. Lin, J. Heinanen, G. Armitage, A. Malis",February 2000,INFORMATIONAL,Legacy,,
-2768,Network Policy and Services: A Report of a Workshop on Middleware,"B. Aiken, J. Strassner, B. Carpenter, I. Foster, C. Lynch, J. Mambretti, R. Moore, B. Teitelbaum",February 2000,INFORMATIONAL,Legacy,,
-2789,Mail Monitoring MIB,"N. Freed, S. Kille",March 2000,PROPOSED STANDARD,IETF,app,madman
+2753,A Framework for Policy-based Admission Control,"D. Pendarakis,R. Guerin,R. Yavatkar",January 2000,INFORMATIONAL,IETF,ops,rap
+2764,A Framework for IP Based Virtual Private Networks,"A. Lin,A. Malis,B. Gleeson,G. Armitage,J. Heinanen",February 2000,INFORMATIONAL,Legacy,,
+2768,Network Policy and Services: A Report of a Workshop on Middleware,"B. Aiken,B. Carpenter,B. Teitelbaum,C. Lynch,I. Foster,J. Mambretti,J. Strassner,R. Moore",February 2000,INFORMATIONAL,Legacy,,
+2789,Mail Monitoring MIB,"N. Freed,S. Kille",March 2000,PROPOSED STANDARD,IETF,app,madman
 2795,The Infinite Monkey Protocol Suite (IMPS),S. Christey,1 April 2000,INFORMATIONAL,Legacy,,
 2799,Request for Comments Summary RFC Numbers 2700-2799,S. Ginoza,September 2000,INFORMATIONAL,Legacy,,
-2800,Internet Official Protocol Standards,"J. Reynolds, R. Braden, S. Ginoza",May 2001,HISTORIC,Legacy,,
+2800,Internet Official Protocol Standards,"J. Reynolds,R. Braden,S. Ginoza",May 2001,HISTORIC,Legacy,,
 2801,Internet Open Trading Protocol - IOTP Version 1.0,D. Burdett,April 2000,INFORMATIONAL,IETF,app,trade
-2804,IETF Policy on Wiretapping,"IAB, IESG",May 2000,INFORMATIONAL,IAB,,
-2805,Media Gateway Control Protocol Architecture and Requirements,"N. Greene, M. Ramalho, B. Rosen",April 2000,INFORMATIONAL,IETF,rai,megaco
-2809,Implementation of L2TP Compulsory Tunneling via RADIUS,"B. Aboba, G. Zorn",April 2000,INFORMATIONAL,IETF,ops,radius
+2804,IETF Policy on Wiretapping,"IAB,IESG",May 2000,INFORMATIONAL,IAB,,
+2805,Media Gateway Control Protocol Architecture and Requirements,"B. Rosen,M. Ramalho,N. Greene",April 2000,INFORMATIONAL,IETF,rai,megaco
+2809,Implementation of L2TP Compulsory Tunneling via RADIUS,"B. Aboba,G. Zorn",April 2000,INFORMATIONAL,IETF,ops,radius
 2828,Internet Security Glossary,R. Shirey,May 2000,INFORMATIONAL,Legacy,,
 2834,ARP and IP Broadcast over HIPPI-800,J.-M. Pittet,May 2000,PROPOSED STANDARD,IETF,,NON WORKING GROUP
 2835,IP and ARP over HIPPI-6400 (GSN),J.-M. Pittet,May 2000,PROPOSED STANDARD,Legacy,,
 2837,Definitions of Managed Objects for the Fabric Element in Fibre Channel Standard,K. Teow,May 2000,PROPOSED STANDARD,IETF,int,ipfc
-2848,The PINT Service Protocol: Extensions to SIP and SDP for IP Access to Telephone Call Services,"S. Petrack, L. Conroy",June 2000,PROPOSED STANDARD,IETF,tsv,pint
+2848,The PINT Service Protocol: Extensions to SIP and SDP for IP Access to Telephone Call Services,"L. Conroy,S. Petrack",June 2000,PROPOSED STANDARD,IETF,tsv,pint
 2849,The LDAP Data Interchange Format (LDIF) - Technical Specification,G. Good,June 2000,PROPOSED STANDARD,IETF,,NON WORKING GROUP
-2865,Remote Authentication Dial In User Service (RADIUS),"C. Rigney, S. Willens, A. Rubens, W. Simpson",June 2000,DRAFT STANDARD,IETF,ops,radius
+2865,Remote Authentication Dial In User Service (RADIUS),"A. Rubens,C. Rigney,S. Willens,W. Simpson",June 2000,DRAFT STANDARD,IETF,ops,radius
 2866,RADIUS Accounting,C. Rigney,June 2000,INFORMATIONAL,IETF,ops,radius
-2867,RADIUS Accounting Modifications for Tunnel Protocol Support,"G. Zorn, B. Aboba, D. Mitton",June 2000,INFORMATIONAL,IETF,ops,radius
-2868,RADIUS Attributes for Tunnel Protocol Support,"G. Zorn, D. Leifer, A. Rubens, J. Shriver, M. Holdrege, I. Goyret",June 2000,INFORMATIONAL,IETF,ops,radius
-2869,RADIUS Extensions,"C. Rigney, W. Willats, P. Calhoun",June 2000,INFORMATIONAL,IETF,ops,radius
-2881,Network Access Server Requirements Next Generation (NASREQNG) NAS Model,"D. Mitton, M. Beadles",July 2000,INFORMATIONAL,IETF,ops,nasreq
+2867,RADIUS Accounting Modifications for Tunnel Protocol Support,"B. Aboba,D. Mitton,G. Zorn",June 2000,INFORMATIONAL,IETF,ops,radius
+2868,RADIUS Attributes for Tunnel Protocol Support,"A. Rubens,D. Leifer,G. Zorn,I. Goyret,J. Shriver,M. Holdrege",June 2000,INFORMATIONAL,IETF,ops,radius
+2869,RADIUS Extensions,"C. Rigney,P. Calhoun,W. Willats",June 2000,INFORMATIONAL,IETF,ops,radius
+2881,Network Access Server Requirements Next Generation (NASREQNG) NAS Model,"D. Mitton,M. Beadles",July 2000,INFORMATIONAL,IETF,ops,nasreq
 2882,Network Access Servers Requirements: Extended RADIUS Practices,D. Mitton,July 2000,INFORMATIONAL,IETF,ops,nasreq
 2888,Secure Remote Access with L2TP,P. Srisuresh,August 2000,INFORMATIONAL,Legacy,,
-2896,Remote Network Monitoring MIB Protocol Identifier Macros,"A. Bierman, C. Bucci, R. Iddon",August 2000,INFORMATIONAL,IETF,ops,rmonmib
+2896,Remote Network Monitoring MIB Protocol Identifier Macros,"A. Bierman,C. Bucci,R. Iddon",August 2000,INFORMATIONAL,IETF,ops,rmonmib
 2899,Request for Comments Summary RFC Numbers 2800-2899,S. Ginoza,May 2001,INFORMATIONAL,Legacy,,
-2900,Internet Official Protocol Standards,"J. Reynolds, R. Braden, S. Ginoza",August 2001,HISTORIC,Legacy,,
-2903,Generic AAA Architecture,"C. de Laat, G. Gross, L. Gommans, J. Vollbrecht, D. Spence",August 2000,EXPERIMENTAL,Legacy,,
-2904,AAA Authorization Framework,"J. Vollbrecht, P. Calhoun, S. Farrell, L. Gommans, G. Gross, B. de Bruijn, C. de Laat, M. Holdrege, D. Spence",August 2000,INFORMATIONAL,Legacy,,
-2905,AAA Authorization Application Examples,"J. Vollbrecht, P. Calhoun, S. Farrell, L. Gommans, G. Gross, B. de Bruijn, C. de Laat, M. Holdrege, D. Spence",August 2000,INFORMATIONAL,Legacy,,
-2906,AAA Authorization Requirements,"S. Farrell, J. Vollbrecht, P. Calhoun, L. Gommans, G. Gross, B. de Bruijn, C. de Laat, M. Holdrege, D. Spence",August 2000,INFORMATIONAL,Legacy,,
-2911,Internet Printing Protocol/1.1: Model and Semantics,"T. Hastings, R. Herriot, R. deBry, S. Isaacson, P. Powell",September 2000,PROPOSED STANDARD,IETF,app,ipp
-2924,Accounting Attributes and Record Formats,"N. Brownlee, A. Blount",September 2000,INFORMATIONAL,IETF,ops,aaa
-2940,Definitions of Managed Objects for Common Open Policy Service (COPS) Protocol Clients,"A. Smith, D. Partain, J. Seligson",October 2000,PROPOSED STANDARD,IETF,ops,rap
-2954,Definitions of Managed Objects for Frame Relay Service,"K. Rehbehn, D. Fowler",October 2000,PROPOSED STANDARD,IETF,int,frnetmib
-2970,Architecture for Integrated Directory Services - Result from TISDAG,"L. Daigle, T. Eklof",October 2000,INFORMATIONAL,IETF,,NON WORKING GROUP
-2975,Introduction to Accounting Management,"B. Aboba, J. Arkko, D. Harrington",October 2000,INFORMATIONAL,IETF,ops,aaa
-2977,"Mobile IP Authentication, Authorization, and Accounting Requirements","S. Glass, T. Hiller, S. Jacobs, C. Perkins",October 2000,INFORMATIONAL,IETF,int,mobileip
-2989,Criteria for Evaluating AAA Protocols for Network Access,"B. Aboba, P. Calhoun, S. Glass, T. Hiller, P. McCann, H. Shiino, P. Walsh, G. Zorn, G. Dommety, C. Perkins, B. Patil, D. Mitton, S. Manning, M. Beadles, X. Chen, S. Sivalingham, A. Hameed, M. Munson, S. Jacobs, B. Lim, B. Hirschman, R. Hsu, H. Koo, M. Lipford, E. Campbell, Y. Xu, S. Baba, E. Jaques",November 2000,INFORMATIONAL,IETF,ops,aaa
+2900,Internet Official Protocol Standards,"J. Reynolds,R. Braden,S. Ginoza",August 2001,HISTORIC,Legacy,,
+2903,Generic AAA Architecture,"C. de Laat,D. Spence,G. Gross,J. Vollbrecht,L. Gommans",August 2000,EXPERIMENTAL,Legacy,,
+2904,AAA Authorization Framework,"B. de Bruijn,C. de Laat,D. Spence,G. Gross,J. Vollbrecht,L. Gommans,M. Holdrege,P. Calhoun,S. Farrell",August 2000,INFORMATIONAL,Legacy,,
+2905,AAA Authorization Application Examples,"B. de Bruijn,C. de Laat,D. Spence,G. Gross,J. Vollbrecht,L. Gommans,M. Holdrege,P. Calhoun,S. Farrell",August 2000,INFORMATIONAL,Legacy,,
+2906,AAA Authorization Requirements,"B. de Bruijn,C. de Laat,D. Spence,G. Gross,J. Vollbrecht,L. Gommans,M. Holdrege,P. Calhoun,S. Farrell",August 2000,INFORMATIONAL,Legacy,,
+2911,Internet Printing Protocol/1.1: Model and Semantics,"P. Powell,R. Herriot,R. deBry,S. Isaacson,T. Hastings",September 2000,PROPOSED STANDARD,IETF,app,ipp
+2924,Accounting Attributes and Record Formats,"A. Blount,N. Brownlee",September 2000,INFORMATIONAL,IETF,ops,aaa
+2940,Definitions of Managed Objects for Common Open Policy Service (COPS) Protocol Clients,"A. Smith,D. Partain,J. Seligson",October 2000,PROPOSED STANDARD,IETF,ops,rap
+2954,Definitions of Managed Objects for Frame Relay Service,"D. Fowler,K. Rehbehn",October 2000,PROPOSED STANDARD,IETF,int,frnetmib
+2970,Architecture for Integrated Directory Services - Result from TISDAG,"L. Daigle,T. Eklof",October 2000,INFORMATIONAL,IETF,,NON WORKING GROUP
+2975,Introduction to Accounting Management,"B. Aboba,D. Harrington,J. Arkko",October 2000,INFORMATIONAL,IETF,ops,aaa
+2977,"Mobile IP Authentication, Authorization, and Accounting Requirements","C. Perkins,S. Glass,S. Jacobs,T. Hiller",October 2000,INFORMATIONAL,IETF,int,mobileip
+2989,Criteria for Evaluating AAA Protocols for Network Access,"A. Hameed,B. Aboba,B. Hirschman,B. Lim,B. Patil,C. Perkins,D. Mitton,E. Campbell,E. Jaques,G. Dommety,G. Zorn,H. Koo,H. Shiino,M. Beadles,M. Lipford,M. Munson,P. Calhoun,P. McCann,P. Walsh,R. Hsu,S. Baba,S. Glass,S. Jacobs,S. Manning,S. Sivalingham,T. Hiller,X. Chen,Y. Xu",November 2000,INFORMATIONAL,IETF,ops,aaa
 2990,Next Steps for the IP QoS Architecture,G. Huston,November 2000,INFORMATIONAL,IAB,,
-2998,A Framework for Integrated Services Operation over Diffserv Networks,"Y. Bernet, P. Ford, R. Yavatkar, F. Baker, L. Zhang, M. Speer, R. Braden, B. Davie, J. Wroclawski, E. Felstaine",November 2000,INFORMATIONAL,IETF,tsv,issll
+2998,A Framework for Integrated Services Operation over Diffserv Networks,"B. Davie,E. Felstaine,F. Baker,J. Wroclawski,L. Zhang,M. Speer,P. Ford,R. Braden,R. Yavatkar,Y. Bernet",November 2000,INFORMATIONAL,IETF,tsv,issll
 2999,Request for Comments Summary RFC Numbers 2900-2999,S. Ginoza,August 2001,INFORMATIONAL,Legacy,,
-3000,Internet Official Protocol Standards,"J. Reynolds, R. Braden, S. Ginoza, L. Shiota",November 2001,HISTORIC,INDEPENDENT,,
+3000,Internet Official Protocol Standards,"J. Reynolds,L. Shiota,R. Braden,S. Ginoza",November 2001,HISTORIC,INDEPENDENT,,
 3002,Overview of 2000 IAB Wireless Internetworking Workshop,D. Mitzel,December 2000,INFORMATIONAL,Legacy,,
-3004,The User Class Option for DHCP,"G. Stump, R. Droms, Y. Gu, R. Vyaghrapuri, A. Demirtjis, B. Beser, J. Privat",November 2000,PROPOSED STANDARD,IETF,int,dhc
-3010,NFS version 4 Protocol,"S. Shepler, B. Callaghan, D. Robinson, R. Thurlow, C. Beame, M. Eisler, D. Noveck",December 2000,PROPOSED STANDARD,IETF,tsv,nfsv4
-3042,Enhancing TCP\'s Loss Recovery Using Limited Transmit,"M. Allman, H. Balakrishnan, S. Floyd",January 2001,PROPOSED STANDARD,IETF,tsv,tsvwg
-3053,IPv6 Tunnel Broker,"A. Durand, P. Fasano, I. Guardini, D. Lento",January 2001,INFORMATIONAL,IETF,ops,ngtrans
-3060,Policy Core Information Model -- Version 1 Specification,"B. Moore, E. Ellesson, J. Strassner, A. Westerinen",February 2001,PROPOSED STANDARD,IETF,ops,policy
+3004,The User Class Option for DHCP,"A. Demirtjis,B. Beser,G. Stump,J. Privat,R. Droms,R. Vyaghrapuri,Y. Gu",November 2000,PROPOSED STANDARD,IETF,int,dhc
+3010,NFS version 4 Protocol,"B. Callaghan,C. Beame,D. Noveck,D. Robinson,M. Eisler,R. Thurlow,S. Shepler",December 2000,PROPOSED STANDARD,IETF,tsv,nfsv4
+3042,Enhancing TCP\'s Loss Recovery Using Limited Transmit,"H. Balakrishnan,M. Allman,S. Floyd",January 2001,PROPOSED STANDARD,IETF,tsv,tsvwg
+3053,IPv6 Tunnel Broker,"A. Durand,D. Lento,I. Guardini,P. Fasano",January 2001,INFORMATIONAL,IETF,ops,ngtrans
+3060,Policy Core Information Model -- Version 1 Specification,"A. Westerinen,B. Moore,E. Ellesson,J. Strassner",February 2001,PROPOSED STANDARD,IETF,ops,policy
 3076,Canonical XML Version 1.0,J. Boyer,March 2001,INFORMATIONAL,IETF,sec,xmldsig
-3084,COPS Usage for Policy Provisioning (COPS-PR),"K. Chan, J. Seligson, D. Durham, S. Gai, K. McCloghrie, S. Herzog, F. Reichmeyer, R. Yavatkar, A. Smith",March 2001,HISTORIC,IETF,ops,rap
-3103,Realm Specific IP: Protocol Specification,"M. Borella, D. Grabelsky, J. Lo, K. Taniguchi",October 2001,EXPERIMENTAL,IETF,tsv,nat
-3127,"Authentication, Authorization, and Accounting: Protocol Evaluation","D. Mitton, M. St.Johns, S. Barkley, D. Nelson, B. Patil, M. Stevens, B. Wolff",June 2001,INFORMATIONAL,IETF,ops,aaa
-3141,CDMA2000 Wireless Data Requirements for AAA,"T. Hiller, P. Walsh, X. Chen, M. Munson, G. Dommety, S. Sivalingham, B. Lim, P. McCann, H. Shiino, B. Hirschman, S. Manning, R. Hsu, H. Koo, M. Lipford, P. Calhoun, C. Lo, E. Jaques, E. Campbell, Y. Xu, S. Baba, T. Ayaki, T. Seki, A. Hameed",June 2001,INFORMATIONAL,Legacy,,
-3145,L2TP Disconnect Cause Information,"R. Verma, M. Verma, J. Carlson",July 2001,PROPOSED STANDARD,IETF,int,l2tpext
-3162,RADIUS and IPv6,"B. Aboba, G. Zorn, D. Mitton",August 2001,PROPOSED STANDARD,Legacy,,
-3169,Criteria for Evaluating Network Access Server Protocols,"M. Beadles, D. Mitton",September 2001,INFORMATIONAL,IETF,ops,nasreq
-3170,IP Multicast Applications: Challenges and Solutions,"B. Quinn, K. Almeroth",September 2001,INFORMATIONAL,IETF,ops,mboned
-3198,Terminology for Policy-Based Management,"A. Westerinen, J. Schnizlein, J. Strassner, M. Scherling, B. Quinn, S. Herzog, A. Huynh, M. Carlson, J. Perry, S. Waldbusser",November 2001,INFORMATIONAL,IETF,ops,policy
+3084,COPS Usage for Policy Provisioning (COPS-PR),"A. Smith,D. Durham,F. Reichmeyer,J. Seligson,K. Chan,K. McCloghrie,R. Yavatkar,S. Gai,S. Herzog",March 2001,HISTORIC,IETF,ops,rap
+3103,Realm Specific IP: Protocol Specification,"D. Grabelsky,J. Lo,K. Taniguchi,M. Borella",October 2001,EXPERIMENTAL,IETF,tsv,nat
+3127,"Authentication, Authorization, and Accounting: Protocol Evaluation","B. Patil,B. Wolff,D. Mitton,D. Nelson,M. St.Johns,M. Stevens,S. Barkley",June 2001,INFORMATIONAL,IETF,ops,aaa
+3141,CDMA2000 Wireless Data Requirements for AAA,"A. Hameed,B. Hirschman,B. Lim,C. Lo,E. Campbell,E. Jaques,G. Dommety,H. Koo,H. Shiino,M. Lipford,M. Munson,P. Calhoun,P. McCann,P. Walsh,R. Hsu,S. Baba,S. Manning,S. Sivalingham,T. Ayaki,T. Hiller,T. Seki,X. Chen,Y. Xu",June 2001,INFORMATIONAL,Legacy,,
+3145,L2TP Disconnect Cause Information,"J. Carlson,M. Verma,R. Verma",July 2001,PROPOSED STANDARD,IETF,int,l2tpext
+3162,RADIUS and IPv6,"B. Aboba,D. Mitton,G. Zorn",August 2001,PROPOSED STANDARD,Legacy,,
+3169,Criteria for Evaluating Network Access Server Protocols,"D. Mitton,M. Beadles",September 2001,INFORMATIONAL,IETF,ops,nasreq
+3170,IP Multicast Applications: Challenges and Solutions,"B. Quinn,K. Almeroth",September 2001,INFORMATIONAL,IETF,ops,mboned
+3198,Terminology for Policy-Based Management,"A. Huynh,A. Westerinen,B. Quinn,J. Perry,J. Schnizlein,J. Strassner,M. Carlson,M. Scherling,S. Herzog,S. Waldbusser",November 2001,INFORMATIONAL,IETF,ops,policy
 3199,Request for Comments Summary RFC Numbers 3100-3199,S. Ginoza,February 2003,INFORMATIONAL,Legacy,,
 3220,IP Mobility Support for IPv4,C. Perkins,January 2002,PROPOSED STANDARD,IETF,int,mobileip
-3234,Middleboxes: Taxonomy and Issues,"B. Carpenter, S. Brim",February 2002,INFORMATIONAL,Legacy,,
+3234,Middleboxes: Taxonomy and Issues,"B. Carpenter,S. Brim",February 2002,INFORMATIONAL,Legacy,,
 3251,Electricity over IP,B. Rajagopalan,1 April 2002,INFORMATIONAL,Legacy,,
-3272,Overview and Principles of Internet Traffic Engineering,"D. Awduche, A. Chiu, A. Elwalid, I. Widjaja, X. Xiao",May 2002,INFORMATIONAL,IETF,subip,tewg
-3289,Management Information Base for the Differentiated Services Architecture,"F. Baker, K. Chan, A. Smith",May 2002,PROPOSED STANDARD,IETF,tsv,diffserv
-3290,An Informal Management Model for Diffserv Routers,"Y. Bernet, S. Blake, D. Grossman, A. Smith",May 2002,INFORMATIONAL,IETF,tsv,diffserv
-3292,General Switch Management Protocol (GSMP) V3,"A. Doria, F. Hellstrand, K. Sundell, T. Worster",June 2002,PROPOSED STANDARD,IETF,subip,gsmp
-3295,Definitions of Managed Objects for the General Switch Management Protocol (GSMP),"H. Sjostrand, J. Buerkle, B. Srinivasan",June 2002,PROPOSED STANDARD,IETF,subip,gsmp
-3300,Internet Official Protocol Standards,"J. Reynolds, R. Braden, S. Ginoza, A. De La Cruz",November 2002,HISTORIC,INDEPENDENT,,
-3315,Dynamic Host Configuration Protocol for IPv6 (DHCPv6),"R. Droms, J. Bound, B. Volz, T. Lemon, C. Perkins, M. Carney",July 2003,PROPOSED STANDARD,IETF,int,dhc
-3317,Differentiated Services Quality of Service Policy Information Base,"K. Chan, R. Sahita, S. Hahn, K. McCloghrie",March 2003,HISTORIC,IETF,tsv,diffserv
-3318,Framework Policy Information Base,"R. Sahita, S. Hahn, K. Chan, K. McCloghrie",March 2003,HISTORIC,IETF,ops,rap
+3272,Overview and Principles of Internet Traffic Engineering,"A. Chiu,A. Elwalid,D. Awduche,I. Widjaja,X. Xiao",May 2002,INFORMATIONAL,IETF,subip,tewg
+3289,Management Information Base for the Differentiated Services Architecture,"A. Smith,F. Baker,K. Chan",May 2002,PROPOSED STANDARD,IETF,tsv,diffserv
+3290,An Informal Management Model for Diffserv Routers,"A. Smith,D. Grossman,S. Blake,Y. Bernet",May 2002,INFORMATIONAL,IETF,tsv,diffserv
+3292,General Switch Management Protocol (GSMP) V3,"A. Doria,F. Hellstrand,K. Sundell,T. Worster",June 2002,PROPOSED STANDARD,IETF,subip,gsmp
+3295,Definitions of Managed Objects for the General Switch Management Protocol (GSMP),"B. Srinivasan,H. Sjostrand,J. Buerkle",June 2002,PROPOSED STANDARD,IETF,subip,gsmp
+3300,Internet Official Protocol Standards,"A. De La Cruz,J. Reynolds,R. Braden,S. Ginoza",November 2002,HISTORIC,INDEPENDENT,,
+3315,Dynamic Host Configuration Protocol for IPv6 (DHCPv6),"B. Volz,C. Perkins,J. Bound,M. Carney,R. Droms,T. Lemon",July 2003,PROPOSED STANDARD,IETF,int,dhc
+3317,Differentiated Services Quality of Service Policy Information Base,"K. Chan,K. McCloghrie,R. Sahita,S. Hahn",March 2003,HISTORIC,IETF,tsv,diffserv
+3318,Framework Policy Information Base,"K. Chan,K. McCloghrie,R. Sahita,S. Hahn",March 2003,HISTORIC,IETF,ops,rap
 3323,A Privacy Mechanism for the Session Initiation Protocol (SIP),J. Peterson,November 2002,PROPOSED STANDARD,IETF,rai,sip
-3334,Policy-Based Accounting,"T. Zseby, S. Zander, C. Carle",October 2002,EXPERIMENTAL,Legacy,,
+3334,Policy-Based Accounting,"C. Carle,S. Zander,T. Zseby",October 2002,EXPERIMENTAL,Legacy,,
 3344,IP Mobility Support for IPv4,C. Perkins,August 2002,PROPOSED STANDARD,IETF,int,mobileip
 3374,Problem Description: Reasons For Performing Context Transfers Between Nodes in an IP Access Network,J. Kempf,September 2002,INFORMATIONAL,IETF,tsv,seamoby
-3376,"Internet Group Management Protocol, Version 3","B. Cain, S. Deering, I. Kouvelas, B. Fenner, A. Thyagarajan",October 2002,PROPOSED STANDARD,IETF,rtg,idmr
-3387,Considerations from the Service Management Research Group (SMRG) on Quality of Service (QoS) in the IP Network,"M. Eder, H. Chaskar, S. Nag",September 2002,INFORMATIONAL,Legacy,,
-3423,XACCT\'s Common Reliable Accounting for Network Element (CRANE) Protocol Specification Version 1.0,"K. Zhang, E. Elkin",November 2002,INFORMATIONAL,Legacy,,
-3432,Network performance measurement with periodic streams,"V. Raisanen, G. Grotefeld, A. Morton",November 2002,PROPOSED STANDARD,IETF,tsv,ippm
-3435,Media Gateway Control Protocol (MGCP) Version 1.0,"F. Andreasen, B. Foster",January 2003,INFORMATIONAL,IETF,,NON WORKING GROUP
-3439,Some Internet Architectural Guidelines and Philosophy,"R. Bush, D. Meyer",December 2002,INFORMATIONAL,IETF,,NON WORKING GROUP
-3457,Requirements for IPsec Remote Access Scenarios,"S. Kelly, S. Ramamoorthi",January 2003,INFORMATIONAL,IETF,sec,ipsra
-3466,A Model for Content Internetworking (CDI),"M. Day, B. Cain, G. Tomlinson, P. Rzewski",February 2003,INFORMATIONAL,IETF,app,cdi
+3376,"Internet Group Management Protocol, Version 3","A. Thyagarajan,B. Cain,B. Fenner,I. Kouvelas,S. Deering",October 2002,PROPOSED STANDARD,IETF,rtg,idmr
+3387,Considerations from the Service Management Research Group (SMRG) on Quality of Service (QoS) in the IP Network,"H. Chaskar,M. Eder,S. Nag",September 2002,INFORMATIONAL,Legacy,,
+3423,XACCT\'s Common Reliable Accounting for Network Element (CRANE) Protocol Specification Version 1.0,"E. Elkin,K. Zhang",November 2002,INFORMATIONAL,Legacy,,
+3432,Network performance measurement with periodic streams,"A. Morton,G. Grotefeld,V. Raisanen",November 2002,PROPOSED STANDARD,IETF,tsv,ippm
+3435,Media Gateway Control Protocol (MGCP) Version 1.0,"B. Foster,F. Andreasen",January 2003,INFORMATIONAL,IETF,,NON WORKING GROUP
+3439,Some Internet Architectural Guidelines and Philosophy,"D. Meyer,R. Bush",December 2002,INFORMATIONAL,IETF,,NON WORKING GROUP
+3457,Requirements for IPsec Remote Access Scenarios,"S. Kelly,S. Ramamoorthi",January 2003,INFORMATIONAL,IETF,sec,ipsra
+3466,A Model for Content Internetworking (CDI),"B. Cain,G. Tomlinson,M. Day,P. Rzewski",February 2003,INFORMATIONAL,IETF,app,cdi
 3479,Fault Tolerance for the Label Distribution Protocol (LDP),A. Farrel,February 2003,PROPOSED STANDARD,IETF,rtg,mpls
-3483,Framework for Policy Usage Feedback for Common Open Policy Service with Policy Provisioning (COPS-PR),"D. Rawlins, A. Kulkarni, M. Bokaemper, K. Chan",March 2003,INFORMATIONAL,IETF,ops,rap
+3483,Framework for Policy Usage Feedback for Common Open Policy Service with Policy Provisioning (COPS-PR),"A. Kulkarni,D. Rawlins,K. Chan,M. Bokaemper",March 2003,INFORMATIONAL,IETF,ops,rap
 3499,Request for Comments Summary RFC Numbers 3400-3499,S. Ginoza,December 2003,INFORMATIONAL,Legacy,,
-3512,Configuring Networks and Devices with Simple Network Management Protocol (SNMP),"M. MacFaden, D. Partain, J. Saperia, W. Tackabury",April 2003,INFORMATIONAL,IETF,ops,snmpconf
-3521,Framework for Session Set-up with Media Authorization,"L-N. Hamer, B. Gage, H. Shieh",April 2003,INFORMATIONAL,IETF,ops,rap
-3530,Network File System (NFS) version 4 Protocol,"S. Shepler, B. Callaghan, D. Robinson, R. Thurlow, C. Beame, M. Eisler, D. Noveck",April 2003,PROPOSED STANDARD,IETF,tsv,nfsv4
-3539,"Authentication, Authorization and Accounting (AAA) Transport Profile","B. Aboba, J. Wood",June 2003,PROPOSED STANDARD,IETF,ops,aaa
-3543,Registration Revocation in Mobile IPv4,"S. Glass, M. Chandra",August 2003,PROPOSED STANDARD,IETF,int,mobileip
-3552,Guidelines for Writing RFC Text on Security Considerations,"E. Rescorla, B. Korver",July 2003,BEST CURRENT PRACTICE,IAB,,
-3570,Content Internetworking (CDI) Scenarios,"P. Rzewski, M. Day, D. Gilletti",July 2003,INFORMATIONAL,IETF,app,cdi
-3571,Framework Policy Information Base for Usage Feedback,"D. Rawlins, A. Kulkarni, K. Ho Chan, M. Bokaemper, D. Dutt",August 2003,HISTORIC,IETF,ops,rap
+3512,Configuring Networks and Devices with Simple Network Management Protocol (SNMP),"D. Partain,J. Saperia,M. MacFaden,W. Tackabury",April 2003,INFORMATIONAL,IETF,ops,snmpconf
+3521,Framework for Session Set-up with Media Authorization,"B. Gage,H. Shieh,L-N. Hamer",April 2003,INFORMATIONAL,IETF,ops,rap
+3530,Network File System (NFS) version 4 Protocol,"B. Callaghan,C. Beame,D. Noveck,D. Robinson,M. Eisler,R. Thurlow,S. Shepler",April 2003,PROPOSED STANDARD,IETF,tsv,nfsv4
+3539,"Authentication, Authorization and Accounting (AAA) Transport Profile","B. Aboba,J. Wood",June 2003,PROPOSED STANDARD,IETF,ops,aaa
+3543,Registration Revocation in Mobile IPv4,"M. Chandra,S. Glass",August 2003,PROPOSED STANDARD,IETF,int,mobileip
+3552,Guidelines for Writing RFC Text on Security Considerations,"B. Korver,E. Rescorla",July 2003,BEST CURRENT PRACTICE,IAB,,
+3570,Content Internetworking (CDI) Scenarios,"D. Gilletti,M. Day,P. Rzewski",July 2003,INFORMATIONAL,IETF,app,cdi
+3571,Framework Policy Information Base for Usage Feedback,"A. Kulkarni,D. Dutt,D. Rawlins,K. Ho Chan,M. Bokaemper",August 2003,HISTORIC,IETF,ops,rap
 3573,Signalling of Modem-On-Hold status in Layer 2 Tunneling Protocol (L2TP),I. Goyret,July 2003,PROPOSED STANDARD,IETF,int,l2tpext
 3575,IANA Considerations for RADIUS (Remote Authentication Dial In User Service),B. Aboba,July 2003,PROPOSED STANDARD,IETF,,NON WORKING GROUP
-3576,Dynamic Authorization Extensions to Remote Authentication Dial In User Service (RADIUS),"M. Chiba, G. Dommety, M. Eklund, D. Mitton, B. Aboba",July 2003,INFORMATIONAL,INDEPENDENT,,
-3579,RADIUS (Remote Authentication Dial In User Service) Support For Extensible Authentication Protocol (EAP),"B. Aboba, P. Calhoun",September 2003,INFORMATIONAL,INDEPENDENT,,
-3580,IEEE 802.1X Remote Authentication Dial In User Service (RADIUS) Usage Guidelines,"P. Congdon, B. Aboba, A. Smith, G. Zorn, J. Roese",September 2003,INFORMATIONAL,INDEPENDENT,,
+3576,Dynamic Authorization Extensions to Remote Authentication Dial In User Service (RADIUS),"B. Aboba,D. Mitton,G. Dommety,M. Chiba,M. Eklund",July 2003,INFORMATIONAL,INDEPENDENT,,
+3579,RADIUS (Remote Authentication Dial In User Service) Support For Extensible Authentication Protocol (EAP),"B. Aboba,P. Calhoun",September 2003,INFORMATIONAL,INDEPENDENT,,
+3580,IEEE 802.1X Remote Authentication Dial In User Service (RADIUS) Usage Guidelines,"A. Smith,B. Aboba,G. Zorn,J. Roese,P. Congdon",September 2003,INFORMATIONAL,INDEPENDENT,,
 3583,Requirements of a Quality of Service (QoS) Solution for Mobile IP,H. Chaskar,September 2003,INFORMATIONAL,IETF,tsv,nsis
-3588,Diameter Base Protocol,"P. Calhoun, J. Loughney, E. Guttman, G. Zorn, J. Arkko",September 2003,PROPOSED STANDARD,IETF,ops,aaa
+3588,Diameter Base Protocol,"E. Guttman,G. Zorn,J. Arkko,J. Loughney,P. Calhoun",September 2003,PROPOSED STANDARD,IETF,ops,aaa
 3599,Request for Comments Summary RFC Numbers 3500-3599,S. Ginoza,December 2003,INFORMATIONAL,Legacy,,
-3600,Internet Official Protocol Standards,"J. Reynolds, S. Ginoza",November 2003,HISTORIC,Legacy,,
-3603,Private Session Initiation Protocol (SIP) Proxy-to-Proxy Extensions for Supporting the PacketCable Distributed Call Signaling Architecture,"W. Marshall, F. Andreasen",October 2003,INFORMATIONAL,INDEPENDENT,,
-3611,RTP Control Protocol Extended Reports (RTCP XR),"T. Friedman, R. Caceres, A. Clark",November 2003,PROPOSED STANDARD,IETF,rai,avt
-3654,Requirements for Separation of IP Control and Forwarding,"H. Khosravi, T. Anderson",November 2003,INFORMATIONAL,IETF,rtg,forces
+3600,Internet Official Protocol Standards,"J. Reynolds,S. Ginoza",November 2003,HISTORIC,Legacy,,
+3603,Private Session Initiation Protocol (SIP) Proxy-to-Proxy Extensions for Supporting the PacketCable Distributed Call Signaling Architecture,"F. Andreasen,W. Marshall",October 2003,INFORMATIONAL,INDEPENDENT,,
+3611,RTP Control Protocol Extended Reports (RTCP XR),"A. Clark,R. Caceres,T. Friedman",November 2003,PROPOSED STANDARD,IETF,rai,avt
+3654,Requirements for Separation of IP Control and Forwarding,"H. Khosravi,T. Anderson",November 2003,INFORMATIONAL,IETF,rtg,forces
 3675,.sex Considered Dangerous,D. Eastlake 3rd,February 2004,INFORMATIONAL,INDEPENDENT,,
-3689,General Requirements for Emergency Telecommunication Service (ETS),"K. Carlberg, R. Atkinson",February 2004,INFORMATIONAL,IETF,rai,ieprep
-3690,IP Telephony Requirements for Emergency Telecommunication Service (ETS),"K. Carlberg, R. Atkinson",February 2004,INFORMATIONAL,IETF,rai,ieprep
-3693,Geopriv Requirements,"J. Cuellar, J. Morris, D. Mulligan, J. Peterson, J. Polk",February 2004,INFORMATIONAL,IETF,rai,geopriv
-3700,Internet Official Protocol Standards,"J. Reynolds, S. Ginoza",July 2004,HISTORIC,INDEPENDENT,,
-3702,"Authentication, Authorization, and Accounting Requirements for the Session Initiation Protocol (SIP)","J. Loughney, G. Camarillo",February 2004,INFORMATIONAL,IETF,rai,sipping
-3708,Using TCP Duplicate Selective Acknowledgement (DSACKs) and Stream Control Transmission Protocol (SCTP) Duplicate Transmission Sequence Numbers (TSNs) to Detect Spurious Retransmissions,"E. Blanton, M. Allman",February 2004,EXPERIMENTAL,IETF,tsv,tsvwg
-3717,IP over Optical Networks: A Framework,"B. Rajagopalan, J. Luciani, D. Awduche",March 2004,INFORMATIONAL,IETF,subip,ipo
+3689,General Requirements for Emergency Telecommunication Service (ETS),"K. Carlberg,R. Atkinson",February 2004,INFORMATIONAL,IETF,rai,ieprep
+3690,IP Telephony Requirements for Emergency Telecommunication Service (ETS),"K. Carlberg,R. Atkinson",February 2004,INFORMATIONAL,IETF,rai,ieprep
+3693,Geopriv Requirements,"D. Mulligan,J. Cuellar,J. Morris,J. Peterson,J. Polk",February 2004,INFORMATIONAL,IETF,rai,geopriv
+3700,Internet Official Protocol Standards,"J. Reynolds,S. Ginoza",July 2004,HISTORIC,INDEPENDENT,,
+3702,"Authentication, Authorization, and Accounting Requirements for the Session Initiation Protocol (SIP)","G. Camarillo,J. Loughney",February 2004,INFORMATIONAL,IETF,rai,sipping
+3708,Using TCP Duplicate Selective Acknowledgement (DSACKs) and Stream Control Transmission Protocol (SCTP) Duplicate Transmission Sequence Numbers (TSNs) to Detect Spurious Retransmissions,"E. Blanton,M. Allman",February 2004,EXPERIMENTAL,IETF,tsv,tsvwg
+3717,IP over Optical Networks: A Framework,"B. Rajagopalan,D. Awduche,J. Luciani",March 2004,INFORMATIONAL,IETF,subip,ipo
 3726,Requirements for Signaling Protocols,M. Brunner,April 2004,INFORMATIONAL,IETF,tsv,nsis
-3748,Extensible Authentication Protocol (EAP),"B. Aboba, L. Blunk, J. Vollbrecht, J. Carlson, H. Levkowetz",June 2004,PROPOSED STANDARD,IETF,int,eap
-3752,Open Pluggable Edge Services (OPES) Use Cases and Deployment Scenarios,"A. Barbir, E. Burger, R. Chen, S. McHenry, H. Orman, R. Penno",April 2004,INFORMATIONAL,IETF,app,opes
-3758,Stream Control Transmission Protocol (SCTP) Partial Reliability Extension,"R. Stewart, M. Ramalho, Q. Xie, M. Tuexen, P. Conrad",May 2004,PROPOSED STANDARD,IETF,tsv,tsvwg
-3769,Requirements for IPv6 Prefix Delegation,"S. Miyakawa, R. Droms",June 2004,INFORMATIONAL,IETF,int,ipv6
-3796,Survey of IPv4 Addresses in Currently Deployed IETF Operations &amp; Management Area Standards Track and Experimental Documents,"P. Nesser, II, A. Bergstrom",June 2004,INFORMATIONAL,IETF,ops,v6ops
-3810,Multicast Listener Discovery Version 2 (MLDv2) for IPv6,"R. Vida, L. Costa",June 2004,PROPOSED STANDARD,IETF,int,magma
-3819,Advice for Internet Subnetwork Designers,"P. Karn, C. Bormann, G. Fairhurst, D. Grossman, R. Ludwig, J. Mahdavi, G. Montenegro, J. Touch, L. Wood",July 2004,BEST CURRENT PRACTICE,IETF,tsv,pilc
-3820,Internet X.509 Public Key Infrastructure (PKI) Proxy Certificate Profile,"S. Tuecke, V. Welch, D. Engert, L. Pearlman, M. Thompson",June 2004,PROPOSED STANDARD,IETF,sec,pkix
-3837,Security Threats and Risks for Open Pluggable Edge Services (OPES),"A. Barbir, O. Batuner, B. Srinivas, M. Hofmann, H. Orman",August 2004,INFORMATIONAL,IETF,app,opes
-3846,Mobile IPv4 Extension for Carrying Network Access Identifiers,"F. Johansson, T. Johansson",June 2004,PROPOSED STANDARD,IETF,int,mip4
-3869,IAB Concerns and Recommendations Regarding Internet Research and Evolution,"R. Atkinson, S. Floyd, Internet Architecture Board",August 2004,INFORMATIONAL,IAB,,
+3748,Extensible Authentication Protocol (EAP),"B. Aboba,H. Levkowetz,J. Carlson,J. Vollbrecht,L. Blunk",June 2004,PROPOSED STANDARD,IETF,int,eap
+3752,Open Pluggable Edge Services (OPES) Use Cases and Deployment Scenarios,"A. Barbir,E. Burger,H. Orman,R. Chen,R. Penno,S. McHenry",April 2004,INFORMATIONAL,IETF,app,opes
+3758,Stream Control Transmission Protocol (SCTP) Partial Reliability Extension,"M. Ramalho,M. Tuexen,P. Conrad,Q. Xie,R. Stewart",May 2004,PROPOSED STANDARD,IETF,tsv,tsvwg
+3769,Requirements for IPv6 Prefix Delegation,"R. Droms,S. Miyakawa",June 2004,INFORMATIONAL,IETF,int,ipv6
+3796,Survey of IPv4 Addresses in Currently Deployed IETF Operations &amp; Management Area Standards Track and Experimental Documents,"A. Bergstrom,II,P. Nesser",June 2004,INFORMATIONAL,IETF,ops,v6ops
+3810,Multicast Listener Discovery Version 2 (MLDv2) for IPv6,"L. Costa,R. Vida",June 2004,PROPOSED STANDARD,IETF,int,magma
+3819,Advice for Internet Subnetwork Designers,"C. Bormann,D. Grossman,G. Fairhurst,G. Montenegro,J. Mahdavi,J. Touch,L. Wood,P. Karn,R. Ludwig",July 2004,BEST CURRENT PRACTICE,IETF,tsv,pilc
+3820,Internet X.509 Public Key Infrastructure (PKI) Proxy Certificate Profile,"D. Engert,L. Pearlman,M. Thompson,S. Tuecke,V. Welch",June 2004,PROPOSED STANDARD,IETF,sec,pkix
+3837,Security Threats and Risks for Open Pluggable Edge Services (OPES),"A. Barbir,B. Srinivas,H. Orman,M. Hofmann,O. Batuner",August 2004,INFORMATIONAL,IETF,app,opes
+3846,Mobile IPv4 Extension for Carrying Network Access Identifiers,"F. Johansson,T. Johansson",June 2004,PROPOSED STANDARD,IETF,int,mip4
+3869,IAB Concerns and Recommendations Regarding Internet Research and Evolution,"Internet Architecture Board,R. Atkinson,S. Floyd",August 2004,INFORMATIONAL,IAB,,
 3871,Operational Security Requirements for Large Internet Service Provider (ISP) IP Network Infrastructure,G. Jones,September 2004,INFORMATIONAL,IETF,,NON WORKING GROUP
 3897,Open Pluggable Edge Services (OPES) Entities and End Points Communication,A. Barbir,September 2004,INFORMATIONAL,IETF,app,opes
-3917,Requirements for IP Flow Information Export (IPFIX),"J. Quittek, T. Zseby, B. Claise, S. Zander",October 2004,INFORMATIONAL,IETF,ops,ipfix
+3917,Requirements for IP Flow Information Export (IPFIX),"B. Claise,J. Quittek,S. Zander,T. Zseby",October 2004,INFORMATIONAL,IETF,ops,ipfix
 3929,Alternative Decision Making Processes for Consensus-Blocked Decisions in the IETF,T. Hardie,October 2004,EXPERIMENTAL,IETF,,NON WORKING GROUP
 3945,Generalized Multi-Protocol Label Switching (GMPLS) Architecture,E. Mannie,October 2004,PROPOSED STANDARD,IETF,rtg,ccamp
 3954,Cisco Systems NetFlow Services Export Version 9,B. Claise,October 2004,INFORMATIONAL,INDEPENDENT,,
 3955,Evaluation of Candidate Protocols for IP Flow Information Export (IPFIX),S. Leinen,October 2004,INFORMATIONAL,IETF,ops,ipfix
-3957,"Authentication, Authorization, and Accounting (AAA) Registration Keys for Mobile IPv4","C. Perkins, P. Calhoun",March 2005,PROPOSED STANDARD,IETF,int,mip4
-3993,Subscriber-ID Suboption for the Dynamic Host Configuration Protocol (DHCP) Relay Agent Option,"R. Johnson, T. Palaniappan, M. Stapp",March 2005,PROPOSED STANDARD,IETF,int,dhc
-4004,Diameter Mobile IPv4 Application,"P. Calhoun, T. Johansson, C. Perkins, T. Hiller, P. McCann",August 2005,PROPOSED STANDARD,IETF,ops,aaa
-4005,Diameter Network Access Server Application,"P. Calhoun, G. Zorn, D. Spence, D. Mitton",August 2005,PROPOSED STANDARD,IETF,ops,aaa
-4006,Diameter Credit-Control Application,"H. Hakala, L. Mattila, J-P. Koskinen, M. Stura, J. Loughney",August 2005,PROPOSED STANDARD,IETF,ops,aaa
-4017,Extensible Authentication Protocol (EAP) Method Requirements for Wireless LANs,"D. Stanley, J. Walker, B. Aboba",March 2005,INFORMATIONAL,IETF,,NON WORKING GROUP
-4029,Scenarios and Analysis for Introducing IPv6 into ISP Networks,"M. Lind, V. Ksinant, S. Park, A. Baudot, P. Savola",March 2005,INFORMATIONAL,IETF,ops,v6ops
-4031,Service Requirements for Layer 3 Provider Provisioned Virtual Private Networks (PPVPNs),"M. Carugi, D. McDysan",April 2005,INFORMATIONAL,IETF,int,l3vpn
+3957,"Authentication, Authorization, and Accounting (AAA) Registration Keys for Mobile IPv4","C. Perkins,P. Calhoun",March 2005,PROPOSED STANDARD,IETF,int,mip4
+3993,Subscriber-ID Suboption for the Dynamic Host Configuration Protocol (DHCP) Relay Agent Option,"M. Stapp,R. Johnson,T. Palaniappan",March 2005,PROPOSED STANDARD,IETF,int,dhc
+4004,Diameter Mobile IPv4 Application,"C. Perkins,P. Calhoun,P. McCann,T. Hiller,T. Johansson",August 2005,PROPOSED STANDARD,IETF,ops,aaa
+4005,Diameter Network Access Server Application,"D. Mitton,D. Spence,G. Zorn,P. Calhoun",August 2005,PROPOSED STANDARD,IETF,ops,aaa
+4006,Diameter Credit-Control Application,"H. Hakala,J-P. Koskinen,J. Loughney,L. Mattila,M. Stura",August 2005,PROPOSED STANDARD,IETF,ops,aaa
+4017,Extensible Authentication Protocol (EAP) Method Requirements for Wireless LANs,"B. Aboba,D. Stanley,J. Walker",March 2005,INFORMATIONAL,IETF,,NON WORKING GROUP
+4029,Scenarios and Analysis for Introducing IPv6 into ISP Networks,"A. Baudot,M. Lind,P. Savola,S. Park,V. Ksinant",March 2005,INFORMATIONAL,IETF,ops,v6ops
+4031,Service Requirements for Layer 3 Provider Provisioned Virtual Private Networks (PPVPNs),"D. McDysan,M. Carugi",April 2005,INFORMATIONAL,IETF,int,l3vpn
 4044,Fibre Channel Management MIB,K. McCloghrie,May 2005,PROPOSED STANDARD,IETF,tsv,ips
-4058,Protocol for Carrying Authentication for Network Access (PANA) Requirements,"A. Yegin, Y. Ohba, R. Penno, G. Tsirtsis, C. Wang",May 2005,INFORMATIONAL,IETF,int,pana
-4067,Context Transfer Protocol (CXTP),"J. Loughney, M. Nakhjiri, C. Perkins, R. Koodli",July 2005,EXPERIMENTAL,IETF,tsv,seamoby
-4071,Structure of the IETF Administrative Support Activity (IASA),"R. Austein, B. Wijnen",April 2005,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
-4072,Diameter Extensible Authentication Protocol (EAP) Application,"P. Eronen, T. Hiller, G. Zorn",August 2005,PROPOSED STANDARD,IETF,ops,aaa
-4080,Next Steps in Signaling (NSIS): Framework,"R. Hancock, G. Karagiannis, J. Loughney, S. Van den Bosch",June 2005,INFORMATIONAL,IETF,tsv,nsis
-4081,Security Threats for Next Steps in Signaling (NSIS),"H. Tschofenig, D. Kroeselberg",June 2005,INFORMATIONAL,IETF,tsv,nsis
+4058,Protocol for Carrying Authentication for Network Access (PANA) Requirements,"A. Yegin,C. Wang,G. Tsirtsis,R. Penno,Y. Ohba",May 2005,INFORMATIONAL,IETF,int,pana
+4067,Context Transfer Protocol (CXTP),"C. Perkins,J. Loughney,M. Nakhjiri,R. Koodli",July 2005,EXPERIMENTAL,IETF,tsv,seamoby
+4071,Structure of the IETF Administrative Support Activity (IASA),"B. Wijnen,R. Austein",April 2005,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+4072,Diameter Extensible Authentication Protocol (EAP) Application,"G. Zorn,P. Eronen,T. Hiller",August 2005,PROPOSED STANDARD,IETF,ops,aaa
+4080,Next Steps in Signaling (NSIS): Framework,"G. Karagiannis,J. Loughney,R. Hancock,S. Van den Bosch",June 2005,INFORMATIONAL,IETF,tsv,nsis
+4081,Security Threats for Next Steps in Signaling (NSIS),"D. Kroeselberg,H. Tschofenig",June 2005,INFORMATIONAL,IETF,tsv,nsis
 4083,Input 3rd-Generation Partnership Project (3GPP) Release 5 Requirements on the Session Initiation Protocol (SIP),M. Garcia-Martin,May 2005,INFORMATIONAL,IETF,rai,sipping
-4089,IAB and IESG Recommendation for IETF Administrative Restructuring,"S. Hollenbeck, IAB and IESG",May 2005,INFORMATIONAL,IAB,,
+4089,IAB and IESG Recommendation for IETF Administrative Restructuring,"IAB and IESG,S. Hollenbeck",May 2005,INFORMATIONAL,IAB,,
 4097,Middlebox Communications (MIDCOM) Protocol Evaluation,M. Barnes,June 2005,INFORMATIONAL,IETF,tsv,midcom
-4105,Requirements for Inter-Area MPLS Traffic Engineering,"J.-L. Le Roux, J.-P. Vasseur, J. Boyle",June 2005,INFORMATIONAL,IETF,subip,tewg
-4110,A Framework for Layer 3 Provider-Provisioned Virtual Private Networks (PPVPNs),"R. Callon, M. Suzuki",July 2005,INFORMATIONAL,IETF,int,l3vpn
-4120,The Kerberos Network Authentication Service (V5),"C. Neuman, T. Yu, S. Hartman, K. Raeburn",July 2005,PROPOSED STANDARD,IETF,sec,krb-wg
+4105,Requirements for Inter-Area MPLS Traffic Engineering,"J. Boyle,J.-L. Le Roux,J.-P. Vasseur",June 2005,INFORMATIONAL,IETF,subip,tewg
+4110,A Framework for Layer 3 Provider-Provisioned Virtual Private Networks (PPVPNs),"M. Suzuki,R. Callon",July 2005,INFORMATIONAL,IETF,int,l3vpn
+4120,The Kerberos Network Authentication Service (V5),"C. Neuman,K. Raeburn,S. Hartman,T. Yu",July 2005,PROPOSED STANDARD,IETF,sec,krb-wg
 4124,Protocol Extensions for Support of Diffserv-aware MPLS Traffic Engineering,F. Le Faucheur,June 2005,PROPOSED STANDARD,IETF,subip,tewg
-4137,State Machines for Extensible Authentication Protocol (EAP) Peer and Authenticator,"J. Vollbrecht, P. Eronen, N. Petroni, Y. Ohba",August 2005,INFORMATIONAL,IETF,int,eap
-4139,Requirements for Generalized MPLS (GMPLS) Signaling Usage and Extensions for Automatically Switched Optical Network (ASON),"D. Papadimitriou, J. Drake, J. Ash, A. Farrel, L. Ong",July 2005,INFORMATIONAL,IETF,rtg,ccamp
-4149,Definition of Managed Objects for Synthetic Sources for Performance Monitoring Algorithms,"C. Kalbfleisch, R. Cole, D. Romascanu",August 2005,PROPOSED STANDARD,IETF,ops,rmonmib
-4152,A Uniform Resource Name (URN) Namespace for the Common Language Equipment Identifier (CLEI) Code,"K. Tesink, R. Fox",August 2005,INFORMATIONAL,IETF,,NON WORKING GROUP
-4176,Framework for Layer 3 Virtual Private Networks (L3VPN) Operations and Management,"Y. El Mghazli, T. Nadeau, M. Boucadair, K. Chan, A. Gonguet",October 2005,INFORMATIONAL,IETF,int,l3vpn
-4186,Extensible Authentication Protocol Method for Global System for Mobile Communications (GSM) Subscriber Identity Modules (EAP-SIM),"H. Haverinen, J. Salowey",January 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
-4187,Extensible Authentication Protocol Method for 3rd Generation Authentication and Key Agreement (EAP-AKA),"J. Arkko, H. Haverinen",January 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
-4201,Link Bundling in MPLS Traffic Engineering (TE),"K. Kompella, Y. Rekhter, L. Berger",October 2005,PROPOSED STANDARD,IETF,rtg,mpls
-4216,MPLS Inter-Autonomous System (AS) Traffic Engineering (TE) Requirements,"R. Zhang, J.-P. Vasseur",November 2005,INFORMATIONAL,IETF,subip,tewg
-4220,Traffic Engineering Link Management Information Base,"M. Dubuc, T. Nadeau, J. Lang",November 2005,PROPOSED STANDARD,IETF,rtg,mpls
-4230,RSVP Security Properties,"H. Tschofenig, R. Graveman",December 2005,INFORMATIONAL,IETF,tsv,nsis
-4241,A Model of IPv6/IPv4 Dual Stack Internet Access Service,"Y. Shirasaki, S. Miyakawa, T. Yamasaki, A. Takenouchi",December 2005,INFORMATIONAL,INDEPENDENT,,
+4137,State Machines for Extensible Authentication Protocol (EAP) Peer and Authenticator,"J. Vollbrecht,N. Petroni,P. Eronen,Y. Ohba",August 2005,INFORMATIONAL,IETF,int,eap
+4139,Requirements for Generalized MPLS (GMPLS) Signaling Usage and Extensions for Automatically Switched Optical Network (ASON),"A. Farrel,D. Papadimitriou,J. Ash,J. Drake,L. Ong",July 2005,INFORMATIONAL,IETF,rtg,ccamp
+4149,Definition of Managed Objects for Synthetic Sources for Performance Monitoring Algorithms,"C. Kalbfleisch,D. Romascanu,R. Cole",August 2005,PROPOSED STANDARD,IETF,ops,rmonmib
+4152,A Uniform Resource Name (URN) Namespace for the Common Language Equipment Identifier (CLEI) Code,"K. Tesink,R. Fox",August 2005,INFORMATIONAL,IETF,,NON WORKING GROUP
+4176,Framework for Layer 3 Virtual Private Networks (L3VPN) Operations and Management,"A. Gonguet,K. Chan,M. Boucadair,T. Nadeau,Y. El Mghazli",October 2005,INFORMATIONAL,IETF,int,l3vpn
+4186,Extensible Authentication Protocol Method for Global System for Mobile Communications (GSM) Subscriber Identity Modules (EAP-SIM),"H. Haverinen,J. Salowey",January 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
+4187,Extensible Authentication Protocol Method for 3rd Generation Authentication and Key Agreement (EAP-AKA),"H. Haverinen,J. Arkko",January 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
+4201,Link Bundling in MPLS Traffic Engineering (TE),"K. Kompella,L. Berger,Y. Rekhter",October 2005,PROPOSED STANDARD,IETF,rtg,mpls
+4216,MPLS Inter-Autonomous System (AS) Traffic Engineering (TE) Requirements,"J.-P. Vasseur,R. Zhang",November 2005,INFORMATIONAL,IETF,subip,tewg
+4220,Traffic Engineering Link Management Information Base,"J. Lang,M. Dubuc,T. Nadeau",November 2005,PROPOSED STANDARD,IETF,rtg,mpls
+4230,RSVP Security Properties,"H. Tschofenig,R. Graveman",December 2005,INFORMATIONAL,IETF,tsv,nsis
+4241,A Model of IPv6/IPv4 Dual Stack Internet Access Service,"A. Takenouchi,S. Miyakawa,T. Yamasaki,Y. Shirasaki",December 2005,INFORMATIONAL,INDEPENDENT,,
 4258,Requirements for Generalized Multi-Protocol Label Switching (GMPLS) Routing for the Automatically Switched Optical Network (ASON),D. Brungard,November 2005,INFORMATIONAL,IETF,rtg,ccamp
-4282,The Network Access Identifier,"B. Aboba, M. Beadles, J. Arkko, P. Eronen",December 2005,PROPOSED STANDARD,IETF,ops,radext
-4283,Mobile Node Identifier Option for Mobile IPv6 (MIPv6),"A. Patel, K. Leung, M. Khalil, H. Akhtar, K. Chowdhury",November 2005,PROPOSED STANDARD,IETF,int,mip6
-4284,Identity Selection Hints for the Extensible Authentication Protocol (EAP),"F. Adrangi, V. Lortz, F. Bari, P. Eronen",January 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
-4285,Authentication Protocol for Mobile IPv6,"A. Patel, K. Leung, M. Khalil, H. Akhtar, K. Chowdhury",January 2006,INFORMATIONAL,IETF,int,mip6
-4297,Remote Direct Memory Access (RDMA) over IP Problem Statement,"A. Romanow, J. Mogul, T. Talpey, S. Bailey",December 2005,INFORMATIONAL,IETF,tsv,rddp
+4282,The Network Access Identifier,"B. Aboba,J. Arkko,M. Beadles,P. Eronen",December 2005,PROPOSED STANDARD,IETF,ops,radext
+4283,Mobile Node Identifier Option for Mobile IPv6 (MIPv6),"A. Patel,H. Akhtar,K. Chowdhury,K. Leung,M. Khalil",November 2005,PROPOSED STANDARD,IETF,int,mip6
+4284,Identity Selection Hints for the Extensible Authentication Protocol (EAP),"F. Adrangi,F. Bari,P. Eronen,V. Lortz",January 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
+4285,Authentication Protocol for Mobile IPv6,"A. Patel,H. Akhtar,K. Chowdhury,K. Leung,M. Khalil",January 2006,INFORMATIONAL,IETF,int,mip6
+4297,Remote Direct Memory Access (RDMA) over IP Problem Statement,"A. Romanow,J. Mogul,S. Bailey,T. Talpey",December 2005,INFORMATIONAL,IETF,tsv,rddp
 4313,"Requirements for Distributed Control of Automatic Speech Recognition (ASR), Speaker Identification/Speaker Verification (SI/SV), and Text-to-Speech (TTS) Resources",D. Oran,December 2005,INFORMATIONAL,IETF,rai,speechsc
-4331,Quota and Size Properties for Distributed Authoring and Versioning (DAV) Collections,"B. Korver, L. Dusseault",February 2006,PROPOSED STANDARD,IETF,app,webdav
+4331,Quota and Size Properties for Distributed Authoring and Versioning (DAV) Collections,"B. Korver,L. Dusseault",February 2006,PROPOSED STANDARD,IETF,app,webdav
 4365,Applicability Statement for BGP/MPLS IP Virtual Private Networks (VPNs),E. Rosen,February 2006,INFORMATIONAL,IETF,int,l3vpn
-4372,Chargeable User Identity,"F. Adrangi, A. Lior, J. Korhonen, J. Loughney",January 2006,PROPOSED STANDARD,IETF,ops,radext
+4372,Chargeable User Identity,"A. Lior,F. Adrangi,J. Korhonen,J. Loughney",January 2006,PROPOSED STANDARD,IETF,ops,radext
 4375,Emergency Telecommunications Services (ETS) Requirements for a Single Administrative Domain,K. Carlberg,January 2006,INFORMATIONAL,IETF,rai,ieprep
-4377,Operations and Management (OAM) Requirements for Multi-Protocol Label Switched (MPLS) Networks,"T. Nadeau, M. Morrow, G. Swallow, D. Allan, S. Matsushima",February 2006,INFORMATIONAL,IETF,rtg,mpls
-4378,A Framework for Multi-Protocol Label Switching (MPLS) Operations and Management (OAM),"D. Allan, T. Nadeau",February 2006,INFORMATIONAL,IETF,rtg,mpls
-4396,RTP Payload Format for 3rd Generation Partnership Project (3GPP) Timed Text,"J. Rey, Y. Matsui",February 2006,PROPOSED STANDARD,IETF,rai,avt
-4430,Kerberized Internet Negotiation of Keys (KINK),"S. Sakane, K. Kamada, M. Thomas, J. Vilhuber",March 2006,PROPOSED STANDARD,IETF,sec,kink
-4433,Mobile IPv4 Dynamic Home Agent (HA) Assignment,"M. Kulkarni, A. Patel, K. Leung",March 2006,PROPOSED STANDARD,IETF,int,mip4
+4377,Operations and Management (OAM) Requirements for Multi-Protocol Label Switched (MPLS) Networks,"D. Allan,G. Swallow,M. Morrow,S. Matsushima,T. Nadeau",February 2006,INFORMATIONAL,IETF,rtg,mpls
+4378,A Framework for Multi-Protocol Label Switching (MPLS) Operations and Management (OAM),"D. Allan,T. Nadeau",February 2006,INFORMATIONAL,IETF,rtg,mpls
+4396,RTP Payload Format for 3rd Generation Partnership Project (3GPP) Timed Text,"J. Rey,Y. Matsui",February 2006,PROPOSED STANDARD,IETF,rai,avt
+4430,Kerberized Internet Negotiation of Keys (KINK),"J. Vilhuber,K. Kamada,M. Thomas,S. Sakane",March 2006,PROPOSED STANDARD,IETF,sec,kink
+4433,Mobile IPv4 Dynamic Home Agent (HA) Assignment,"A. Patel,K. Leung,M. Kulkarni",March 2006,PROPOSED STANDARD,IETF,int,mip4
 4441,The IEEE 802/IETF Relationship,B. Aboba,March 2006,INFORMATIONAL,IAB,,
-4484,Trait-Based Authorization Requirements for the Session Initiation Protocol (SIP),"J. Peterson, J. Polk, D. Sicker, H. Tschofenig",August 2006,INFORMATIONAL,IETF,rai,sipping
-4562,MAC-Forced Forwarding: A Method for Subscriber Separation on an Ethernet Access Network,"T. Melsen, S. Blake",June 2006,INFORMATIONAL,INDEPENDENT,,
-4565,Evaluation of Candidate Control and Provisioning of Wireless Access Points (CAPWAP) Protocols,"D. Loher, D. Nelson, O. Volinsky, B. Sarikaya",July 2006,INFORMATIONAL,IETF,ops,capwap
+4484,Trait-Based Authorization Requirements for the Session Initiation Protocol (SIP),"D. Sicker,H. Tschofenig,J. Peterson,J. Polk",August 2006,INFORMATIONAL,IETF,rai,sipping
+4562,MAC-Forced Forwarding: A Method for Subscriber Separation on an Ethernet Access Network,"S. Blake,T. Melsen",June 2006,INFORMATIONAL,INDEPENDENT,,
+4565,Evaluation of Candidate Control and Provisioning of Wireless Access Points (CAPWAP) Protocols,"B. Sarikaya,D. Loher,D. Nelson,O. Volinsky",July 2006,INFORMATIONAL,IETF,ops,capwap
 4580,Dynamic Host Configuration Protocol for IPv6 (DHCPv6) Relay Agent Subscriber-ID Option,B. Volz,June 2006,PROPOSED STANDARD,IETF,int,dhc
-4590,RADIUS Extension for Digest Authentication,"B. Sterman, D. Sadolevsky, D. Schwartz, D. Williams, W. Beck",July 2006,PROPOSED STANDARD,IETF,ops,radext
-4640,Problem Statement for bootstrapping Mobile IPv6 (MIPv6),"A. Patel, G. Giaretta",September 2006,INFORMATIONAL,IETF,int,mip6
-4652,Evaluation of Existing Routing Protocols against Automatic Switched Optical Network (ASON) Routing Requirements,"D. Papadimitriou, L. Ong, J. Sadler, S. Shew, D. Ward",October 2006,INFORMATIONAL,IETF,rtg,ccamp
-4655,A Path Computation Element (PCE)-Based Architecture,"A. Farrel, J.-P. Vasseur, J. Ash",August 2006,INFORMATIONAL,IETF,rtg,pce
-4657,Path Computation Element (PCE) Communication Protocol Generic Requirements,"J. Ash, J.L. Le Roux",September 2006,INFORMATIONAL,IETF,rtg,pce
-4665,Service Requirements for Layer 2 Provider-Provisioned Virtual Private Networks,"W. Augustyn, Y. Serbest",September 2006,INFORMATIONAL,IETF,int,l2vpn
+4590,RADIUS Extension for Digest Authentication,"B. Sterman,D. Sadolevsky,D. Schwartz,D. Williams,W. Beck",July 2006,PROPOSED STANDARD,IETF,ops,radext
+4640,Problem Statement for bootstrapping Mobile IPv6 (MIPv6),"A. Patel,G. Giaretta",September 2006,INFORMATIONAL,IETF,int,mip6
+4652,Evaluation of Existing Routing Protocols against Automatic Switched Optical Network (ASON) Routing Requirements,"D. Papadimitriou,D. Ward,J. Sadler,L. Ong,S. Shew",October 2006,INFORMATIONAL,IETF,rtg,ccamp
+4655,A Path Computation Element (PCE)-Based Architecture,"A. Farrel,J. Ash,J.-P. Vasseur",August 2006,INFORMATIONAL,IETF,rtg,pce
+4657,Path Computation Element (PCE) Communication Protocol Generic Requirements,"J. Ash,J.L. Le Roux",September 2006,INFORMATIONAL,IETF,rtg,pce
+4665,Service Requirements for Layer 2 Provider-Provisioned Virtual Private Networks,"W. Augustyn,Y. Serbest",September 2006,INFORMATIONAL,IETF,int,l2vpn
 4670,RADIUS Accounting Client MIB for IPv6,D. Nelson,August 2006,INFORMATIONAL,IETF,ops,radext
 4671,RADIUS Accounting Server MIB for IPv6,D. Nelson,August 2006,INFORMATIONAL,IETF,ops,radext
-4672,RADIUS Dynamic Authorization Client MIB,"S. De Cnodder, N. Jonnala, M. Chiba",September 2006,INFORMATIONAL,IETF,ops,radext
-4673,RADIUS Dynamic Authorization Server MIB,"S. De Cnodder, N. Jonnala, M. Chiba",September 2006,INFORMATIONAL,IETF,ops,radext
-4675,RADIUS Attributes for Virtual LAN and Priority Support,"P. Congdon, M. Sanchez, B. Aboba",September 2006,PROPOSED STANDARD,IETF,ops,radext
-4679,DSL Forum Vendor-Specific RADIUS Attributes,"V. Mammoliti, G. Zorn, P. Arberg, R. Rennison",September 2006,INFORMATIONAL,INDEPENDENT,,
-4682,Multimedia Terminal Adapter (MTA) Management Information Base for PacketCable- and IPCablecom-Compliant Devices,"E. Nechamkin, J-F. Mule",December 2006,PROPOSED STANDARD,IETF,ops,ipcdn
-4687,Operations and Management (OAM) Requirements  for Point-to-Multipoint MPLS Networks,"S. Yasukawa, A. Farrel, D. King, T. Nadeau",September 2006,INFORMATIONAL,IETF,rtg,mpls
-4721,Mobile IPv4 Challenge/Response Extensions (Revised),"C. Perkins, P. Calhoun, J. Bharatia",January 2007,PROPOSED STANDARD,IETF,int,mip4
-4739,Multiple Authentication Exchanges in the Internet Key Exchange (IKEv2) Protocol,"P. Eronen, J. Korhonen",November 2006,EXPERIMENTAL,IETF,,NON WORKING GROUP
-4740,Diameter Session Initiation Protocol (SIP) Application,"M. Garcia-Martin, M. Belinchon, M. Pallares-Lopez, C. Canales-Valenzuela, K. Tammi",November 2006,PROPOSED STANDARD,IETF,ops,aaa
-4746,Extensible Authentication Protocol (EAP) Password Authenticated Exchange,"T. Clancy, W. Arbaugh",November 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
-4764,The EAP-PSK Protocol: A Pre-Shared Key Extensible Authentication Protocol (EAP) Method,"F. Bersani, H. Tschofenig",January 2007,EXPERIMENTAL,INDEPENDENT,,
+4672,RADIUS Dynamic Authorization Client MIB,"M. Chiba,N. Jonnala,S. De Cnodder",September 2006,INFORMATIONAL,IETF,ops,radext
+4673,RADIUS Dynamic Authorization Server MIB,"M. Chiba,N. Jonnala,S. De Cnodder",September 2006,INFORMATIONAL,IETF,ops,radext
+4675,RADIUS Attributes for Virtual LAN and Priority Support,"B. Aboba,M. Sanchez,P. Congdon",September 2006,PROPOSED STANDARD,IETF,ops,radext
+4679,DSL Forum Vendor-Specific RADIUS Attributes,"G. Zorn,P. Arberg,R. Rennison,V. Mammoliti",September 2006,INFORMATIONAL,INDEPENDENT,,
+4682,Multimedia Terminal Adapter (MTA) Management Information Base for PacketCable- and IPCablecom-Compliant Devices,"E. Nechamkin,J-F. Mule",December 2006,PROPOSED STANDARD,IETF,ops,ipcdn
+4687,Operations and Management (OAM) Requirements  for Point-to-Multipoint MPLS Networks,"A. Farrel,D. King,S. Yasukawa,T. Nadeau",September 2006,INFORMATIONAL,IETF,rtg,mpls
+4721,Mobile IPv4 Challenge/Response Extensions (Revised),"C. Perkins,J. Bharatia,P. Calhoun",January 2007,PROPOSED STANDARD,IETF,int,mip4
+4739,Multiple Authentication Exchanges in the Internet Key Exchange (IKEv2) Protocol,"J. Korhonen,P. Eronen",November 2006,EXPERIMENTAL,IETF,,NON WORKING GROUP
+4740,Diameter Session Initiation Protocol (SIP) Application,"C. Canales-Valenzuela,K. Tammi,M. Belinchon,M. Garcia-Martin,M. Pallares-Lopez",November 2006,PROPOSED STANDARD,IETF,ops,aaa
+4746,Extensible Authentication Protocol (EAP) Password Authenticated Exchange,"T. Clancy,W. Arbaugh",November 2006,INFORMATIONAL,IETF,,NON WORKING GROUP
+4764,The EAP-PSK Protocol: A Pre-Shared Key Extensible Authentication Protocol (EAP) Method,"F. Bersani,H. Tschofenig",January 2007,EXPERIMENTAL,INDEPENDENT,,
 4778,Operational Security Current Practices in Internet Service Provider Environments,M. Kaeo,January 2007,INFORMATIONAL,IETF,ops,opsec
-4779,ISP IPv6 Deployment Scenarios in Broadband Access Networks,"S. Asadullah, A. Ahmed, C. Popoviciu, P. Savola, J. Palet",January 2007,INFORMATIONAL,IETF,ops,v6ops
-4784,Verizon Wireless Dynamic Mobile IP Key Update for cdma2000(R) Networks,"C. Carroll, F. Quick",June 2007,INFORMATIONAL,INDEPENDENT,,
-4818,RADIUS Delegated-IPv6-Prefix Attribute,"J. Salowey, R. Droms",April 2007,PROPOSED STANDARD,IETF,ops,radext
-4821,Packetization Layer Path MTU Discovery,"M. Mathis, J. Heffner",March 2007,PROPOSED STANDARD,IETF,tsv,pmtud
-4828,TCP Friendly Rate Control (TFRC): The Small-Packet (SP) Variant,"S. Floyd, E. Kohler",April 2007,EXPERIMENTAL,IETF,tsv,dccp
-4838,Delay-Tolerant Networking Architecture,"V. Cerf, S. Burleigh, A. Hooke, L. Torgerson, R. Durst, K. Scott, K. Fall, H. Weiss",April 2007,INFORMATIONAL,IRTF,,
+4779,ISP IPv6 Deployment Scenarios in Broadband Access Networks,"A. Ahmed,C. Popoviciu,J. Palet,P. Savola,S. Asadullah",January 2007,INFORMATIONAL,IETF,ops,v6ops
+4784,Verizon Wireless Dynamic Mobile IP Key Update for cdma2000(R) Networks,"C. Carroll,F. Quick",June 2007,INFORMATIONAL,INDEPENDENT,,
+4818,RADIUS Delegated-IPv6-Prefix Attribute,"J. Salowey,R. Droms",April 2007,PROPOSED STANDARD,IETF,ops,radext
+4821,Packetization Layer Path MTU Discovery,"J. Heffner,M. Mathis",March 2007,PROPOSED STANDARD,IETF,tsv,pmtud
+4828,TCP Friendly Rate Control (TFRC): The Small-Packet (SP) Variant,"E. Kohler,S. Floyd",April 2007,EXPERIMENTAL,IETF,tsv,dccp
+4838,Delay-Tolerant Networking Architecture,"A. Hooke,H. Weiss,K. Fall,K. Scott,L. Torgerson,R. Durst,S. Burleigh,V. Cerf",April 2007,INFORMATIONAL,IRTF,,
 4847,Framework and Requirements for Layer 1 Virtual Private Networks,T. Takeda,April 2007,INFORMATIONAL,IETF,rtg,l1vpn
-4849,RADIUS Filter Rule Attribute,"P. Congdon, M. Sanchez, B. Aboba",April 2007,PROPOSED STANDARD,IETF,ops,radext
-4851,The Flexible Authentication via Secure Tunneling Extensible Authentication Protocol Method (EAP-FAST),"N. Cam-Winget, D. McGrew, J. Salowey, H. Zhou",May 2007,INFORMATIONAL,IETF,,NON WORKING GROUP
-4857,Mobile IPv4 Regional Registration,"E. Fogelstroem, A. Jonsson, C. Perkins",June 2007,EXPERIMENTAL,IETF,int,mip4
-4877,Mobile IPv6 Operation with IKEv2 and the Revised IPsec Architecture,"V. Devarapalli, F. Dupont",April 2007,PROPOSED STANDARD,IETF,int,mip6
+4849,RADIUS Filter Rule Attribute,"B. Aboba,M. Sanchez,P. Congdon",April 2007,PROPOSED STANDARD,IETF,ops,radext
+4851,The Flexible Authentication via Secure Tunneling Extensible Authentication Protocol Method (EAP-FAST),"D. McGrew,H. Zhou,J. Salowey,N. Cam-Winget",May 2007,INFORMATIONAL,IETF,,NON WORKING GROUP
+4857,Mobile IPv4 Regional Registration,"A. Jonsson,C. Perkins,E. Fogelstroem",June 2007,EXPERIMENTAL,IETF,int,mip4
+4877,Mobile IPv6 Operation with IKEv2 and the Revised IPsec Architecture,"F. Dupont,V. Devarapalli",April 2007,PROPOSED STANDARD,IETF,int,mip6
 4881,Low-Latency Handoffs in Mobile IPv4,K. El Malki,June 2007,EXPERIMENTAL,IETF,int,mip4
-4888,Network Mobility Route Optimization Problem Statement,"C. Ng, P. Thubert, M. Watari, F. Zhao",July 2007,INFORMATIONAL,IETF,int,nemo
-4923,Quality of Service (QoS) Signaling in a Nested Virtual Private Network,"F. Baker, P. Bose",August 2007,INFORMATIONAL,IETF,tsv,tsvwg
-4925,Softwire Problem Statement,"X. Li, S. Dawkins, D. Ward, A. Durand",July 2007,INFORMATIONAL,IETF,int,softwire
+4888,Network Mobility Route Optimization Problem Statement,"C. Ng,F. Zhao,M. Watari,P. Thubert",July 2007,INFORMATIONAL,IETF,int,nemo
+4923,Quality of Service (QoS) Signaling in a Nested Virtual Private Network,"F. Baker,P. Bose",August 2007,INFORMATIONAL,IETF,tsv,tsvwg
+4925,Softwire Problem Statement,"A. Durand,D. Ward,S. Dawkins,X. Li",July 2007,INFORMATIONAL,IETF,int,softwire
 4949,"Internet Security Glossary, Version 2",R. Shirey,August 2007,INFORMATIONAL,INDEPENDENT,,
-4962,"Guidance for Authentication, Authorization, and Accounting (AAA) Key Management","R. Housley, B. Aboba",July 2007,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
-4988,Mobile IPv4 Fast Handovers,"R. Koodli, C. Perkins",October 2007,EXPERIMENTAL,IETF,int,mip4
+4962,"Guidance for Authentication, Authorization, and Accounting (AAA) Key Management","B. Aboba,R. Housley",July 2007,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+4988,Mobile IPv4 Fast Handovers,"C. Perkins,R. Koodli",October 2007,EXPERIMENTAL,IETF,int,mip4
 5000,Internet Official Protocol Standards,RFC Editor,May 2008,HISTORIC,INDEPENDENT,,
-5015,Bidirectional Protocol Independent Multicast (BIDIR-PIM),"M. Handley, I. Kouvelas, T. Speakman, L. Vicisano",October 2007,PROPOSED STANDARD,IETF,rtg,pim
-5026,Mobile IPv6 Bootstrapping in Split Scenario,"G. Giaretta, J. Kempf, V. Devarapalli",October 2007,PROPOSED STANDARD,IETF,int,mip6
-5030,Mobile IPv4 RADIUS Requirements,"M. Nakhjiri, K. Chowdhury, A. Lior, K. Leung",October 2007,INFORMATIONAL,IETF,int,mip4
-5058,Explicit Multicast (Xcast) Concepts and Options,"R. Boivie, N. Feldman, Y. Imai, W. Livens, D. Ooms",November 2007,EXPERIMENTAL,INDEPENDENT,,
+5015,Bidirectional Protocol Independent Multicast (BIDIR-PIM),"I. Kouvelas,L. Vicisano,M. Handley,T. Speakman",October 2007,PROPOSED STANDARD,IETF,rtg,pim
+5026,Mobile IPv6 Bootstrapping in Split Scenario,"G. Giaretta,J. Kempf,V. Devarapalli",October 2007,PROPOSED STANDARD,IETF,int,mip6
+5030,Mobile IPv4 RADIUS Requirements,"A. Lior,K. Chowdhury,K. Leung,M. Nakhjiri",October 2007,INFORMATIONAL,IETF,int,mip4
+5058,Explicit Multicast (Xcast) Concepts and Options,"D. Ooms,N. Feldman,R. Boivie,W. Livens,Y. Imai",November 2007,EXPERIMENTAL,INDEPENDENT,,
 5066,Ethernet in the First Mile Copper (EFMCu) Interfaces MIB,E. Beili,November 2007,PROPOSED STANDARD,IETF,ops,hubmib
-5067,Infrastructure ENUM Requirements,"S. Lind, P. Pfautz",November 2007,INFORMATIONAL,IETF,rai,enum
-5069,Security Threats and Requirements for Emergency Call Marking and Mapping,"T. Taylor, H. Tschofenig, H. Schulzrinne, M. Shanmugam",January 2008,INFORMATIONAL,IETF,rai,ecrit
-5080,Common Remote Authentication Dial In User Service (RADIUS) Implementation Issues and Suggested Fixes,"D. Nelson, A. DeKok",December 2007,PROPOSED STANDARD,IETF,ops,radext
-5090,RADIUS Extension for Digest Authentication,"B. Sterman, D. Sadolevsky, D. Schwartz, D. Williams, W. Beck",February 2008,PROPOSED STANDARD,IETF,ops,radext
-5106,The Extensible Authentication Protocol-Internet Key Exchange Protocol version 2 (EAP-IKEv2) Method,"H. Tschofenig, D. Kroeselberg, A. Pashalidis, Y. Ohba, F. Bersani",February 2008,EXPERIMENTAL,IETF,,NON WORKING GROUP
-5113,Network Discovery and Selection Problem,"J. Arkko, B. Aboba, J. Korhonen, F. Bari",January 2008,INFORMATIONAL,IETF,int,eap
+5067,Infrastructure ENUM Requirements,"P. Pfautz,S. Lind",November 2007,INFORMATIONAL,IETF,rai,enum
+5069,Security Threats and Requirements for Emergency Call Marking and Mapping,"H. Schulzrinne,H. Tschofenig,M. Shanmugam,T. Taylor",January 2008,INFORMATIONAL,IETF,rai,ecrit
+5080,Common Remote Authentication Dial In User Service (RADIUS) Implementation Issues and Suggested Fixes,"A. DeKok,D. Nelson",December 2007,PROPOSED STANDARD,IETF,ops,radext
+5090,RADIUS Extension for Digest Authentication,"B. Sterman,D. Sadolevsky,D. Schwartz,D. Williams,W. Beck",February 2008,PROPOSED STANDARD,IETF,ops,radext
+5106,The Extensible Authentication Protocol-Internet Key Exchange Protocol version 2 (EAP-IKEv2) Method,"A. Pashalidis,D. Kroeselberg,F. Bersani,H. Tschofenig,Y. Ohba",February 2008,EXPERIMENTAL,IETF,,NON WORKING GROUP
+5113,Network Discovery and Selection Problem,"B. Aboba,F. Bari,J. Arkko,J. Korhonen",January 2008,INFORMATIONAL,IETF,int,eap
 5116,An Interface and Algorithms for Authenticated Encryption,D. McGrew,January 2008,PROPOSED STANDARD,IETF,,NON WORKING GROUP
-5121,Transmission of IPv6 via the IPv6 Convergence Sublayer over IEEE 802.16 Networks,"B. Patil, F. Xia, B. Sarikaya, JH. Choi, S. Madanapalli",February 2008,PROPOSED STANDARD,IETF,int,16ng
+5121,Transmission of IPv6 via the IPv6 Convergence Sublayer over IEEE 802.16 Networks,"B. Patil,B. Sarikaya,F. Xia,JH. Choi,S. Madanapalli",February 2008,PROPOSED STANDARD,IETF,int,16ng
 5164,Mobility Services Transport: Problem Statement,T. Melia,March 2008,INFORMATIONAL,IETF,int,mipshop
-5169,Handover Key Management and Re-Authentication Problem Statement,"T. Clancy, M. Nakhjiri, V. Narayanan, L. Dondeti",March 2008,INFORMATIONAL,IETF,sec,hokey
-5176,Dynamic Authorization Extensions to Remote Authentication Dial In User Service (RADIUS),"M. Chiba, G. Dommety, M. Eklund, D. Mitton, B. Aboba",January 2008,INFORMATIONAL,IETF,ops,radext
-5181,IPv6 Deployment Scenarios in 802.16 Networks,"M-K. Shin, Y-H. Han, S-E. Kim, D. Premec",May 2008,INFORMATIONAL,IETF,ops,v6ops
-5191,Protocol for Carrying Authentication for Network Access (PANA),"D. Forsberg, Y. Ohba, B. Patil, H. Tschofenig, A. Yegin",May 2008,PROPOSED STANDARD,IETF,int,pana
-5193,Protocol for Carrying Authentication for Network Access (PANA) Framework,"P. Jayaraman, R. Lopez, Y. Ohba, M. Parthasarathy, A. Yegin",May 2008,INFORMATIONAL,IETF,int,pana
-5210,A Source Address Validation Architecture (SAVA) Testbed and Deployment Experience,"J. Wu, J. Bi, X. Li, G. Ren, K. Xu, M. Williams",June 2008,EXPERIMENTAL,IETF,,NON WORKING GROUP
-5213,Proxy Mobile IPv6,"S. Gundavelli, K. Leung, V. Devarapalli, K. Chowdhury, B. Patil",August 2008,PROPOSED STANDARD,IETF,int,netlmm
-5216,The EAP-TLS Authentication Protocol,"D. Simon, B. Aboba, R. Hurst",March 2008,PROPOSED STANDARD,IETF,sec,emu
-5218,What Makes for a Successful Protocol?,"D. Thaler, B. Aboba",July 2008,INFORMATIONAL,IAB,,
+5169,Handover Key Management and Re-Authentication Problem Statement,"L. Dondeti,M. Nakhjiri,T. Clancy,V. Narayanan",March 2008,INFORMATIONAL,IETF,sec,hokey
+5176,Dynamic Authorization Extensions to Remote Authentication Dial In User Service (RADIUS),"B. Aboba,D. Mitton,G. Dommety,M. Chiba,M. Eklund",January 2008,INFORMATIONAL,IETF,ops,radext
+5181,IPv6 Deployment Scenarios in 802.16 Networks,"D. Premec,M-K. Shin,S-E. Kim,Y-H. Han",May 2008,INFORMATIONAL,IETF,ops,v6ops
+5191,Protocol for Carrying Authentication for Network Access (PANA),"A. Yegin,B. Patil,D. Forsberg,H. Tschofenig,Y. Ohba",May 2008,PROPOSED STANDARD,IETF,int,pana
+5193,Protocol for Carrying Authentication for Network Access (PANA) Framework,"A. Yegin,M. Parthasarathy,P. Jayaraman,R. Lopez,Y. Ohba",May 2008,INFORMATIONAL,IETF,int,pana
+5210,A Source Address Validation Architecture (SAVA) Testbed and Deployment Experience,"G. Ren,J. Bi,J. Wu,K. Xu,M. Williams,X. Li",June 2008,EXPERIMENTAL,IETF,,NON WORKING GROUP
+5213,Proxy Mobile IPv6,"B. Patil,K. Chowdhury,K. Leung,S. Gundavelli,V. Devarapalli",August 2008,PROPOSED STANDARD,IETF,int,netlmm
+5216,The EAP-TLS Authentication Protocol,"B. Aboba,D. Simon,R. Hurst",March 2008,PROPOSED STANDARD,IETF,sec,emu
+5218,What Makes for a Successful Protocol?,"B. Aboba,D. Thaler",July 2008,INFORMATIONAL,IAB,,
 5224,Diameter Policy Processing Application,M. Brenner,March 2008,INFORMATIONAL,IETF,,NON WORKING GROUP
-5226,Guidelines for Writing an IANA Considerations Section in RFCs,"T. Narten, H. Alvestrand",May 2008,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
-5247,Extensible Authentication Protocol (EAP) Key Management Framework,"B. Aboba, D. Simon, P. Eronen",August 2008,PROPOSED STANDARD,IETF,int,eap
+5226,Guidelines for Writing an IANA Considerations Section in RFCs,"H. Alvestrand,T. Narten",May 2008,BEST CURRENT PRACTICE,IETF,,NON WORKING GROUP
+5247,Extensible Authentication Protocol (EAP) Key Management Framework,"B. Aboba,D. Simon,P. Eronen",August 2008,PROPOSED STANDARD,IETF,int,eap
 5253,Applicability Statement for Layer 1 Virtual Private Network (L1VPN) Basic Mode,T. Takeda,July 2008,INFORMATIONAL,IETF,rtg,l1vpn
-5254,Requirements for Multi-Segment Pseudowire Emulation Edge-to-Edge (PWE3),"N. Bitar, M. Bocci, L. Martini",October 2008,INFORMATIONAL,IETF,int,pwe3
-5271,Mobile IPv6 Fast Handovers for 3G CDMA Networks,"H. Yokota, G. Dommety",June 2008,INFORMATIONAL,IETF,int,mipshop
-5281,Extensible Authentication Protocol Tunneled Transport Layer Security Authenticated Protocol Version 0 (EAP-TTLSv0),"P. Funk, S. Blake-Wilson",August 2008,INFORMATIONAL,IETF,,NON WORKING GROUP
-5290,Comments on the Usefulness of Simple Best-Effort Traffic,"S. Floyd, M. Allman",July 2008,INFORMATIONAL,INDEPENDENT,,
-5296,EAP Extensions for EAP Re-authentication Protocol (ERP),"V. Narayanan, L. Dondeti",August 2008,PROPOSED STANDARD,IETF,sec,hokey
+5254,Requirements for Multi-Segment Pseudowire Emulation Edge-to-Edge (PWE3),"L. Martini,M. Bocci,N. Bitar",October 2008,INFORMATIONAL,IETF,int,pwe3
+5271,Mobile IPv6 Fast Handovers for 3G CDMA Networks,"G. Dommety,H. Yokota",June 2008,INFORMATIONAL,IETF,int,mipshop
+5281,Extensible Authentication Protocol Tunneled Transport Layer Security Authenticated Protocol Version 0 (EAP-TTLSv0),"P. Funk,S. Blake-Wilson",August 2008,INFORMATIONAL,IETF,,NON WORKING GROUP
+5290,Comments on the Usefulness of Simple Best-Effort Traffic,"M. Allman,S. Floyd",July 2008,INFORMATIONAL,INDEPENDENT,,
+5296,EAP Extensions for EAP Re-authentication Protocol (ERP),"L. Dondeti,V. Narayanan",August 2008,PROPOSED STANDARD,IETF,sec,hokey
 5320,The Subnetwork Encapsulation and Adaptation Layer (SEAL),F. Templin,February 2010,EXPERIMENTAL,INDEPENDENT,,
-5351,An Overview of Reliable Server Pooling Protocols,"P. Lei, L. Ong, M. Tuexen, T. Dreibholz",September 2008,INFORMATIONAL,IETF,tsv,rserpool
-5380,Hierarchical Mobile IPv6 (HMIPv6) Mobility Management,"H. Soliman, C. Castelluccia, K. ElMalki, L. Bellier",October 2008,PROPOSED STANDARD,IETF,int,mipshop
-5394,Policy-Enabled Path Computation Framework,"I. Bryskin, D. Papadimitriou, L. Berger, J. Ash",December 2008,INFORMATIONAL,IETF,rtg,pce
-5415,Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Specification,"P. Calhoun, M. Montemurro, D. Stanley",March 2009,PROPOSED STANDARD,IETF,ops,capwap
-5416,Control and Provisioning of Wireless Access Points (CAPWAP) Protocol Binding for IEEE 802.11,"P. Calhoun, M. Montemurro, D. Stanley",March 2009,PROPOSED STANDARD,IETF,ops,capwap
-5418,Control And Provisioning of Wireless Access Points (CAPWAP) Threat Analysis for IEEE 802.11 Deployments,"S. Kelly, T. Clancy",March 2009,INFORMATIONAL,IETF,ops,capwap
-5419,Why the Authentication Data Suboption is Needed for Mobile IPv6 (MIPv6),"B. Patil, G. Dommety",January 2009,INFORMATIONAL,IETF,int,mip6
-5423,Internet Message Store Events,"R. Gellens, C. Newman",March 2009,PROPOSED STANDARD,IETF,app,lemonade
+5351,An Overview of Reliable Server Pooling Protocols,"L. Ong,M. Tuexen,P. Lei,T. Dreibholz",September 2008,INFORMATIONAL,IETF,tsv,rserpool
+5380,Hierarchical Mobile IPv6 (HMIPv6) Mobility Management,"C. Castelluccia,H. Soliman,K. ElMalki,L. Bellier",October 2008,PROPOSED STANDARD,IETF,int,mipshop
+5394,Policy-Enabled Path Computation Framework,"D. Papadimitriou,I. Bryskin,J. Ash,L. Berger",December 2008,INFORMATIONAL,IETF,rtg,pce
+5415,Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Specification,"D. Stanley,M. Montemurro,P. Calhoun",March 2009,PROPOSED STANDARD,IETF,ops,capwap
+5416,Control and Provisioning of Wireless Access Points (CAPWAP) Protocol Binding for IEEE 802.11,"D. Stanley,M. Montemurro,P. Calhoun",March 2009,PROPOSED STANDARD,IETF,ops,capwap
+5418,Control And Provisioning of Wireless Access Points (CAPWAP) Threat Analysis for IEEE 802.11 Deployments,"S. Kelly,T. Clancy",March 2009,INFORMATIONAL,IETF,ops,capwap
+5419,Why the Authentication Data Suboption is Needed for Mobile IPv6 (MIPv6),"B. Patil,G. Dommety",January 2009,INFORMATIONAL,IETF,int,mip6
+5423,Internet Message Store Events,"C. Newman,R. Gellens",March 2009,PROPOSED STANDARD,IETF,app,lemonade
 5431,Diameter ITU-T Rw Policy Enforcement Interface Application,D. Sun,March 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
-5433,Extensible Authentication Protocol - Generalized Pre-Shared Key (EAP-GPSK) Method,"T. Clancy, H. Tschofenig",February 2009,PROPOSED STANDARD,IETF,sec,emu
-5441,A Backward-Recursive PCE-Based Computation (BRPC) Procedure to Compute Shortest Constrained Inter-Domain Traffic Engineering Label Switched Paths,"JP. Vasseur, R. Zhang, N. Bitar, JL. Le Roux",April 2009,PROPOSED STANDARD,IETF,rtg,pce
-5447,Diameter Mobile IPv6: Support for Network Access Server to Diameter Server Interaction,"J. Korhonen, J. Bournelle, H. Tschofenig, C. Perkins, K. Chowdhury",February 2009,PROPOSED STANDARD,IETF,ops,dime
-5448,Improved Extensible Authentication Protocol Method for 3rd Generation Authentication and Key Agreement (EAP-AKA\'),"J. Arkko, V. Lehtovirta, P. Eronen",May 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
-5456,IAX: Inter-Asterisk eXchange Version 2,"M. Spencer, B. Capouch, E. Guy, F. Miller, K. Shumard",February 2010,INFORMATIONAL,INDEPENDENT,,
-5470,Architecture for IP Flow Information Export,"G. Sadasivan, N. Brownlee, B. Claise, J. Quittek",March 2009,INFORMATIONAL,IETF,ops,ipfix
-5472,IP Flow Information Export (IPFIX) Applicability,"T. Zseby, E. Boschi, N. Brownlee, B. Claise",March 2009,INFORMATIONAL,IETF,ops,ipfix
-5475,Sampling and Filtering Techniques for IP Packet Selection,"T. Zseby, M. Molina, N. Duffield, S. Niccolini, F. Raspall",March 2009,PROPOSED STANDARD,IETF,ops,psamp
-5481,Packet Delay Variation Applicability Statement,"A. Morton, B. Claise",March 2009,INFORMATIONAL,IETF,tsv,ippm
-5503,Private Session Initiation Protocol (SIP) Proxy-to-Proxy Extensions for Supporting the PacketCable Distributed Call Signaling Architecture,"F. Andreasen, B. McKibben, B. Marshall",March 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
-5515,Layer 2 Tunneling Protocol (L2TP) Access Line Information Attribute Value Pair (AVP) Extensions,"V. Mammoliti, C. Pignataro, P. Arberg, J. Gibbons, P. Howard",May 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
-5533,Shim6: Level 3 Multihoming Shim Protocol for IPv6,"E. Nordmark, M. Bagnulo",June 2009,PROPOSED STANDARD,IETF,int,shim6
+5433,Extensible Authentication Protocol - Generalized Pre-Shared Key (EAP-GPSK) Method,"H. Tschofenig,T. Clancy",February 2009,PROPOSED STANDARD,IETF,sec,emu
+5441,A Backward-Recursive PCE-Based Computation (BRPC) Procedure to Compute Shortest Constrained Inter-Domain Traffic Engineering Label Switched Paths,"JL. Le Roux,JP. Vasseur,N. Bitar,R. Zhang",April 2009,PROPOSED STANDARD,IETF,rtg,pce
+5447,Diameter Mobile IPv6: Support for Network Access Server to Diameter Server Interaction,"C. Perkins,H. Tschofenig,J. Bournelle,J. Korhonen,K. Chowdhury",February 2009,PROPOSED STANDARD,IETF,ops,dime
+5448,Improved Extensible Authentication Protocol Method for 3rd Generation Authentication and Key Agreement (EAP-AKA\'),"J. Arkko,P. Eronen,V. Lehtovirta",May 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
+5456,IAX: Inter-Asterisk eXchange Version 2,"B. Capouch,E. Guy,F. Miller,K. Shumard,M. Spencer",February 2010,INFORMATIONAL,INDEPENDENT,,
+5470,Architecture for IP Flow Information Export,"B. Claise,G. Sadasivan,J. Quittek,N. Brownlee",March 2009,INFORMATIONAL,IETF,ops,ipfix
+5472,IP Flow Information Export (IPFIX) Applicability,"B. Claise,E. Boschi,N. Brownlee,T. Zseby",March 2009,INFORMATIONAL,IETF,ops,ipfix
+5475,Sampling and Filtering Techniques for IP Packet Selection,"F. Raspall,M. Molina,N. Duffield,S. Niccolini,T. Zseby",March 2009,PROPOSED STANDARD,IETF,ops,psamp
+5481,Packet Delay Variation Applicability Statement,"A. Morton,B. Claise",March 2009,INFORMATIONAL,IETF,tsv,ippm
+5503,Private Session Initiation Protocol (SIP) Proxy-to-Proxy Extensions for Supporting the PacketCable Distributed Call Signaling Architecture,"B. Marshall,B. McKibben,F. Andreasen",March 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
+5515,Layer 2 Tunneling Protocol (L2TP) Access Line Information Attribute Value Pair (AVP) Extensions,"C. Pignataro,J. Gibbons,P. Arberg,P. Howard,V. Mammoliti",May 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
+5533,Shim6: Level 3 Multihoming Shim Protocol for IPv6,"E. Nordmark,M. Bagnulo",June 2009,PROPOSED STANDARD,IETF,int,shim6
 5539,NETCONF over Transport Layer Security (TLS),M. Badra,May 2009,PROPOSED STANDARD,IETF,ops,netconf
 5559,Pre-Congestion Notification (PCN) Architecture,P. Eardley,June 2009,INFORMATIONAL,IETF,tsv,pcn
-5563,WiMAX Forum / 3GPP2 Proxy Mobile IPv4,"K. Leung, G. Dommety, P. Yegani, K. Chowdhury",February 2010,INFORMATIONAL,INDEPENDENT,,
-5571,Softwire Hub and Spoke Deployment Framework with Layer Two Tunneling Protocol Version 2 (L2TPv2),"B. Storer, C. Pignataro, M. Dos Santos, B. Stevant, L. Toutain, J. Tremblay",June 2009,PROPOSED STANDARD,IETF,int,softwire
-5572,IPv6 Tunnel Broker with the Tunnel Setup Protocol (TSP),"M. Blanchet, F. Parent",February 2010,EXPERIMENTAL,INDEPENDENT,,
-5578,PPP over Ethernet (PPPoE) Extensions for Credit Flow and Link Metrics,"B. Berry, S. Ratliff, E. Paradise, T. Kaiser, M. Adams",February 2010,INFORMATIONAL,INDEPENDENT,,
-5580,Carrying Location Objects in RADIUS and Diameter,"H. Tschofenig, F. Adrangi, M. Jones, A. Lior, B. Aboba",August 2009,PROPOSED STANDARD,IETF,rai,geopriv
-5590,Transport Subsystem for the Simple Network Management Protocol (SNMP),"D. Harrington, J. Schoenwaelder",June 2009,INTERNET STANDARD,IETF,sec,isms
-5591,Transport Security Model for the Simple Network Management Protocol (SNMP),"D. Harrington, W. Hardaker",June 2009,INTERNET STANDARD,IETF,sec,isms
-5592,Secure Shell Transport Model for the Simple Network Management Protocol (SNMP),"D. Harrington, J. Salowey, W. Hardaker",June 2009,PROPOSED STANDARD,IETF,sec,isms
-5607,Remote Authentication Dial-In User Service (RADIUS) Authorization for Network Access Server (NAS) Management,"D. Nelson, G. Weber",July 2009,PROPOSED STANDARD,IETF,ops,radext
-5608,Remote Authentication Dial-In User Service (RADIUS) Usage for Simple Network Management Protocol (SNMP) Transport Models,"K. Narayan, D. Nelson",August 2009,PROPOSED STANDARD,IETF,sec,isms
-5619,Softwire Security Analysis and Requirements,"S. Yamamoto, C. Williams, H. Yokota, F. Parent",August 2009,PROPOSED STANDARD,IETF,int,softwire
-5624,Quality of Service Parameters for Usage with Diameter,"J. Korhonen, H. Tschofenig, E. Davies",August 2009,PROPOSED STANDARD,IETF,ops,dime
+5563,WiMAX Forum / 3GPP2 Proxy Mobile IPv4,"G. Dommety,K. Chowdhury,K. Leung,P. Yegani",February 2010,INFORMATIONAL,INDEPENDENT,,
+5571,Softwire Hub and Spoke Deployment Framework with Layer Two Tunneling Protocol Version 2 (L2TPv2),"B. Stevant,B. Storer,C. Pignataro,J. Tremblay,L. Toutain,M. Dos Santos",June 2009,PROPOSED STANDARD,IETF,int,softwire
+5572,IPv6 Tunnel Broker with the Tunnel Setup Protocol (TSP),"F. Parent,M. Blanchet",February 2010,EXPERIMENTAL,INDEPENDENT,,
+5578,PPP over Ethernet (PPPoE) Extensions for Credit Flow and Link Metrics,"B. Berry,E. Paradise,M. Adams,S. Ratliff,T. Kaiser",February 2010,INFORMATIONAL,INDEPENDENT,,
+5580,Carrying Location Objects in RADIUS and Diameter,"A. Lior,B. Aboba,F. Adrangi,H. Tschofenig,M. Jones",August 2009,PROPOSED STANDARD,IETF,rai,geopriv
+5590,Transport Subsystem for the Simple Network Management Protocol (SNMP),"D. Harrington,J. Schoenwaelder",June 2009,INTERNET STANDARD,IETF,sec,isms
+5591,Transport Security Model for the Simple Network Management Protocol (SNMP),"D. Harrington,W. Hardaker",June 2009,INTERNET STANDARD,IETF,sec,isms
+5592,Secure Shell Transport Model for the Simple Network Management Protocol (SNMP),"D. Harrington,J. Salowey,W. Hardaker",June 2009,PROPOSED STANDARD,IETF,sec,isms
+5607,Remote Authentication Dial-In User Service (RADIUS) Authorization for Network Access Server (NAS) Management,"D. Nelson,G. Weber",July 2009,PROPOSED STANDARD,IETF,ops,radext
+5608,Remote Authentication Dial-In User Service (RADIUS) Usage for Simple Network Management Protocol (SNMP) Transport Models,"D. Nelson,K. Narayan",August 2009,PROPOSED STANDARD,IETF,sec,isms
+5619,Softwire Security Analysis and Requirements,"C. Williams,F. Parent,H. Yokota,S. Yamamoto",August 2009,PROPOSED STANDARD,IETF,int,softwire
+5624,Quality of Service Parameters for Usage with Diameter,"E. Davies,H. Tschofenig,J. Korhonen",August 2009,PROPOSED STANDARD,IETF,ops,dime
 5627,Obtaining and Using Globally Routable User Agent URIs (GRUUs) in the Session Initiation Protocol (SIP),J. Rosenberg,October 2009,PROPOSED STANDARD,IETF,rai,sip
-5637,"Authentication, Authorization, and Accounting (AAA) Goals for Mobile IPv6","G. Giaretta, I. Guardini, E. Demaria, J. Bournelle, R. Lopez",September 2009,INFORMATIONAL,IETF,int,mext
-5655,Specification of the IP Flow Information Export (IPFIX) File Format,"B. Trammell, E. Boschi, L. Mark, T. Zseby, A. Wagner",October 2009,PROPOSED STANDARD,IETF,ops,ipfix
-5659,An Architecture for Multi-Segment Pseudowire Emulation Edge-to-Edge,"M. Bocci, S. Bryant",October 2009,INFORMATIONAL,IETF,int,pwe3
-5661,Network File System (NFS) Version 4 Minor Version 1 Protocol,"S. Shepler, M. Eisler, D. Noveck",January 2010,PROPOSED STANDARD,IETF,tsv,nfsv4
-5664,Object-Based Parallel NFS (pNFS) Operations,"B. Halevy, B. Welch, J. Zelenka",January 2010,PROPOSED STANDARD,IETF,tsv,nfsv4
-5666,Remote Direct Memory Access Transport for Remote Procedure Call,"T. Talpey, B. Callaghan",January 2010,PROPOSED STANDARD,IETF,tsv,nfsv4
-5677,IEEE 802.21 Mobility Services Framework Design (MSFD),"T. Melia, G. Bajko, S. Das, N. Golmie, JC. Zuniga",December 2009,PROPOSED STANDARD,IETF,int,mipshop
-5685,Redirect Mechanism for the Internet Key Exchange Protocol Version 2 (IKEv2),"V. Devarapalli, K. Weniger",November 2009,PROPOSED STANDARD,IETF,sec,ipsecme
-5690,Adding Acknowledgement Congestion Control to TCP,"S. Floyd, A. Arcia, D. Ros, J. Iyengar",February 2010,INFORMATIONAL,INDEPENDENT,,
-5692,Transmission of IP over Ethernet over IEEE 802.16 Networks,"H. Jeon, S. Jeong, M. Riegel",October 2009,PROPOSED STANDARD,IETF,int,16ng
+5637,"Authentication, Authorization, and Accounting (AAA) Goals for Mobile IPv6","E. Demaria,G. Giaretta,I. Guardini,J. Bournelle,R. Lopez",September 2009,INFORMATIONAL,IETF,int,mext
+5655,Specification of the IP Flow Information Export (IPFIX) File Format,"A. Wagner,B. Trammell,E. Boschi,L. Mark,T. Zseby",October 2009,PROPOSED STANDARD,IETF,ops,ipfix
+5659,An Architecture for Multi-Segment Pseudowire Emulation Edge-to-Edge,"M. Bocci,S. Bryant",October 2009,INFORMATIONAL,IETF,int,pwe3
+5661,Network File System (NFS) Version 4 Minor Version 1 Protocol,"D. Noveck,M. Eisler,S. Shepler",January 2010,PROPOSED STANDARD,IETF,tsv,nfsv4
+5664,Object-Based Parallel NFS (pNFS) Operations,"B. Halevy,B. Welch,J. Zelenka",January 2010,PROPOSED STANDARD,IETF,tsv,nfsv4
+5666,Remote Direct Memory Access Transport for Remote Procedure Call,"B. Callaghan,T. Talpey",January 2010,PROPOSED STANDARD,IETF,tsv,nfsv4
+5677,IEEE 802.21 Mobility Services Framework Design (MSFD),"G. Bajko,JC. Zuniga,N. Golmie,S. Das,T. Melia",December 2009,PROPOSED STANDARD,IETF,int,mipshop
+5685,Redirect Mechanism for the Internet Key Exchange Protocol Version 2 (IKEv2),"K. Weniger,V. Devarapalli",November 2009,PROPOSED STANDARD,IETF,sec,ipsecme
+5690,Adding Acknowledgement Congestion Control to TCP,"A. Arcia,D. Ros,J. Iyengar,S. Floyd",February 2010,INFORMATIONAL,INDEPENDENT,,
+5692,Transmission of IP over Ethernet over IEEE 802.16 Networks,"H. Jeon,M. Riegel,S. Jeong",October 2009,PROPOSED STANDARD,IETF,int,16ng
 5706,Guidelines for Considering Operations and Management of New Protocols and Protocol Extensions,D. Harrington,November 2009,INFORMATIONAL,IETF,ops,opsawg
-5712,MPLS Traffic Engineering Soft Preemption,"M. Meyer, JP. Vasseur",January 2010,PROPOSED STANDARD,IETF,rtg,mpls
-5713,Security Threats and Security Requirements for the Access Node Control Protocol (ANCP),"H. Moustafa, H. Tschofenig, S. De Cnodder",January 2010,INFORMATIONAL,IETF,int,ancp
-5729,Clarifications on the Routing of Diameter Requests Based on the Username and the Realm,"J. Korhonen, M. Jones, L. Morand, T. Tsou",December 2009,PROPOSED STANDARD,IETF,ops,dime
-5749,Distribution of EAP-Based Keys for Handover and Re-Authentication,"K. Hoeper, M. Nakhjiri, Y. Ohba",March 2010,PROPOSED STANDARD,IETF,sec,hokey
-5757,Multicast Mobility in Mobile IP Version 6 (MIPv6): Problem Statement and Brief Survey,"T. Schmidt, M. Waehlisch, G. Fairhurst",February 2010,INFORMATIONAL,IRTF,,
-5772,A Set of Possible Requirements for a Future Routing Architecture,"A. Doria, E. Davies, F. Kastenholz",February 2010,HISTORIC,IRTF,,
-5777,Traffic Classification and Quality of Service (QoS) Attributes for Diameter,"J. Korhonen, H. Tschofenig, M. Arumaithurai, M. Jones, A. Lior",February 2010,PROPOSED STANDARD,IETF,ops,dime
-5778,Diameter Mobile IPv6: Support for Home Agent to Diameter Server Interaction,"J. Korhonen, H. Tschofenig, J. Bournelle, G. Giaretta, M. Nakhjiri",February 2010,PROPOSED STANDARD,IETF,ops,dime
-5779,Diameter Proxy Mobile IPv6: Mobile Access Gateway and Local Mobility Anchor Interaction with Diameter Server,"J. Korhonen, J. Bournelle, K. Chowdhury, A. Muhanna, U. Meyer",February 2010,PROPOSED STANDARD,IETF,ops,dime
+5712,MPLS Traffic Engineering Soft Preemption,"JP. Vasseur,M. Meyer",January 2010,PROPOSED STANDARD,IETF,rtg,mpls
+5713,Security Threats and Security Requirements for the Access Node Control Protocol (ANCP),"H. Moustafa,H. Tschofenig,S. De Cnodder",January 2010,INFORMATIONAL,IETF,int,ancp
+5729,Clarifications on the Routing of Diameter Requests Based on the Username and the Realm,"J. Korhonen,L. Morand,M. Jones,T. Tsou",December 2009,PROPOSED STANDARD,IETF,ops,dime
+5749,Distribution of EAP-Based Keys for Handover and Re-Authentication,"K. Hoeper,M. Nakhjiri,Y. Ohba",March 2010,PROPOSED STANDARD,IETF,sec,hokey
+5757,Multicast Mobility in Mobile IP Version 6 (MIPv6): Problem Statement and Brief Survey,"G. Fairhurst,M. Waehlisch,T. Schmidt",February 2010,INFORMATIONAL,IRTF,,
+5772,A Set of Possible Requirements for a Future Routing Architecture,"A. Doria,E. Davies,F. Kastenholz",February 2010,HISTORIC,IRTF,,
+5777,Traffic Classification and Quality of Service (QoS) Attributes for Diameter,"A. Lior,H. Tschofenig,J. Korhonen,M. Arumaithurai,M. Jones",February 2010,PROPOSED STANDARD,IETF,ops,dime
+5778,Diameter Mobile IPv6: Support for Home Agent to Diameter Server Interaction,"G. Giaretta,H. Tschofenig,J. Bournelle,J. Korhonen,M. Nakhjiri",February 2010,PROPOSED STANDARD,IETF,ops,dime
+5779,Diameter Proxy Mobile IPv6: Mobile Access Gateway and Local Mobility Anchor Interaction with Diameter Server,"A. Muhanna,J. Bournelle,J. Korhonen,K. Chowdhury,U. Meyer",February 2010,PROPOSED STANDARD,IETF,ops,dime
 5787,OSPFv2 Routing Protocols Extensions for Automatically Switched Optical Network (ASON) Routing,D. Papadimitriou,March 2010,EXPERIMENTAL,IETF,rtg,ccamp
-5807,Definition of Master Key between PANA Client and Enforcement Point,"Y. Ohba, A. Yegin",March 2010,PROPOSED STANDARD,IETF,,NON WORKING GROUP
-5810,Forwarding and Control Element Separation (ForCES) Protocol Specification,"A. Doria, J. Hadi Salim, R. Haas, H. Khosravi, W. Wang, L. Dong, R. Gopal, J. Halpern",March 2010,PROPOSED STANDARD,IETF,rtg,forces
-5812,Forwarding and Control Element Separation (ForCES) Forwarding Element Model,"J. Halpern, J. Hadi Salim",March 2010,PROPOSED STANDARD,IETF,rtg,forces
-5836,Extensible Authentication Protocol (EAP) Early Authentication Problem Statement,"Y. Ohba, Q. Wu, G. Zorn",April 2010,INFORMATIONAL,IETF,sec,hokey
-5841,TCP Option to Denote Packet Mood,"R. Hay, W. Turkal",1 April 2010,INFORMATIONAL,INDEPENDENT,,
-5846,Binding Revocation for IPv6 Mobility,"A. Muhanna, M. Khalil, S. Gundavelli, K. Chowdhury, P. Yegani",June 2010,PROPOSED STANDARD,IETF,int,mext
-5850,A Call Control and Multi-Party Usage Framework for the Session Initiation Protocol (SIP),"R. Mahy, R. Sparks, J. Rosenberg, D. Petrie, A. Johnston",May 2010,INFORMATIONAL,IETF,rai,sipping
-5851,Framework and Requirements for an Access Node Control Mechanism in Broadband Multi-Service Networks,"S. Ooghe, N. Voigt, M. Platnic, T. Haag, S. Wadhwa",May 2010,INFORMATIONAL,IETF,int,ancp
-5865,A Differentiated Services Code Point (DSCP) for Capacity-Admitted Traffic,"F. Baker, J. Polk, M. Dolly",May 2010,PROPOSED STANDARD,IETF,tsv,tsvwg
-5866,Diameter Quality-of-Service Application,"D. Sun, P. McCann, H. Tschofenig, T. Tsou, A. Doria, G. Zorn",May 2010,PROPOSED STANDARD,IETF,ops,dime
-5867,Building Automation Routing Requirements in Low-Power and Lossy Networks,"J. Martocci, P. De Mil, N. Riou, W. Vermeylen",June 2010,INFORMATIONAL,IETF,rtg,roll
-5873,Pre-Authentication Support for the Protocol for Carrying Authentication for Network Access (PANA),"Y. Ohba, A. Yegin",May 2010,EXPERIMENTAL,IETF,,NON WORKING GROUP
-5879,Heuristics for Detecting ESP-NULL Packets,"T. Kivinen, D. McDonald",May 2010,INFORMATIONAL,IETF,sec,ipsecme
-5887,Renumbering Still Needs Work,"B. Carpenter, R. Atkinson, H. Flinck",May 2010,INFORMATIONAL,IETF,,NON WORKING GROUP
+5807,Definition of Master Key between PANA Client and Enforcement Point,"A. Yegin,Y. Ohba",March 2010,PROPOSED STANDARD,IETF,,NON WORKING GROUP
+5810,Forwarding and Control Element Separation (ForCES) Protocol Specification,"A. Doria,H. Khosravi,J. Hadi Salim,J. Halpern,L. Dong,R. Gopal,R. Haas,W. Wang",March 2010,PROPOSED STANDARD,IETF,rtg,forces
+5812,Forwarding and Control Element Separation (ForCES) Forwarding Element Model,"J. Hadi Salim,J. Halpern",March 2010,PROPOSED STANDARD,IETF,rtg,forces
+5836,Extensible Authentication Protocol (EAP) Early Authentication Problem Statement,"G. Zorn,Q. Wu,Y. Ohba",April 2010,INFORMATIONAL,IETF,sec,hokey
+5841,TCP Option to Denote Packet Mood,"R. Hay,W. Turkal",1 April 2010,INFORMATIONAL,INDEPENDENT,,
+5846,Binding Revocation for IPv6 Mobility,"A. Muhanna,K. Chowdhury,M. Khalil,P. Yegani,S. Gundavelli",June 2010,PROPOSED STANDARD,IETF,int,mext
+5850,A Call Control and Multi-Party Usage Framework for the Session Initiation Protocol (SIP),"A. Johnston,D. Petrie,J. Rosenberg,R. Mahy,R. Sparks",May 2010,INFORMATIONAL,IETF,rai,sipping
+5851,Framework and Requirements for an Access Node Control Mechanism in Broadband Multi-Service Networks,"M. Platnic,N. Voigt,S. Ooghe,S. Wadhwa,T. Haag",May 2010,INFORMATIONAL,IETF,int,ancp
+5865,A Differentiated Services Code Point (DSCP) for Capacity-Admitted Traffic,"F. Baker,J. Polk,M. Dolly",May 2010,PROPOSED STANDARD,IETF,tsv,tsvwg
+5866,Diameter Quality-of-Service Application,"A. Doria,D. Sun,G. Zorn,H. Tschofenig,P. McCann,T. Tsou",May 2010,PROPOSED STANDARD,IETF,ops,dime
+5867,Building Automation Routing Requirements in Low-Power and Lossy Networks,"J. Martocci,N. Riou,P. De Mil,W. Vermeylen",June 2010,INFORMATIONAL,IETF,rtg,roll
+5873,Pre-Authentication Support for the Protocol for Carrying Authentication for Network Access (PANA),"A. Yegin,Y. Ohba",May 2010,EXPERIMENTAL,IETF,,NON WORKING GROUP
+5879,Heuristics for Detecting ESP-NULL Packets,"D. McDonald,T. Kivinen",May 2010,INFORMATIONAL,IETF,sec,ipsecme
+5887,Renumbering Still Needs Work,"B. Carpenter,H. Flinck,R. Atkinson",May 2010,INFORMATIONAL,IETF,,NON WORKING GROUP
 5897,Identification of Communications Services in the Session Initiation Protocol (SIP),J. Rosenberg,June 2010,INFORMATIONAL,IETF,rai,sipping
 5920,Security Framework for MPLS and GMPLS Networks,L. Fang,July 2010,INFORMATIONAL,IETF,rtg,mpls
-5921,A Framework for MPLS in Transport Networks,"M. Bocci, S. Bryant, D. Frost, L. Levrau, L. Berger",July 2010,INFORMATIONAL,IETF,rtg,mpls
-5931,Extensible Authentication Protocol (EAP) Authentication Using Only a Password,"D. Harkins, G. Zorn",August 2010,INFORMATIONAL,IETF,,NON WORKING GROUP
+5921,A Framework for MPLS in Transport Networks,"D. Frost,L. Berger,L. Levrau,M. Bocci,S. Bryant",July 2010,INFORMATIONAL,IETF,rtg,mpls
+5931,Extensible Authentication Protocol (EAP) Authentication Using Only a Password,"D. Harkins,G. Zorn",August 2010,INFORMATIONAL,IETF,,NON WORKING GROUP
 5944,"IP Mobility Support for IPv4, Revised",C. Perkins,November 2010,PROPOSED STANDARD,IETF,int,mip4
-5945,Resource Reservation Protocol (RSVP) Proxy Approaches,"F. Le Faucheur, J. Manner, D. Wing, A. Guillou",October 2010,INFORMATIONAL,IETF,tsv,tsvwg
-5950,Network Management Framework for MPLS-based Transport Networks,"S. Mansfield, E. Gray, K. Lam",September 2010,INFORMATIONAL,IETF,rtg,mpls
-5969,IPv6 Rapid Deployment on IPv4 Infrastructures (6rd) -- Protocol Specification,"W. Townsley, O. Troan",August 2010,PROPOSED STANDARD,IETF,int,softwire
-5973,NAT/Firewall NSIS Signaling Layer Protocol (NSLP),"M. Stiemerling, H. Tschofenig, C. Aoun, E. Davies",October 2010,EXPERIMENTAL,IETF,tsv,nsis
-5974,NSIS Signaling Layer Protocol (NSLP) for Quality-of-Service Signaling,"J. Manner, G. Karagiannis, A. McDonald",October 2010,EXPERIMENTAL,IETF,tsv,nsis
-5975,QSPEC Template for the Quality-of-Service NSIS Signaling Layer Protocol (NSLP),"G. Ash, A. Bader, C. Kappler, D. Oran",October 2010,EXPERIMENTAL,IETF,tsv,nsis
-5977,RMD-QOSM: The NSIS Quality-of-Service Model for Resource Management in Diffserv,"A. Bader, L. Westberg, G. Karagiannis, C. Kappler, T. Phelan",October 2010,EXPERIMENTAL,IETF,tsv,nsis
-5982,IP Flow Information Export (IPFIX) Mediation: Problem Statement,"A. Kobayashi, B. Claise",August 2010,INFORMATIONAL,IETF,ops,ipfix
-5996,Internet Key Exchange Protocol Version 2 (IKEv2),"C. Kaufman, P. Hoffman, Y. Nir, P. Eronen",September 2010,PROPOSED STANDARD,IETF,sec,ipsecme
+5945,Resource Reservation Protocol (RSVP) Proxy Approaches,"A. Guillou,D. Wing,F. Le Faucheur,J. Manner",October 2010,INFORMATIONAL,IETF,tsv,tsvwg
+5950,Network Management Framework for MPLS-based Transport Networks,"E. Gray,K. Lam,S. Mansfield",September 2010,INFORMATIONAL,IETF,rtg,mpls
+5969,IPv6 Rapid Deployment on IPv4 Infrastructures (6rd) -- Protocol Specification,"O. Troan,W. Townsley",August 2010,PROPOSED STANDARD,IETF,int,softwire
+5973,NAT/Firewall NSIS Signaling Layer Protocol (NSLP),"C. Aoun,E. Davies,H. Tschofenig,M. Stiemerling",October 2010,EXPERIMENTAL,IETF,tsv,nsis
+5974,NSIS Signaling Layer Protocol (NSLP) for Quality-of-Service Signaling,"A. McDonald,G. Karagiannis,J. Manner",October 2010,EXPERIMENTAL,IETF,tsv,nsis
+5975,QSPEC Template for the Quality-of-Service NSIS Signaling Layer Protocol (NSLP),"A. Bader,C. Kappler,D. Oran,G. Ash",October 2010,EXPERIMENTAL,IETF,tsv,nsis
+5977,RMD-QOSM: The NSIS Quality-of-Service Model for Resource Management in Diffserv,"A. Bader,C. Kappler,G. Karagiannis,L. Westberg,T. Phelan",October 2010,EXPERIMENTAL,IETF,tsv,nsis
+5982,IP Flow Information Export (IPFIX) Mediation: Problem Statement,"A. Kobayashi,B. Claise",August 2010,INFORMATIONAL,IETF,ops,ipfix
+5996,Internet Key Exchange Protocol Version 2 (IKEv2),"C. Kaufman,P. Eronen,P. Hoffman,Y. Nir",September 2010,PROPOSED STANDARD,IETF,sec,ipsecme
 5997,Use of Status-Server Packets in the Remote Authentication Dial In User Service (RADIUS) Protocol,A. DeKok,August 2010,INFORMATIONAL,IETF,ops,radext
-5998,An Extension for EAP-Only Authentication in IKEv2,"P. Eronen, H. Tschofenig, Y. Sheffer",September 2010,PROPOSED STANDARD,IETF,sec,ipsecme
+5998,An Extension for EAP-Only Authentication in IKEv2,"H. Tschofenig,P. Eronen,Y. Sheffer",September 2010,PROPOSED STANDARD,IETF,sec,ipsecme
 6003,Ethernet Traffic Parameters,D. Papadimitriou,October 2010,PROPOSED STANDARD,IETF,rtg,ccamp
-6035,Session Initiation Protocol Event Package for Voice Quality Reporting,"A. Pendleton, A. Clark, A. Johnston, H. Sinnreich",November 2010,PROPOSED STANDARD,IETF,rai,sipping
-6036,Emerging Service Provider Scenarios for IPv6 Deployment,"B. Carpenter, S. Jiang",October 2010,INFORMATIONAL,IETF,ops,v6ops
-6041,Forwarding and Control Element Separation (ForCES) Applicability Statement,"A. Crouch, H. Khosravi, A. Doria, X. Wang, K. Ogawa",October 2010,INFORMATIONAL,IETF,rtg,forces
-6043,MIKEY-TICKET: Ticket-Based Modes of Key Distribution in Multimedia Internet KEYing (MIKEY),"J. Mattsson, T. Tian",March 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
-6058,Transient Binding for Proxy Mobile IPv6,"M. Liebsch, A. Muhanna, O. Blume",March 2011,EXPERIMENTAL,IETF,int,mipshop
-6065,"Using Authentication, Authorization, and Accounting Services to Dynamically Provision View-Based Access Control Model User-to-Group Mappings","K. Narayan, D. Nelson, R. Presuhn",December 2010,PROPOSED STANDARD,IETF,sec,isms
-6097,Local Mobility Anchor (LMA) Discovery for Proxy Mobile IPv6,"J. Korhonen, V. Devarapalli",February 2011,INFORMATIONAL,IETF,int,netlmm
-6098,Generic Notification Message for Mobile IPv4,"H. Deng, H. Levkowetz, V. Devarapalli, S. Gundavelli, B. Haley",April 2012,PROPOSED STANDARD,IETF,int,mip4
+6035,Session Initiation Protocol Event Package for Voice Quality Reporting,"A. Clark,A. Johnston,A. Pendleton,H. Sinnreich",November 2010,PROPOSED STANDARD,IETF,rai,sipping
+6036,Emerging Service Provider Scenarios for IPv6 Deployment,"B. Carpenter,S. Jiang",October 2010,INFORMATIONAL,IETF,ops,v6ops
+6041,Forwarding and Control Element Separation (ForCES) Applicability Statement,"A. Crouch,A. Doria,H. Khosravi,K. Ogawa,X. Wang",October 2010,INFORMATIONAL,IETF,rtg,forces
+6043,MIKEY-TICKET: Ticket-Based Modes of Key Distribution in Multimedia Internet KEYing (MIKEY),"J. Mattsson,T. Tian",March 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
+6058,Transient Binding for Proxy Mobile IPv6,"A. Muhanna,M. Liebsch,O. Blume",March 2011,EXPERIMENTAL,IETF,int,mipshop
+6065,"Using Authentication, Authorization, and Accounting Services to Dynamically Provision View-Based Access Control Model User-to-Group Mappings","D. Nelson,K. Narayan,R. Presuhn",December 2010,PROPOSED STANDARD,IETF,sec,isms
+6097,Local Mobility Anchor (LMA) Discovery for Proxy Mobile IPv6,"J. Korhonen,V. Devarapalli",February 2011,INFORMATIONAL,IETF,int,netlmm
+6098,Generic Notification Message for Mobile IPv4,"B. Haley,H. Deng,H. Levkowetz,S. Gundavelli,V. Devarapalli",April 2012,PROPOSED STANDARD,IETF,int,mip4
 6120,Extensible Messaging and Presence Protocol (XMPP): Core,P. Saint-Andre,March 2011,PROPOSED STANDARD,IETF,rai,xmpp
 6123,Inclusion of Manageability Sections in Path Computation Element (PCE) Working Group Drafts,A. Farrel,February 2011,HISTORIC,IETF,rtg,pce
-6127,IPv4 Run-Out and IPv4-IPv6 Co-Existence Scenarios,"J. Arkko, M. Townsley",May 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
-6136,"Layer 2 Virtual Private Network (L2VPN) Operations, Administration, and Maintenance (OAM) Requirements and Framework","A. Sajassi, D. Mohan",March 2011,INFORMATIONAL,IETF,rtg,l2vpn
-6150,MD4 to Historic Status,"S. Turner, L. Chen",March 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
-6155,Use of Device Identity in HTTP-Enabled Location Delivery (HELD),"J. Winterbottom, M. Thomson, H. Tschofenig, R. Barnes",March 2011,PROPOSED STANDARD,IETF,rai,geopriv
-6158,RADIUS Design Guidelines,"A. DeKok, G. Weber",March 2011,BEST CURRENT PRACTICE,IETF,ops,radext
-6159,Session-Specific Explicit Diameter Request Routing,"T. Tsou, G. Zorn, T. Taylor",April 2011,INFORMATIONAL,INDEPENDENT,,
-6183,IP Flow Information Export (IPFIX) Mediation: Framework,"A. Kobayashi, B. Claise, G. Muenz, K. Ishibashi",April 2011,INFORMATIONAL,IETF,ops,ipfix
-6192,Protecting the Router Control Plane,"D. Dugal, C. Pignataro, R. Dunn",March 2011,INFORMATIONAL,IETF,ops,opsec
-6218,Cisco Vendor-Specific RADIUS Attributes for the Delivery of Keying Material,"G. Zorn, T. Zhang, J. Walker, J. Salowey",April 2011,INFORMATIONAL,INDEPENDENT,,
-6235,IP Flow Anonymization Support,"E. Boschi, B. Trammell",May 2011,EXPERIMENTAL,IETF,ops,ipfix
-6241,Network Configuration Protocol (NETCONF),"R. Enns, M. Bjorklund, J. Schoenwaelder, A. Bierman",June 2011,PROPOSED STANDARD,IETF,ops,netconf
-6245,Generic Routing Encapsulation (GRE) Key Extension for Mobile IPv4,"P. Yegani, K. Leung, A. Lior, K. Chowdhury, J. Navali",May 2011,PROPOSED STANDARD,IETF,int,mip4
-6252,A Framework of Media-Independent Pre-Authentication (MPA) for Inter-Domain Handover Optimization,"A. Dutta, V. Fajardo, Y. Ohba, K. Taniuchi, H. Schulzrinne",June 2011,INFORMATIONAL,IRTF,,
+6127,IPv4 Run-Out and IPv4-IPv6 Co-Existence Scenarios,"J. Arkko,M. Townsley",May 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
+6136,"Layer 2 Virtual Private Network (L2VPN) Operations, Administration, and Maintenance (OAM) Requirements and Framework","A. Sajassi,D. Mohan",March 2011,INFORMATIONAL,IETF,rtg,l2vpn
+6150,MD4 to Historic Status,"L. Chen,S. Turner",March 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
+6155,Use of Device Identity in HTTP-Enabled Location Delivery (HELD),"H. Tschofenig,J. Winterbottom,M. Thomson,R. Barnes",March 2011,PROPOSED STANDARD,IETF,rai,geopriv
+6158,RADIUS Design Guidelines,"A. DeKok,G. Weber",March 2011,BEST CURRENT PRACTICE,IETF,ops,radext
+6159,Session-Specific Explicit Diameter Request Routing,"G. Zorn,T. Taylor,T. Tsou",April 2011,INFORMATIONAL,INDEPENDENT,,
+6183,IP Flow Information Export (IPFIX) Mediation: Framework,"A. Kobayashi,B. Claise,G. Muenz,K. Ishibashi",April 2011,INFORMATIONAL,IETF,ops,ipfix
+6192,Protecting the Router Control Plane,"C. Pignataro,D. Dugal,R. Dunn",March 2011,INFORMATIONAL,IETF,ops,opsec
+6218,Cisco Vendor-Specific RADIUS Attributes for the Delivery of Keying Material,"G. Zorn,J. Salowey,J. Walker,T. Zhang",April 2011,INFORMATIONAL,INDEPENDENT,,
+6235,IP Flow Anonymization Support,"B. Trammell,E. Boschi",May 2011,EXPERIMENTAL,IETF,ops,ipfix
+6241,Network Configuration Protocol (NETCONF),"A. Bierman,J. Schoenwaelder,M. Bjorklund,R. Enns",June 2011,PROPOSED STANDARD,IETF,ops,netconf
+6245,Generic Routing Encapsulation (GRE) Key Extension for Mobile IPv4,"A. Lior,J. Navali,K. Chowdhury,K. Leung,P. Yegani",May 2011,PROPOSED STANDARD,IETF,int,mip4
+6252,A Framework of Media-Independent Pre-Authentication (MPA) for Inter-Domain Handover Optimization,"A. Dutta,H. Schulzrinne,K. Taniuchi,V. Fajardo,Y. Ohba",June 2011,INFORMATIONAL,IRTF,,
 6271,Requirements for SIP-Based Session Peering,J-F. Mule,June 2011,INFORMATIONAL,IETF,rai,speermint
-6272,Internet Protocols for the Smart Grid,"F. Baker, D. Meyer",June 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
-6310,"Pseudowire (PW) Operations, Administration, and Maintenance (OAM) Message Mapping","M. Aissaoui, P. Busschbach, L. Martini, M. Morrow, T. Nadeau, Y(J). Stein",July 2011,PROPOSED STANDARD,IETF,rtg,pwe3
+6272,Internet Protocols for the Smart Grid,"D. Meyer,F. Baker",June 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
+6310,"Pseudowire (PW) Operations, Administration, and Maintenance (OAM) Message Mapping","L. Martini,M. Aissaoui,M. Morrow,P. Busschbach,T. Nadeau,Y(J). Stein",July 2011,PROPOSED STANDARD,IETF,rtg,pwe3
 6312,Mobile Networks Considerations for IPv6 Deployment,R. Koodli,July 2011,INFORMATIONAL,IETF,ops,v6ops
-6320,Protocol for Access Node Control Mechanism in Broadband Networks,"S. Wadhwa, J. Moisand, T. Haag, N. Voigt, T. Taylor",October 2011,PROPOSED STANDARD,IETF,int,ancp
+6320,Protocol for Access Node Control Mechanism in Broadband Networks,"J. Moisand,N. Voigt,S. Wadhwa,T. Haag,T. Taylor",October 2011,PROPOSED STANDARD,IETF,int,ancp
 6342,Mobile Networks Considerations for IPv6 Deployment,R. Koodli,August 2011,INFORMATIONAL,IETF,ops,v6ops
-6374,Packet Loss and Delay Measurement for MPLS Networks,"D. Frost, S. Bryant",September 2011,PROPOSED STANDARD,IETF,rtg,mpls
-6392,A Survey of In-Network Storage Systems,"R. Alimi, A. Rahman, Y. Yang",October 2011,INFORMATIONAL,IETF,tsv,decade
-6408,Diameter Straightforward-Naming Authority Pointer (S-NAPTR) Usage,"M. Jones, J. Korhonen, L. Morand",November 2011,PROPOSED STANDARD,IETF,ops,dime
+6374,Packet Loss and Delay Measurement for MPLS Networks,"D. Frost,S. Bryant",September 2011,PROPOSED STANDARD,IETF,rtg,mpls
+6392,A Survey of In-Network Storage Systems,"A. Rahman,R. Alimi,Y. Yang",October 2011,INFORMATIONAL,IETF,tsv,decade
+6408,Diameter Straightforward-Naming Authority Pointer (S-NAPTR) Usage,"J. Korhonen,L. Morand,M. Jones",November 2011,PROPOSED STANDARD,IETF,ops,dime
 6421,Crypto-Agility Requirements for Remote Authentication Dial-In User Service (RADIUS),D. Nelson,November 2011,INFORMATIONAL,IETF,ops,radext
-6440,The EAP Re-authentication Protocol (ERP) Local Domain Name DHCPv6 Option,"G. Zorn, Q. Wu, Y. Wang",December 2011,PROPOSED STANDARD,IETF,sec,hokey
-6459,IPv6 in 3rd Generation Partnership Project (3GPP) Evolved Packet System (EPS),"J. Korhonen, J. Soininen, B. Patil, T. Savolainen, G. Bajko, K. Iisakkila",January 2012,INFORMATIONAL,IETF,ops,v6ops
-6463,Runtime Local Mobility Anchor (LMA) Assignment Support for Proxy Mobile IPv6,"J. Korhonen, S. Gundavelli, H. Yokota, X. Cui",February 2012,PROPOSED STANDARD,IETF,int,netext
+6440,The EAP Re-authentication Protocol (ERP) Local Domain Name DHCPv6 Option,"G. Zorn,Q. Wu,Y. Wang",December 2011,PROPOSED STANDARD,IETF,sec,hokey
+6459,IPv6 in 3rd Generation Partnership Project (3GPP) Evolved Packet System (EPS),"B. Patil,G. Bajko,J. Korhonen,J. Soininen,K. Iisakkila,T. Savolainen",January 2012,INFORMATIONAL,IETF,ops,v6ops
+6463,Runtime Local Mobility Anchor (LMA) Assignment Support for Proxy Mobile IPv6,"H. Yokota,J. Korhonen,S. Gundavelli,X. Cui",February 2012,PROPOSED STANDARD,IETF,int,netext
 6467,Secure Password Framework for Internet Key Exchange Version 2 (IKEv2),T. Kivinen,December 2011,INFORMATIONAL,IETF,,NON WORKING GROUP
-6519,RADIUS Extensions for Dual-Stack Lite,"R. Maglione, A. Durand",February 2012,PROPOSED STANDARD,IETF,int,softwire
-6521,Home Agent-Assisted Route Optimization between Mobile IPv4 Networks,"A. Makela, J. Korhonen",February 2012,EXPERIMENTAL,IETF,int,mip4
-6538,The Host Identity Protocol (HIP) Experiment Report,"T. Henderson, A. Gurtov",March 2012,INFORMATIONAL,IRTF,,
-6550,RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks,"T. Winter, P. Thubert, A. Brandt, J. Hui, R. Kelsey, P. Levis, K. Pister, R. Struik, JP. Vasseur, R. Alexander",March 2012,PROPOSED STANDARD,IETF,rtg,roll
-6572,RADIUS Support for Proxy Mobile IPv6,"F. Xia, B. Sarikaya, J. Korhonen, S. Gundavelli, D. Damic",June 2012,PROPOSED STANDARD,IETF,int,netext
-6581,Enhanced Remote Direct Memory Access (RDMA) Connection Establishment,"A. Kanevsky, C. Bestler, R. Sharp, S. Wise",April 2012,PROPOSED STANDARD,IETF,tsv,storm
-6610,DHCP Options for Home Information Discovery in Mobile IPv6 (MIPv6),"H. Jang, A. Yegin, K. Chowdhury, J. Choi, T. Lemon",May 2012,PROPOSED STANDARD,IETF,int,mip6
-6611,Mobile IPv6 (MIPv6) Bootstrapping for the Integrated Scenario,"K. Chowdhury, A. Yegin",May 2012,PROPOSED STANDARD,IETF,int,mip6
+6519,RADIUS Extensions for Dual-Stack Lite,"A. Durand,R. Maglione",February 2012,PROPOSED STANDARD,IETF,int,softwire
+6521,Home Agent-Assisted Route Optimization between Mobile IPv4 Networks,"A. Makela,J. Korhonen",February 2012,EXPERIMENTAL,IETF,int,mip4
+6538,The Host Identity Protocol (HIP) Experiment Report,"A. Gurtov,T. Henderson",March 2012,INFORMATIONAL,IRTF,,
+6550,RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks,"A. Brandt,J. Hui,JP. Vasseur,K. Pister,P. Levis,P. Thubert,R. Alexander,R. Kelsey,R. Struik,T. Winter",March 2012,PROPOSED STANDARD,IETF,rtg,roll
+6572,RADIUS Support for Proxy Mobile IPv6,"B. Sarikaya,D. Damic,F. Xia,J. Korhonen,S. Gundavelli",June 2012,PROPOSED STANDARD,IETF,int,netext
+6581,Enhanced Remote Direct Memory Access (RDMA) Connection Establishment,"A. Kanevsky,C. Bestler,R. Sharp,S. Wise",April 2012,PROPOSED STANDARD,IETF,tsv,storm
+6610,DHCP Options for Home Information Discovery in Mobile IPv6 (MIPv6),"A. Yegin,H. Jang,J. Choi,K. Chowdhury,T. Lemon",May 2012,PROPOSED STANDARD,IETF,int,mip6
+6611,Mobile IPv6 (MIPv6) Bootstrapping for the Integrated Scenario,"A. Yegin,K. Chowdhury",May 2012,PROPOSED STANDARD,IETF,int,mip6
 6613,RADIUS over TCP,A. DeKok,May 2012,EXPERIMENTAL,IETF,ops,radext
-6614,Transport Layer Security (TLS) Encryption for RADIUS,"S. Winter, M. McCauley, S. Venaas, K. Wierenga",May 2012,EXPERIMENTAL,IETF,ops,radext
-6622,Integrity Check Value and Timestamp TLV Definitions for Mobile Ad Hoc Networks (MANETs),"U. Herberg, T. Clausen",May 2012,PROPOSED STANDARD,IETF,rtg,manet
-6630,EAP Re-authentication Protocol Extensions for Authenticated Anticipatory Keying (ERP/AAK),"Z. Cao, H. Deng, Q. Wu, G. Zorn",June 2012,PROPOSED STANDARD,IETF,sec,hokey
-6632,An Overview of the IETF Network Management Standards,"M. Ersue, B. Claise",June 2012,INFORMATIONAL,IETF,ops,opsawg
-6639,Multiprotocol Label Switching Transport Profile (MPLS-TP) MIB-Based Management Overview,"D. King, M. Venkatesan",June 2012,INFORMATIONAL,IETF,rtg,mpls
+6614,Transport Layer Security (TLS) Encryption for RADIUS,"K. Wierenga,M. McCauley,S. Venaas,S. Winter",May 2012,EXPERIMENTAL,IETF,ops,radext
+6622,Integrity Check Value and Timestamp TLV Definitions for Mobile Ad Hoc Networks (MANETs),"T. Clausen,U. Herberg",May 2012,PROPOSED STANDARD,IETF,rtg,manet
+6630,EAP Re-authentication Protocol Extensions for Authenticated Anticipatory Keying (ERP/AAK),"G. Zorn,H. Deng,Q. Wu,Z. Cao",June 2012,PROPOSED STANDARD,IETF,sec,hokey
+6632,An Overview of the IETF Network Management Standards,"B. Claise,M. Ersue",June 2012,INFORMATIONAL,IETF,ops,opsawg
+6639,Multiprotocol Label Switching Transport Profile (MPLS-TP) MIB-Based Management Overview,"D. King,M. Venkatesan",June 2012,INFORMATIONAL,IETF,rtg,mpls
 6645,IP Flow Information Accounting and Export Benchmarking Methodology,J. Novak,July 2012,INFORMATIONAL,IETF,ops,bmwg
-6646,DECoupled Application Data Enroute (DECADE) Problem Statement,"H. Song, N. Zong, Y. Yang, R. Alimi",July 2012,INFORMATIONAL,IETF,tsv,decade
-6653,DHCPv6 Prefix Delegation in Long-Term Evolution (LTE) Networks,"B. Sarikaya, F. Xia, T. Lemon",July 2012,INFORMATIONAL,INDEPENDENT,,
-6674,Gateway-Initiated Dual-Stack Lite Deployment,"F. Brockners, S. Gundavelli, S. Speicher, D. Ward",July 2012,PROPOSED STANDARD,IETF,int,softwire
-6677,Channel-Binding Support for Extensible Authentication Protocol (EAP) Methods,"S. Hartman, T. Clancy, K. Hoeper",July 2012,PROPOSED STANDARD,IETF,sec,emu
-6678,Requirements for a Tunnel-Based Extensible Authentication Protocol (EAP) Method,"K. Hoeper, S. Hanna, H. Zhou, J. Salowey",July 2012,INFORMATIONAL,IETF,sec,emu
-6696,EAP Extensions for the EAP Re-authentication Protocol (ERP),"Z. Cao, B. He, Y. Shi, Q. Wu, G. Zorn",July 2012,PROPOSED STANDARD,IETF,sec,hokey
-6697,Handover Keying (HOKEY) Architecture Design,"G. Zorn, Q. Wu, T. Taylor, Y. Nir, K. Hoeper, S. Decugis",July 2012,INFORMATIONAL,IETF,sec,hokey
-6709,Design Considerations for Protocol Extensions,"B. Carpenter, B. Aboba, S. Cheshire",September 2012,INFORMATIONAL,IAB,,
-6728,Configuration Data Model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Protocols,"G. Muenz, B. Claise, P. Aitken",October 2012,PROPOSED STANDARD,IETF,ops,ipfix
-6733,Diameter Base Protocol,"V. Fajardo, J. Arkko, J. Loughney, G. Zorn",October 2012,PROPOSED STANDARD,IETF,ops,dime
-6734,Diameter Attribute-Value Pairs for Cryptographic Key Transport,"G. Zorn, Q. Wu, V. Cakulev",October 2012,PROPOSED STANDARD,IETF,ops,dime
-6735,Diameter Priority Attribute-Value Pairs,"K. Carlberg, T. Taylor",October 2012,PROPOSED STANDARD,IETF,ops,dime
-6736,Diameter Network Address and Port Translation Control Application,"F. Brockners, S. Bhandari, V. Singh, V. Fajardo",October 2012,PROPOSED STANDARD,IETF,ops,dime
-6738,Diameter IKEv2 SK: Using Shared Keys to Support Interaction between IKEv2 Servers and Diameter Servers,"V. Cakulev, A. Lior, S. Mizikovsky",October 2012,PROPOSED STANDARD,IETF,ops,dime
-6765,xDSL Multi-Pair Bonding (G.Bond) MIB,"E. Beili, M. Morgenstern",February 2013,PROPOSED STANDARD,IETF,ops,adslmib
-6787,Media Resource Control Protocol Version 2 (MRCPv2),"D. Burnett, S. Shanmugham",November 2012,PROPOSED STANDARD,IETF,rai,speechsc
-6807,Population Count Extensions to Protocol Independent Multicast (PIM),"D. Farinacci, G. Shepherd, S. Venaas, Y. Cai",December 2012,EXPERIMENTAL,IETF,rtg,pim
-6813,The Network Endpoint Assessment (NEA) Asokan Attack Analysis,"J. Salowey, S. Hanna",December 2012,INFORMATIONAL,IETF,sec,nea
-6827,Automatically Switched Optical Network (ASON) Routing for OSPFv2 Protocols,"A. Malis, A. Lindem, D. Papadimitriou",January 2013,PROPOSED STANDARD,IETF,rtg,ccamp
-6867,An Internet Key Exchange Protocol Version 2 (IKEv2) Extension to Support EAP Re-authentication Protocol (ERP),"Y. Nir, Q. Wu",January 2013,EXPERIMENTAL,IETF,,NON WORKING GROUP
-6908,Deployment Considerations for Dual-Stack Lite,"Y. Lee, R. Maglione, C. Williams, C. Jacquenet, M. Boucadair",March 2013,INFORMATIONAL,IETF,int,softwire
-6909,IPv4 Traffic Offload Selector Option for Proxy Mobile IPv6,"S. Gundavelli, X. Zhou, J. Korhonen, G. Feige, R. Koodli",April 2013,PROPOSED STANDARD,IETF,int,netext
-6911,RADIUS Attributes for IPv6 Access Networks,"W. Dec, B. Sarikaya, G. Zorn, D. Miles, B. Lourdelet",April 2013,PROPOSED STANDARD,IETF,ops,radext
-6929,Remote Authentication Dial In User Service (RADIUS) Protocol Extensions,"A. DeKok, A. Lior",April 2013,PROPOSED STANDARD,IETF,ops,radext
-6930,RADIUS Attribute for IPv6 Rapid Deployment on IPv4 Infrastructures (6rd),"D. Guo, S. Jiang, R. Despres, R. Maglione",April 2013,PROPOSED STANDARD,IETF,int,softwire
-6934,Applicability of the Access Node Control Mechanism to Broadband Networks Based on Passive Optical Networks (PONs),"N. Bitar, S. Wadhwa, T. Haag, H. Li",June 2013,INFORMATIONAL,IETF,int,ancp
-6937,Proportional Rate Reduction for TCP,"M. Mathis, N. Dukkipati, Y. Cheng",May 2013,EXPERIMENTAL,IETF,tsv,tcpm
-6942,Diameter Support for the EAP Re-authentication Protocol (ERP),"J. Bournelle, L. Morand, S. Decugis, Q. Wu, G. Zorn",May 2013,PROPOSED STANDARD,IETF,ops,dime
+6646,DECoupled Application Data Enroute (DECADE) Problem Statement,"H. Song,N. Zong,R. Alimi,Y. Yang",July 2012,INFORMATIONAL,IETF,tsv,decade
+6653,DHCPv6 Prefix Delegation in Long-Term Evolution (LTE) Networks,"B. Sarikaya,F. Xia,T. Lemon",July 2012,INFORMATIONAL,INDEPENDENT,,
+6674,Gateway-Initiated Dual-Stack Lite Deployment,"D. Ward,F. Brockners,S. Gundavelli,S. Speicher",July 2012,PROPOSED STANDARD,IETF,int,softwire
+6677,Channel-Binding Support for Extensible Authentication Protocol (EAP) Methods,"K. Hoeper,S. Hartman,T. Clancy",July 2012,PROPOSED STANDARD,IETF,sec,emu
+6678,Requirements for a Tunnel-Based Extensible Authentication Protocol (EAP) Method,"H. Zhou,J. Salowey,K. Hoeper,S. Hanna",July 2012,INFORMATIONAL,IETF,sec,emu
+6696,EAP Extensions for the EAP Re-authentication Protocol (ERP),"B. He,G. Zorn,Q. Wu,Y. Shi,Z. Cao",July 2012,PROPOSED STANDARD,IETF,sec,hokey
+6697,Handover Keying (HOKEY) Architecture Design,"G. Zorn,K. Hoeper,Q. Wu,S. Decugis,T. Taylor,Y. Nir",July 2012,INFORMATIONAL,IETF,sec,hokey
+6709,Design Considerations for Protocol Extensions,"B. Aboba,B. Carpenter,S. Cheshire",September 2012,INFORMATIONAL,IAB,,
+6728,Configuration Data Model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Protocols,"B. Claise,G. Muenz,P. Aitken",October 2012,PROPOSED STANDARD,IETF,ops,ipfix
+6733,Diameter Base Protocol,"G. Zorn,J. Arkko,J. Loughney,V. Fajardo",October 2012,PROPOSED STANDARD,IETF,ops,dime
+6734,Diameter Attribute-Value Pairs for Cryptographic Key Transport,"G. Zorn,Q. Wu,V. Cakulev",October 2012,PROPOSED STANDARD,IETF,ops,dime
+6735,Diameter Priority Attribute-Value Pairs,"K. Carlberg,T. Taylor",October 2012,PROPOSED STANDARD,IETF,ops,dime
+6736,Diameter Network Address and Port Translation Control Application,"F. Brockners,S. Bhandari,V. Fajardo,V. Singh",October 2012,PROPOSED STANDARD,IETF,ops,dime
+6738,Diameter IKEv2 SK: Using Shared Keys to Support Interaction between IKEv2 Servers and Diameter Servers,"A. Lior,S. Mizikovsky,V. Cakulev",October 2012,PROPOSED STANDARD,IETF,ops,dime
+6765,xDSL Multi-Pair Bonding (G.Bond) MIB,"E. Beili,M. Morgenstern",February 2013,PROPOSED STANDARD,IETF,ops,adslmib
+6787,Media Resource Control Protocol Version 2 (MRCPv2),"D. Burnett,S. Shanmugham",November 2012,PROPOSED STANDARD,IETF,rai,speechsc
+6807,Population Count Extensions to Protocol Independent Multicast (PIM),"D. Farinacci,G. Shepherd,S. Venaas,Y. Cai",December 2012,EXPERIMENTAL,IETF,rtg,pim
+6813,The Network Endpoint Assessment (NEA) Asokan Attack Analysis,"J. Salowey,S. Hanna",December 2012,INFORMATIONAL,IETF,sec,nea
+6827,Automatically Switched Optical Network (ASON) Routing for OSPFv2 Protocols,"A. Lindem,A. Malis,D. Papadimitriou",January 2013,PROPOSED STANDARD,IETF,rtg,ccamp
+6867,An Internet Key Exchange Protocol Version 2 (IKEv2) Extension to Support EAP Re-authentication Protocol (ERP),"Q. Wu,Y. Nir",January 2013,EXPERIMENTAL,IETF,,NON WORKING GROUP
+6908,Deployment Considerations for Dual-Stack Lite,"C. Jacquenet,C. Williams,M. Boucadair,R. Maglione,Y. Lee",March 2013,INFORMATIONAL,IETF,int,softwire
+6909,IPv4 Traffic Offload Selector Option for Proxy Mobile IPv6,"G. Feige,J. Korhonen,R. Koodli,S. Gundavelli,X. Zhou",April 2013,PROPOSED STANDARD,IETF,int,netext
+6911,RADIUS Attributes for IPv6 Access Networks,"B. Lourdelet,B. Sarikaya,D. Miles,G. Zorn,W. Dec",April 2013,PROPOSED STANDARD,IETF,ops,radext
+6929,Remote Authentication Dial In User Service (RADIUS) Protocol Extensions,"A. DeKok,A. Lior",April 2013,PROPOSED STANDARD,IETF,ops,radext
+6930,RADIUS Attribute for IPv6 Rapid Deployment on IPv4 Infrastructures (6rd),"D. Guo,R. Despres,R. Maglione,S. Jiang",April 2013,PROPOSED STANDARD,IETF,int,softwire
+6934,Applicability of the Access Node Control Mechanism to Broadband Networks Based on Passive Optical Networks (PONs),"H. Li,N. Bitar,S. Wadhwa,T. Haag",June 2013,INFORMATIONAL,IETF,int,ancp
+6937,Proportional Rate Reduction for TCP,"M. Mathis,N. Dukkipati,Y. Cheng",May 2013,EXPERIMENTAL,IETF,tsv,tcpm
+6942,Diameter Support for the EAP Re-authentication Protocol (ERP),"G. Zorn,J. Bournelle,L. Morand,Q. Wu,S. Decugis",May 2013,PROPOSED STANDARD,IETF,ops,dime
 6943,Issues in Identifier Comparison for Security Purposes,D. Thaler,May 2013,INFORMATIONAL,IAB,,
-6959,Source Address Validation Improvement (SAVI) Threat Scope,"D. McPherson, F. Baker, J. Halpern",May 2013,INFORMATIONAL,IETF,int,savi
-6973,Privacy Considerations for Internet Protocols,"A. Cooper, H. Tschofenig, B. Aboba, J. Peterson, J. Morris, M. Hansen, R. Smith",July 2013,INFORMATIONAL,IAB,,
-6983,Models for HTTP-Adaptive-Streaming-Aware Content Distribution Network Interconnection (CDNI),"R. van Brandenburg, O. van Deventer, F. Le Faucheur, K. Leung",July 2013,INFORMATIONAL,INDEPENDENT,,
-6988,Requirements for Energy Management,"J. Quittek, M. Chandramouli, R. Winter, T. Dietz, B. Claise",September 2013,INFORMATIONAL,IETF,ops,eman
-7014,Flow Selection Techniques,"S. D\'Antonio, T. Zseby, C. Henke, L. Peluso",September 2013,PROPOSED STANDARD,IETF,ops,ipfix
-7015,Flow Aggregation for the IP Flow Information Export (IPFIX) Protocol,"B. Trammell, A. Wagner, B. Claise",September 2013,PROPOSED STANDARD,IETF,ops,ipfix
-7029,Extensible Authentication Protocol (EAP) Mutual Cryptographic Binding,"S. Hartman, M. Wasserman, D. Zhang",October 2013,INFORMATIONAL,IETF,sec,emu
-7046,A Common API for Transparent Hybrid Multicast,"M. Waehlisch, T. Schmidt, S. Venaas",December 2013,EXPERIMENTAL,IRTF,,
-7055,A GSS-API Mechanism for the Extensible Authentication Protocol,"S. Hartman, J. Howlett",December 2013,PROPOSED STANDARD,IETF,sec,abfab
-7056,Name Attributes for the GSS-API Extensible Authentication Protocol (EAP) Mechanism,"S. Hartman, J. Howlett",December 2013,PROPOSED STANDARD,IETF,sec,abfab
-7068,Diameter Overload Control Requirements,"E. McMurry, B. Campbell",November 2013,INFORMATIONAL,IETF,ops,dime
-7069,DECoupled Application Data Enroute (DECADE),"R. Alimi, A. Rahman, D. Kutscher, Y. Yang, H. Song, K. Pentikousis",November 2013,INFORMATIONAL,INDEPENDENT,,
-7075,Realm-Based Redirection In Diameter,"T. Tsou, R. Hao, T. Taylor",November 2013,PROPOSED STANDARD,IETF,ops,dime
-7119,Operation of the IP Flow Information Export (IPFIX) Protocol on IPFIX Mediators,"B. Claise, A. Kobayashi, B. Trammell",February 2014,PROPOSED STANDARD,IETF,ops,ipfix
+6959,Source Address Validation Improvement (SAVI) Threat Scope,"D. McPherson,F. Baker,J. Halpern",May 2013,INFORMATIONAL,IETF,int,savi
+6973,Privacy Considerations for Internet Protocols,"A. Cooper,B. Aboba,H. Tschofenig,J. Morris,J. Peterson,M. Hansen,R. Smith",July 2013,INFORMATIONAL,IAB,,
+6983,Models for HTTP-Adaptive-Streaming-Aware Content Distribution Network Interconnection (CDNI),"F. Le Faucheur,K. Leung,O. van Deventer,R. van Brandenburg",July 2013,INFORMATIONAL,INDEPENDENT,,
+6988,Requirements for Energy Management,"B. Claise,J. Quittek,M. Chandramouli,R. Winter,T. Dietz",September 2013,INFORMATIONAL,IETF,ops,eman
+7014,Flow Selection Techniques,"C. Henke,L. Peluso,S. D\'Antonio,T. Zseby",September 2013,PROPOSED STANDARD,IETF,ops,ipfix
+7015,Flow Aggregation for the IP Flow Information Export (IPFIX) Protocol,"A. Wagner,B. Claise,B. Trammell",September 2013,PROPOSED STANDARD,IETF,ops,ipfix
+7029,Extensible Authentication Protocol (EAP) Mutual Cryptographic Binding,"D. Zhang,M. Wasserman,S. Hartman",October 2013,INFORMATIONAL,IETF,sec,emu
+7046,A Common API for Transparent Hybrid Multicast,"M. Waehlisch,S. Venaas,T. Schmidt",December 2013,EXPERIMENTAL,IRTF,,
+7055,A GSS-API Mechanism for the Extensible Authentication Protocol,"J. Howlett,S. Hartman",December 2013,PROPOSED STANDARD,IETF,sec,abfab
+7056,Name Attributes for the GSS-API Extensible Authentication Protocol (EAP) Mechanism,"J. Howlett,S. Hartman",December 2013,PROPOSED STANDARD,IETF,sec,abfab
+7068,Diameter Overload Control Requirements,"B. Campbell,E. McMurry",November 2013,INFORMATIONAL,IETF,ops,dime
+7069,DECoupled Application Data Enroute (DECADE),"A. Rahman,D. Kutscher,H. Song,K. Pentikousis,R. Alimi,Y. Yang",November 2013,INFORMATIONAL,INDEPENDENT,,
+7075,Realm-Based Redirection In Diameter,"R. Hao,T. Taylor,T. Tsou",November 2013,PROPOSED STANDARD,IETF,ops,dime
+7119,Operation of the IP Flow Information Export (IPFIX) Protocol on IPFIX Mediators,"A. Kobayashi,B. Claise,B. Trammell",February 2014,PROPOSED STANDARD,IETF,ops,ipfix
 7155,Diameter Network Access Server Application,G. Zorn,April 2014,PROPOSED STANDARD,IETF,ops,dime
-7156,Diameter Support for Proxy Mobile IPv6 Localized Routing,"G. Zorn, Q. Wu, J. Korhonen",April 2014,PROPOSED STANDARD,IETF,ops,dime
-7170,Tunnel Extensible Authentication Protocol (TEAP) Version 1,"H. Zhou, N. Cam-Winget, J. Salowey, S. Hanna",May 2014,PROPOSED STANDARD,IETF,sec,emu
-7174,"Transparent Interconnection of Lots of Links (TRILL) Operations, Administration, and Maintenance (OAM) Framework","S. Salam, T. Senevirathne, S. Aldrin, D. Eastlake 3rd",May 2014,INFORMATIONAL,IETF,int,trill
-7182,Integrity Check Value and Timestamp TLV Definitions for Mobile Ad Hoc Networks (MANETs),"U. Herberg, T. Clausen, C. Dearlove",April 2014,PROPOSED STANDARD,IETF,rtg,manet
-7211,Operations Model for Router Keying,"S. Hartman, D. Zhang",June 2014,INFORMATIONAL,IETF,rtg,karp
+7156,Diameter Support for Proxy Mobile IPv6 Localized Routing,"G. Zorn,J. Korhonen,Q. Wu",April 2014,PROPOSED STANDARD,IETF,ops,dime
+7170,Tunnel Extensible Authentication Protocol (TEAP) Version 1,"H. Zhou,J. Salowey,N. Cam-Winget,S. Hanna",May 2014,PROPOSED STANDARD,IETF,sec,emu
+7174,"Transparent Interconnection of Lots of Links (TRILL) Operations, Administration, and Maintenance (OAM) Framework","D. Eastlake 3rd,S. Aldrin,S. Salam,T. Senevirathne",May 2014,INFORMATIONAL,IETF,int,trill
+7182,Integrity Check Value and Timestamp TLV Definitions for Mobile Ad Hoc Networks (MANETs),"C. Dearlove,T. Clausen,U. Herberg",April 2014,PROPOSED STANDARD,IETF,rtg,manet
+7211,Operations Model for Router Keying,"D. Zhang,S. Hartman",June 2014,INFORMATIONAL,IETF,rtg,karp
 7224,IANA Interface Type YANG Module,M. Bjorklund,May 2014,PROPOSED STANDARD,IETF,ops,netmod
-7241,The IEEE 802/IETF Relationship,"S. Dawkins, P. Thaler, D. Romascanu, B. Aboba",July 2014,INFORMATIONAL,IAB,,
-7256,Multicast Control Extensions for the Access Node Control Protocol (ANCP),"F. Le Faucheur, R. Maglione, T. Taylor",July 2014,PROPOSED STANDARD,IETF,int,ancp
-7268,RADIUS Attributes for IEEE 802 Networks,"B. Aboba, J. Malinen, P. Congdon, J. Salowey, M. Jones",July 2014,PROPOSED STANDARD,IETF,ops,radext
-7269,NAT64 Deployment Options and Experience,"G. Chen, Z. Cao, C. Xie, D. Binet",June 2014,INFORMATIONAL,IETF,ops,v6ops
-7270,Cisco-Specific Information Elements Reused in IP Flow Information Export (IPFIX),"A. Yourtchenko, P. Aitken, B. Claise",June 2014,INFORMATIONAL,IETF,,NON WORKING GROUP
-7296,Internet Key Exchange Protocol Version 2 (IKEv2),"C. Kaufman, P. Hoffman, Y. Nir, P. Eronen, T. Kivinen",October 2014,INTERNET STANDARD,IETF,sec,ipsecme
+7241,The IEEE 802/IETF Relationship,"B. Aboba,D. Romascanu,P. Thaler,S. Dawkins",July 2014,INFORMATIONAL,IAB,,
+7256,Multicast Control Extensions for the Access Node Control Protocol (ANCP),"F. Le Faucheur,R. Maglione,T. Taylor",July 2014,PROPOSED STANDARD,IETF,int,ancp
+7268,RADIUS Attributes for IEEE 802 Networks,"B. Aboba,J. Malinen,J. Salowey,M. Jones,P. Congdon",July 2014,PROPOSED STANDARD,IETF,ops,radext
+7269,NAT64 Deployment Options and Experience,"C. Xie,D. Binet,G. Chen,Z. Cao",June 2014,INFORMATIONAL,IETF,ops,v6ops
+7270,Cisco-Specific Information Elements Reused in IP Flow Information Export (IPFIX),"A. Yourtchenko,B. Claise,P. Aitken",June 2014,INFORMATIONAL,IETF,,NON WORKING GROUP
+7296,Internet Key Exchange Protocol Version 2 (IKEv2),"C. Kaufman,P. Eronen,P. Hoffman,T. Kivinen,Y. Nir",October 2014,INTERNET STANDARD,IETF,sec,ipsecme
 7298,Babel Hashed Message Authentication Code (HMAC) Cryptographic Authentication,D. Ovsienko,July 2014,EXPERIMENTAL,INDEPENDENT,,
-7323,TCP Extensions for High Performance,"D. Borman, B. Braden, V. Jacobson, R. Scheffenegger",September 2014,PROPOSED STANDARD,IETF,tsv,tcpm
-7326,Energy Management Framework,"J. Parello, B. Claise, B. Schoening, J. Quittek",September 2014,INFORMATIONAL,IETF,ops,eman
-7336,Framework for Content Distribution Network Interconnection (CDNI),"L. Peterson, B. Davie, R. van Brandenburg",August 2014,INFORMATIONAL,IETF,tsv,cdni
-7337,Content Distribution Network Interconnection (CDNI) Requirements,"K. Leung, Y. Lee",August 2014,INFORMATIONAL,IETF,tsv,cdni
-7340,Secure Telephone Identity Problem Statement and Requirements,"J. Peterson, H. Schulzrinne, H. Tschofenig",September 2014,INFORMATIONAL,IETF,rai,stir
+7323,TCP Extensions for High Performance,"B. Braden,D. Borman,R. Scheffenegger,V. Jacobson",September 2014,PROPOSED STANDARD,IETF,tsv,tcpm
+7326,Energy Management Framework,"B. Claise,B. Schoening,J. Parello,J. Quittek",September 2014,INFORMATIONAL,IETF,ops,eman
+7336,Framework for Content Distribution Network Interconnection (CDNI),"B. Davie,L. Peterson,R. van Brandenburg",August 2014,INFORMATIONAL,IETF,tsv,cdni
+7337,Content Distribution Network Interconnection (CDNI) Requirements,"K. Leung,Y. Lee",August 2014,INFORMATIONAL,IETF,tsv,cdni
+7340,Secure Telephone Identity Problem Statement and Requirements,"H. Schulzrinne,H. Tschofenig,J. Peterson",September 2014,INFORMATIONAL,IETF,rai,stir
 7360,Datagram Transport Layer Security (DTLS) as a Transport Layer for RADIUS,A. DeKok,September 2014,EXPERIMENTAL,IETF,ops,radext
-7378,Trustworthy Location,"H. Tschofenig, H. Schulzrinne, B. Aboba",December 2014,INFORMATIONAL,IETF,rai,ecrit
-7381,Enterprise IPv6 Deployment Guidelines,"K. Chittimaneni, T. Chown, L. Howard, V. Kuarsingh, Y. Pouffary, E. Vyncke",October 2014,INFORMATIONAL,IETF,ops,v6ops
-7397,Report from the Smart Object Security Workshop,"J. Gilger, H. Tschofenig",December 2014,INFORMATIONAL,INDEPENDENT,,
-7406,Extensions to the Emergency Services Architecture for Dealing With Unauthenticated and Unauthorized Devices,"H. Schulzrinne, S. McCann, G. Bajko, H. Tschofenig, D. Kroeselberg",December 2014,INFORMATIONAL,IETF,rai,ecrit
-7423,Diameter Applications Design Guidelines,"L. Morand, V. Fajardo, H. Tschofenig",November 2014,BEST CURRENT PRACTICE,IETF,ops,dime
-7424,Mechanisms for Optimizing Link Aggregation Group (LAG) and Equal-Cost Multipath (ECMP) Component Link Utilization in Networks,"R. Krishnan, L. Yong, A. Ghanwani, N. So, B. Khasnabish",January 2015,INFORMATIONAL,IETF,ops,opsawg
-7458,Extensible Authentication Protocol (EAP) Attributes for Wi-Fi Integration with the Evolved Packet Core,"R. Valmikam, R. Koodli",February 2015,INFORMATIONAL,IETF,int,netext
-7480,HTTP Usage in the Registration Data Access Protocol (RDAP),"A. Newton, B. Ellacott, N. Kong",March 2015,INTERNET STANDARD,IETF,app,weirds
-7491,A PCE-Based Architecture for Application-Based Network Operations,"D. King, A. Farrel",March 2015,INFORMATIONAL,IETF,,NON WORKING GROUP
-7499,Support of Fragmentation of RADIUS Packets,"A. Perez-Mendez, R. Marin-Lopez, F. Pereniguez-Garcia, G. Lopez-Millan, D. Lopez, A. DeKok",April 2015,EXPERIMENTAL,IETF,ops,radext
-7530,Network File System (NFS) Version 4 Protocol,"T. Haynes, D. Noveck",March 2015,PROPOSED STANDARD,IETF,tsv,nfsv4
+7378,Trustworthy Location,"B. Aboba,H. Schulzrinne,H. Tschofenig",December 2014,INFORMATIONAL,IETF,rai,ecrit
+7381,Enterprise IPv6 Deployment Guidelines,"E. Vyncke,K. Chittimaneni,L. Howard,T. Chown,V. Kuarsingh,Y. Pouffary",October 2014,INFORMATIONAL,IETF,ops,v6ops
+7397,Report from the Smart Object Security Workshop,"H. Tschofenig,J. Gilger",December 2014,INFORMATIONAL,INDEPENDENT,,
+7406,Extensions to the Emergency Services Architecture for Dealing With Unauthenticated and Unauthorized Devices,"D. Kroeselberg,G. Bajko,H. Schulzrinne,H. Tschofenig,S. McCann",December 2014,INFORMATIONAL,IETF,rai,ecrit
+7423,Diameter Applications Design Guidelines,"H. Tschofenig,L. Morand,V. Fajardo",November 2014,BEST CURRENT PRACTICE,IETF,ops,dime
+7424,Mechanisms for Optimizing Link Aggregation Group (LAG) and Equal-Cost Multipath (ECMP) Component Link Utilization in Networks,"A. Ghanwani,B. Khasnabish,L. Yong,N. So,R. Krishnan",January 2015,INFORMATIONAL,IETF,ops,opsawg
+7458,Extensible Authentication Protocol (EAP) Attributes for Wi-Fi Integration with the Evolved Packet Core,"R. Koodli,R. Valmikam",February 2015,INFORMATIONAL,IETF,int,netext
+7480,HTTP Usage in the Registration Data Access Protocol (RDAP),"A. Newton,B. Ellacott,N. Kong",March 2015,INTERNET STANDARD,IETF,app,weirds
+7491,A PCE-Based Architecture for Application-Based Network Operations,"A. Farrel,D. King",March 2015,INFORMATIONAL,IETF,,NON WORKING GROUP
+7499,Support of Fragmentation of RADIUS Packets,"A. DeKok,A. Perez-Mendez,D. Lopez,F. Pereniguez-Garcia,G. Lopez-Millan,R. Marin-Lopez",April 2015,EXPERIMENTAL,IETF,ops,radext
+7530,Network File System (NFS) Version 4 Protocol,"D. Noveck,T. Haynes",March 2015,PROPOSED STANDARD,IETF,tsv,nfsv4
 7542,The Network Access Identifier,A. DeKok,May 2015,PROPOSED STANDARD,IETF,ops,radext
-7554,Using IEEE 802.15.4e Time-Slotted Channel Hopping (TSCH) in the Internet of Things (IoT): Problem Statement,"T. Watteyne, M. Palattella, L. Grieco",May 2015,INFORMATIONAL,IETF,int,6tisch
-7561,Mapping Quality of Service (QoS) Procedures of Proxy Mobile IPv6 (PMIPv6) and WLAN,"J. Kaippallimalil, R. Pazhyannur, P. Yegani",June 2015,INFORMATIONAL,IETF,int,netext
-7574,Peer-to-Peer Streaming Peer Protocol (PPSPP),"A. Bakker, R. Petrocco, V. Grishchenko",July 2015,PROPOSED STANDARD,IETF,tsv,ppsp
-7575,Autonomic Networking: Definitions and Design Goals,"M. Behringer, M. Pritikin, S. Bjarnason, A. Clemm, B. Carpenter, S. Jiang, L. Ciavaglia",June 2015,INFORMATIONAL,IRTF,,
-7576,General Gap Analysis for Autonomic Networking,"S. Jiang, B. Carpenter, M. Behringer",June 2015,INFORMATIONAL,IRTF,,
-7585,Dynamic Peer Discovery for RADIUS/TLS and RADIUS/DTLS Based on the Network Access Identifier (NAI),"S. Winter, M. McCauley",October 2015,EXPERIMENTAL,IETF,ops,radext
-7589,Using the NETCONF Protocol over Transport Layer Security (TLS) with Mutual X.509 Authentication,"M. Badra, A. Luchuk, J. Schoenwaelder",June 2015,PROPOSED STANDARD,IETF,ops,netconf
-7593,The eduroam Architecture for Network Roaming,"K. Wierenga, S. Winter, T. Wolniewicz",September 2015,INFORMATIONAL,INDEPENDENT,,
-7597,Mapping of Address and Port with Encapsulation (MAP-E),"O. Troan, W. Dec, X. Li, C. Bao, S. Matsushima, T. Murakami, T. Taylor",July 2015,PROPOSED STANDARD,IETF,int,softwire
-7598,DHCPv6 Options for Configuration of Softwire Address and Port-Mapped Clients,"T. Mrugalski, O. Troan, I. Farrer, S. Perreault, W. Dec, C. Bao, L. Yeh, X. Deng",July 2015,PROPOSED STANDARD,IETF,int,softwire
-7599,Mapping of Address and Port using Translation (MAP-T),"X. Li, C. Bao, W. Dec, O. Troan, S. Matsushima, T. Murakami",July 2015,PROPOSED STANDARD,IETF,int,softwire
-7620,Scenarios with Host Identification Complications,"M. Boucadair, B. Chatras, T. Reddy, B. Williams, B. Sarikaya",August 2015,INFORMATIONAL,INDEPENDENT,,
-7652,Port Control Protocol (PCP) Authentication Mechanism,"M. Cullen, S. Hartman, D. Zhang, T. Reddy",September 2015,PROPOSED STANDARD,IETF,int,pcp
-7660,Diameter Congestion and Filter Attributes,"L. Bertz, S. Manning, B. Hirschman",October 2015,PROPOSED STANDARD,IETF,ops,dime
-7678,Attribute-Value Pairs for Provisioning Customer Equipment Supporting IPv4-Over-IPv6 Transitional Solutions,"C. Zhou, T. Taylor, Q. Sun, M. Boucadair",October 2015,PROPOSED STANDARD,IETF,ops,dime
-7679,A One-Way Delay Metric for IP Performance Metrics (IPPM),"G. Almes, S. Kalidindi, M. Zekauskas, A. Morton",January 2016,INTERNET STANDARD,IETF,tsv,ippm
-7680,A One-Way Loss Metric for IP Performance Metrics (IPPM),"G. Almes, S. Kalidindi, M. Zekauskas, A. Morton",January 2016,INTERNET STANDARD,IETF,tsv,ippm
-7683,Diameter Overload Indication Conveyance,"J. Korhonen, S. Donovan, B. Campbell, L. Morand",October 2015,PROPOSED STANDARD,IETF,ops,dime
-7713,"Congestion Exposure (ConEx) Concepts, Abstract Mechanism, and Requirements","M. Mathis, B. Briscoe",December 2015,INFORMATIONAL,IETF,tsv,conex
-7744,Use Cases for Authentication and Authorization in Constrained Environments,"L. Seitz, S. Gerdes, G. Selander, M. Mani, S. Kumar",January 2016,INFORMATIONAL,IETF,sec,ace
-7752,North-Bound Distribution of Link-State and Traffic Engineering (TE) Information Using BGP,"H. Gredler, J. Medved, S. Previdi, A. Farrel, S. Ray",March 2016,PROPOSED STANDARD,IETF,rtg,idr
-7778,Mobile Communication Congestion Exposure Scenario,"D. Kutscher, F. Mir, R. Winter, S. Krishnan, Y. Zhang, CJ. Bernardos",March 2016,INFORMATIONAL,IETF,tsv,conex
-7786,TCP Modifications for Congestion Exposure (ConEx),"M. Kuehlewind, R. Scheffenegger",May 2016,EXPERIMENTAL,IETF,tsv,conex
-7789,Impact of BGP Filtering on Inter-Domain Routing Policies,"C. Cardona, P. Francois, P. Lucente",April 2016,INFORMATIONAL,IETF,ops,grow
-7791,Cloning the IKE Security Association in the Internet Key Exchange Protocol Version 2 (IKEv2),"D. Migault, V. Smyslov",March 2016,PROPOSED STANDARD,IETF,,NON WORKING GROUP
-7831,Application Bridging for Federated Access Beyond Web (ABFAB) Architecture,"J. Howlett, S. Hartman, H. Tschofenig, J. Schaad",May 2016,INFORMATIONAL,IETF,sec,abfab
+7554,Using IEEE 802.15.4e Time-Slotted Channel Hopping (TSCH) in the Internet of Things (IoT): Problem Statement,"L. Grieco,M. Palattella,T. Watteyne",May 2015,INFORMATIONAL,IETF,int,6tisch
+7561,Mapping Quality of Service (QoS) Procedures of Proxy Mobile IPv6 (PMIPv6) and WLAN,"J. Kaippallimalil,P. Yegani,R. Pazhyannur",June 2015,INFORMATIONAL,IETF,int,netext
+7574,Peer-to-Peer Streaming Peer Protocol (PPSPP),"A. Bakker,R. Petrocco,V. Grishchenko",July 2015,PROPOSED STANDARD,IETF,tsv,ppsp
+7575,Autonomic Networking: Definitions and Design Goals,"A. Clemm,B. Carpenter,L. Ciavaglia,M. Behringer,M. Pritikin,S. Bjarnason,S. Jiang",June 2015,INFORMATIONAL,IRTF,,
+7576,General Gap Analysis for Autonomic Networking,"B. Carpenter,M. Behringer,S. Jiang",June 2015,INFORMATIONAL,IRTF,,
+7585,Dynamic Peer Discovery for RADIUS/TLS and RADIUS/DTLS Based on the Network Access Identifier (NAI),"M. McCauley,S. Winter",October 2015,EXPERIMENTAL,IETF,ops,radext
+7589,Using the NETCONF Protocol over Transport Layer Security (TLS) with Mutual X.509 Authentication,"A. Luchuk,J. Schoenwaelder,M. Badra",June 2015,PROPOSED STANDARD,IETF,ops,netconf
+7593,The eduroam Architecture for Network Roaming,"K. Wierenga,S. Winter,T. Wolniewicz",September 2015,INFORMATIONAL,INDEPENDENT,,
+7597,Mapping of Address and Port with Encapsulation (MAP-E),"C. Bao,O. Troan,S. Matsushima,T. Murakami,T. Taylor,W. Dec,X. Li",July 2015,PROPOSED STANDARD,IETF,int,softwire
+7598,DHCPv6 Options for Configuration of Softwire Address and Port-Mapped Clients,"C. Bao,I. Farrer,L. Yeh,O. Troan,S. Perreault,T. Mrugalski,W. Dec,X. Deng",July 2015,PROPOSED STANDARD,IETF,int,softwire
+7599,Mapping of Address and Port using Translation (MAP-T),"C. Bao,O. Troan,S. Matsushima,T. Murakami,W. Dec,X. Li",July 2015,PROPOSED STANDARD,IETF,int,softwire
+7620,Scenarios with Host Identification Complications,"B. Chatras,B. Sarikaya,B. Williams,M. Boucadair,T. Reddy",August 2015,INFORMATIONAL,INDEPENDENT,,
+7652,Port Control Protocol (PCP) Authentication Mechanism,"D. Zhang,M. Cullen,S. Hartman,T. Reddy",September 2015,PROPOSED STANDARD,IETF,int,pcp
+7660,Diameter Congestion and Filter Attributes,"B. Hirschman,L. Bertz,S. Manning",October 2015,PROPOSED STANDARD,IETF,ops,dime
+7678,Attribute-Value Pairs for Provisioning Customer Equipment Supporting IPv4-Over-IPv6 Transitional Solutions,"C. Zhou,M. Boucadair,Q. Sun,T. Taylor",October 2015,PROPOSED STANDARD,IETF,ops,dime
+7679,A One-Way Delay Metric for IP Performance Metrics (IPPM),"A. Morton,G. Almes,M. Zekauskas,S. Kalidindi",January 2016,INTERNET STANDARD,IETF,tsv,ippm
+7680,A One-Way Loss Metric for IP Performance Metrics (IPPM),"A. Morton,G. Almes,M. Zekauskas,S. Kalidindi",January 2016,INTERNET STANDARD,IETF,tsv,ippm
+7683,Diameter Overload Indication Conveyance,"B. Campbell,J. Korhonen,L. Morand,S. Donovan",October 2015,PROPOSED STANDARD,IETF,ops,dime
+7713,"Congestion Exposure (ConEx) Concepts, Abstract Mechanism, and Requirements","B. Briscoe,M. Mathis",December 2015,INFORMATIONAL,IETF,tsv,conex
+7744,Use Cases for Authentication and Authorization in Constrained Environments,"G. Selander,L. Seitz,M. Mani,S. Gerdes,S. Kumar",January 2016,INFORMATIONAL,IETF,sec,ace
+7752,North-Bound Distribution of Link-State and Traffic Engineering (TE) Information Using BGP,"A. Farrel,H. Gredler,J. Medved,S. Previdi,S. Ray",March 2016,PROPOSED STANDARD,IETF,rtg,idr
+7778,Mobile Communication Congestion Exposure Scenario,"CJ. Bernardos,D. Kutscher,F. Mir,R. Winter,S. Krishnan,Y. Zhang",March 2016,INFORMATIONAL,IETF,tsv,conex
+7786,TCP Modifications for Congestion Exposure (ConEx),"M. Kuehlewind,R. Scheffenegger",May 2016,EXPERIMENTAL,IETF,tsv,conex
+7789,Impact of BGP Filtering on Inter-Domain Routing Policies,"C. Cardona,P. Francois,P. Lucente",April 2016,INFORMATIONAL,IETF,ops,grow
+7791,Cloning the IKE Security Association in the Internet Key Exchange Protocol Version 2 (IKEv2),"D. Migault,V. Smyslov",March 2016,PROPOSED STANDARD,IETF,,NON WORKING GROUP
+7831,Application Bridging for Federated Access Beyond Web (ABFAB) Architecture,"H. Tschofenig,J. Howlett,J. Schaad,S. Hartman",May 2016,INFORMATIONAL,IETF,sec,abfab
 7832,Application Bridging for Federated Access Beyond Web (ABFAB) Use Cases,R. Smith,May 2016,INFORMATIONAL,IETF,sec,abfab
-7833,"A RADIUS Attribute, Binding, Profiles, Name Identifier Format, and Confirmation Methods for the Security Assertion Markup Language (SAML)","J. Howlett, S. Hartman, A. Perez-Mendez",May 2016,PROPOSED STANDARD,IETF,sec,abfab
-7843,Port Control Protocol (PCP) Third-Party ID Option,"A. Ripke, R. Winter, T. Dietz, J. Quittek, R. da Silva",May 2016,PROPOSED STANDARD,IETF,int,pcp
-7846,Peer-to-Peer Streaming Tracker Protocol (PPSTP),"R. Cruz, M. Nunes, J. Xia, R. Huang, J. Taveira, D. Lingli",May 2016,PROPOSED STANDARD,IETF,tsv,ppsp
-7855,Source Packet Routing in Networking (SPRING) Problem Statement and Requirements,"S. Previdi, C. Filsfils, B. Decraene, S. Litkowski, M. Horneffer, R. Shakir",May 2016,INFORMATIONAL,IETF,rtg,spring
+7833,"A RADIUS Attribute, Binding, Profiles, Name Identifier Format, and Confirmation Methods for the Security Assertion Markup Language (SAML)","A. Perez-Mendez,J. Howlett,S. Hartman",May 2016,PROPOSED STANDARD,IETF,sec,abfab
+7843,Port Control Protocol (PCP) Third-Party ID Option,"A. Ripke,J. Quittek,R. Winter,R. da Silva,T. Dietz",May 2016,PROPOSED STANDARD,IETF,int,pcp
+7846,Peer-to-Peer Streaming Tracker Protocol (PPSTP),"D. Lingli,J. Taveira,J. Xia,M. Nunes,R. Cruz,R. Huang",May 2016,PROPOSED STANDARD,IETF,tsv,ppsp
+7855,Source Packet Routing in Networking (SPRING) Problem Statement and Requirements,"B. Decraene,C. Filsfils,M. Horneffer,R. Shakir,S. Litkowski,S. Previdi",May 2016,INFORMATIONAL,IETF,rtg,spring
 7862,Network File System (NFS) Version 4 Minor Version 2 Protocol,T. Haynes,November 2016,PROPOSED STANDARD,IETF,tsv,nfsv4
-7906,NSA\'s Cryptographic Message Syntax (CMS) Key Management Attributes,"P. Timmel, R. Housley, S. Turner",June 2016,INFORMATIONAL,INDEPENDENT,,
-7921,An Architecture for the Interface to the Routing System,"A. Atlas, J. Halpern, S. Hares, D. Ward, T. Nadeau",June 2016,INFORMATIONAL,IETF,rtg,i2rs
-7922,Interface to the Routing System (I2RS) Traceability: Framework and Information Model,"J. Clarke, G. Salgueiro, C. Pignataro",June 2016,INFORMATIONAL,IETF,rtg,i2rs
-7925,Transport Layer Security (TLS) / Datagram Transport Layer Security (DTLS) Profiles for the Internet of Things,"H. Tschofenig, T. Fossati",July 2016,PROPOSED STANDARD,IETF,sec,dice
-7927,Information-Centric Networking (ICN) Research Challenges,"D. Kutscher, S. Eum, K. Pentikousis, I. Psaras, D. Corujo, D. Saucez, T. Schmidt, M. Waehlisch",July 2016,INFORMATIONAL,IRTF,,
+7906,NSA\'s Cryptographic Message Syntax (CMS) Key Management Attributes,"P. Timmel,R. Housley,S. Turner",June 2016,INFORMATIONAL,INDEPENDENT,,
+7921,An Architecture for the Interface to the Routing System,"A. Atlas,D. Ward,J. Halpern,S. Hares,T. Nadeau",June 2016,INFORMATIONAL,IETF,rtg,i2rs
+7922,Interface to the Routing System (I2RS) Traceability: Framework and Information Model,"C. Pignataro,G. Salgueiro,J. Clarke",June 2016,INFORMATIONAL,IETF,rtg,i2rs
+7925,Transport Layer Security (TLS) / Datagram Transport Layer Security (DTLS) Profiles for the Internet of Things,"H. Tschofenig,T. Fossati",July 2016,PROPOSED STANDARD,IETF,sec,dice
+7927,Information-Centric Networking (ICN) Research Challenges,"D. Corujo,D. Kutscher,D. Saucez,I. Psaras,K. Pentikousis,M. Waehlisch,S. Eum,T. Schmidt",July 2016,INFORMATIONAL,IRTF,,
 7930,Larger Packets for RADIUS over TCP,S. Hartman,August 2016,EXPERIMENTAL,IETF,ops,radext
-7933,Adaptive Video Streaming over Information-Centric Networking (ICN),"C. Westphal, S. Lederer, D. Posch, C. Timmerer, A. Azgin, W. Liu, C. Mueller, A. Detti, D. Corujo, J. Wang, M. Montpetit, N. Murray",August 2016,INFORMATIONAL,IRTF,,
-7937,Content Distribution Network Interconnection (CDNI) Logging Interface,"F. Le Faucheur, G. Bertrand, I. Oprescu, R. Peterkofsky",August 2016,PROPOSED STANDARD,IETF,art,cdni
+7933,Adaptive Video Streaming over Information-Centric Networking (ICN),"A. Azgin,A. Detti,C. Mueller,C. Timmerer,C. Westphal,D. Corujo,D. Posch,J. Wang,M. Montpetit,N. Murray,S. Lederer,W. Liu",August 2016,INFORMATIONAL,IRTF,,
+7937,Content Distribution Network Interconnection (CDNI) Logging Interface,"F. Le Faucheur,G. Bertrand,I. Oprescu,R. Peterkofsky",August 2016,PROPOSED STANDARD,IETF,art,cdni
 7944,Diameter Routing Message Priority,S. Donovan,August 2016,PROPOSED STANDARD,IETF,ops,dime
-7962,"Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures","J. Saldana, A. Arcia-Moret, B. Braem, E. Pietrosemoli, A. Sathiaseelan, M. Zennaro",August 2016,INFORMATIONAL,IRTF,,
-7966,Security at the Attribute-Value Pair (AVP) Level for Non-neighboring Diameter Nodes: Scenarios and Requirements,"H. Tschofenig, J. Korhonen, G. Zorn, K. Pillay",September 2016,INFORMATIONAL,IETF,ops,dime
-7980,A Framework for Defining Network Complexity,"M. Behringer, A. Retana, R. White, G. Huston",October 2016,INFORMATIONAL,INDEPENDENT,,
-8011,Internet Printing Protocol/1.1: Model and Semantics,"M. Sweet, I. McDonald",January 2017,INTERNET STANDARD,IETF,,NON WORKING GROUP
-8014,An Architecture for Data-Center Network Virtualization over Layer 3 (NVO3),"D. Black, J. Hudson, L. Kreeger, M. Lasserre, T. Narten",December 2016,INFORMATIONAL,IETF,rtg,nvo3
-8030,Generic Event Delivery Using HTTP Push,"M. Thomson, E. Damaggio, B. Raymor",December 2016,PROPOSED STANDARD,IETF,art,webpush
-8045,RADIUS Extensions for IP Port Configuration and Reporting,"D. Cheng, J. Korhonen, M. Boucadair, S. Sivakumar",January 2017,PROPOSED STANDARD,IETF,ops,radext
-8049,YANG Data Model for L3VPN Service Delivery,"S. Litkowski, L. Tomotaki, K. Ogaki",February 2017,PROPOSED STANDARD,IETF,ops,l3sm
-8116,Security Threats to the Optimized Link State Routing Protocol Version 2 (OLSRv2),"T. Clausen, U. Herberg, J. Yi",May 2017,INFORMATIONAL,IETF,rtg,manet
-8157,Huawei\'s GRE Tunnel Bonding Protocol,"N. Leymann, C. Heidemann, M. Zhang, B. Sarikaya, M. Cullen",May 2017,INFORMATIONAL,INDEPENDENT,,
-8158,IP Flow Information Export (IPFIX) Information Elements for Logging NAT Events,"S. Sivakumar, R. Penno",December 2017,PROPOSED STANDARD,IETF,,NON WORKING GROUP
+7962,"Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures","A. Arcia-Moret,A. Sathiaseelan,B. Braem,E. Pietrosemoli,J. Saldana,M. Zennaro",August 2016,INFORMATIONAL,IRTF,,
+7966,Security at the Attribute-Value Pair (AVP) Level for Non-neighboring Diameter Nodes: Scenarios and Requirements,"G. Zorn,H. Tschofenig,J. Korhonen,K. Pillay",September 2016,INFORMATIONAL,IETF,ops,dime
+7980,A Framework for Defining Network Complexity,"A. Retana,G. Huston,M. Behringer,R. White",October 2016,INFORMATIONAL,INDEPENDENT,,
+8011,Internet Printing Protocol/1.1: Model and Semantics,"I. McDonald,M. Sweet",January 2017,INTERNET STANDARD,IETF,,NON WORKING GROUP
+8014,An Architecture for Data-Center Network Virtualization over Layer 3 (NVO3),"D. Black,J. Hudson,L. Kreeger,M. Lasserre,T. Narten",December 2016,INFORMATIONAL,IETF,rtg,nvo3
+8030,Generic Event Delivery Using HTTP Push,"B. Raymor,E. Damaggio,M. Thomson",December 2016,PROPOSED STANDARD,IETF,art,webpush
+8045,RADIUS Extensions for IP Port Configuration and Reporting,"D. Cheng,J. Korhonen,M. Boucadair,S. Sivakumar",January 2017,PROPOSED STANDARD,IETF,ops,radext
+8049,YANG Data Model for L3VPN Service Delivery,"K. Ogaki,L. Tomotaki,S. Litkowski",February 2017,PROPOSED STANDARD,IETF,ops,l3sm
+8116,Security Threats to the Optimized Link State Routing Protocol Version 2 (OLSRv2),"J. Yi,T. Clausen,U. Herberg",May 2017,INFORMATIONAL,IETF,rtg,manet
+8157,Huawei\'s GRE Tunnel Bonding Protocol,"B. Sarikaya,C. Heidemann,M. Cullen,M. Zhang,N. Leymann",May 2017,INFORMATIONAL,INDEPENDENT,,
+8158,IP Flow Information Export (IPFIX) Information Elements for Logging NAT Events,"R. Penno,S. Sivakumar",December 2017,PROPOSED STANDARD,IETF,,NON WORKING GROUP
 8167,Bidirectional Remote Procedure Call on RPC-over-RDMA Transports,C. Lever,June 2017,PROPOSED STANDARD,IETF,tsv,nfsv4
 8170,Planning for Protocol Adoption and Subsequent Transitions,D. Thaler,May 2017,INFORMATIONAL,IAB,,
-8192,Interface to Network Security Functions (I2NSF): Problem Statement and Use Cases,"S. Hares, D. Lopez, M. Zarny, C. Jacquenet, R. Kumar, J. Jeong",July 2017,INFORMATIONAL,IETF,sec,i2nsf
-8241,Interface to the Routing System (I2RS) Security-Related Requirements,"S. Hares, D. Migault, J. Halpern",September 2017,INFORMATIONAL,IETF,rtg,i2rs
-8256,Requirements for Hitless MPLS Path Segment Monitoring,"A. D\'Alessandro, L. Andersson, S. Ueno, K. Arai, Y. Koike",October 2017,INFORMATIONAL,IETF,rtg,mpls
-8272,TinyIPFIX for Smart Meters in Constrained Networks,"C. Schmitt, B. Stiller, B. Trammell",November 2017,INFORMATIONAL,INDEPENDENT,,
-8280,Research into Human Rights Protocol Considerations,"N. ten Oever, C. Cath",October 2017,INFORMATIONAL,IRTF,,
-8299,YANG Data Model for L3VPN Service Delivery,"Q. Wu, S. Litkowski, L. Tomotaki, K. Ogaki",January 2018,PROPOSED STANDARD,IETF,,NON WORKING GROUP
-8300,Network Service Header (NSH),"P. Quinn, U. Elzur, C. Pignataro",January 2018,PROPOSED STANDARD,IETF,rtg,sfc
-8309,Service Models Explained,"Q. Wu, W. Liu, A. Farrel",January 2018,INFORMATIONAL,IETF,ops,opsawg
-8313,Use of Multicast across Inter-domain Peering Points,"P. Tarapore, R. Sayko, G. Shepherd, T. Eckert, R. Krishnan",January 2018,BEST CURRENT PRACTICE,IETF,ops,mboned
-8321,Alternate-Marking Method for Passive and Hybrid Performance Monitoring,"G. Fioccola, A. Capello, M. Cociglio, L. Castaldelli, M. Chen, L. Zheng, G. Mirsky, T. Mizrahi",January 2018,EXPERIMENTAL,IETF,tsv,ippm
-8329,Framework for Interface to Network Security Functions,"D. Lopez, E. Lopez, L. Dunbar, J. Strassner, R. Kumar",February 2018,INFORMATIONAL,IETF,sec,i2nsf
-8371,Mobile Node Identifier Types for MIPv6,"C. Perkins, V. Devarapalli",July 2018,PROPOSED STANDARD,IETF,int,dmm
-8372,MPLS Flow Identification Considerations,"S. Bryant, C. Pignataro, M. Chen, Z. Li, G. Mirsky",May 2018,INFORMATIONAL,IETF,rtg,mpls
+8192,Interface to Network Security Functions (I2NSF): Problem Statement and Use Cases,"C. Jacquenet,D. Lopez,J. Jeong,M. Zarny,R. Kumar,S. Hares",July 2017,INFORMATIONAL,IETF,sec,i2nsf
+8241,Interface to the Routing System (I2RS) Security-Related Requirements,"D. Migault,J. Halpern,S. Hares",September 2017,INFORMATIONAL,IETF,rtg,i2rs
+8256,Requirements for Hitless MPLS Path Segment Monitoring,"A. D\'Alessandro,K. Arai,L. Andersson,S. Ueno,Y. Koike",October 2017,INFORMATIONAL,IETF,rtg,mpls
+8272,TinyIPFIX for Smart Meters in Constrained Networks,"B. Stiller,B. Trammell,C. Schmitt",November 2017,INFORMATIONAL,INDEPENDENT,,
+8280,Research into Human Rights Protocol Considerations,"C. Cath,N. ten Oever",October 2017,INFORMATIONAL,IRTF,,
+8299,YANG Data Model for L3VPN Service Delivery,"K. Ogaki,L. Tomotaki,Q. Wu,S. Litkowski",January 2018,PROPOSED STANDARD,IETF,,NON WORKING GROUP
+8300,Network Service Header (NSH),"C. Pignataro,P. Quinn,U. Elzur",January 2018,PROPOSED STANDARD,IETF,rtg,sfc
+8309,Service Models Explained,"A. Farrel,Q. Wu,W. Liu",January 2018,INFORMATIONAL,IETF,ops,opsawg
+8313,Use of Multicast across Inter-domain Peering Points,"G. Shepherd,P. Tarapore,R. Krishnan,R. Sayko,T. Eckert",January 2018,BEST CURRENT PRACTICE,IETF,ops,mboned
+8321,Alternate-Marking Method for Passive and Hybrid Performance Monitoring,"A. Capello,G. Fioccola,G. Mirsky,L. Castaldelli,L. Zheng,M. Chen,M. Cociglio,T. Mizrahi",January 2018,EXPERIMENTAL,IETF,tsv,ippm
+8329,Framework for Interface to Network Security Functions,"D. Lopez,E. Lopez,J. Strassner,L. Dunbar,R. Kumar",February 2018,INFORMATIONAL,IETF,sec,i2nsf
+8371,Mobile Node Identifier Types for MIPv6,"C. Perkins,V. Devarapalli",July 2018,PROPOSED STANDARD,IETF,int,dmm
+8372,MPLS Flow Identification Considerations,"C. Pignataro,G. Mirsky,M. Chen,S. Bryant,Z. Li",May 2018,INFORMATIONAL,IETF,rtg,mpls
 8374,BGPsec Design Choices and Summary of Supporting Discussions,K. Sriram,April 2018,INFORMATIONAL,INDEPENDENT,,
 8376,Low-Power Wide Area Network (LPWAN) Overview,S. Farrell,May 2018,INFORMATIONAL,IETF,int,lpwan
-8404,Effects of Pervasive Encryption on Operators,"K. Moriarty, A. Morton",July 2018,INFORMATIONAL,IETF,,NON WORKING GROUP
-8406,Taxonomy of Coding Techniques for Efficient Network Communications,"B. Adamson, C. Adjih, J. Bilbao, V. Firoiu, F. Fitzek, S. Ghanem, E. Lochin, A. Masucci, M-J. Montpetit, M. Pedersen, G. Peralta, V. Roca, P. Saxena, S. Sivakumar",June 2018,INFORMATIONAL,IRTF,,
-8415,Dynamic Host Configuration Protocol for IPv6 (DHCPv6),"T. Mrugalski, M. Siodelski, B. Volz, A. Yourtchenko, M. Richardson, S. Jiang, T. Lemon, T. Winters",November 2018,PROPOSED STANDARD,IETF,int,dhc
-8426,Recommendations for RSVP-TE and Segment Routing (SR) Label Switched Path (LSP) Coexistence,"H. Sitaraman, V. Beeram, I. Minei, S. Sivabalan",July 2018,INFORMATIONAL,IETF,rtg,teas
-8466,A YANG Data Model for Layer 2 Virtual Private Network (L2VPN) Service Delivery,"B. Wen, G. Fioccola, C. Xie, L. Jalil",October 2018,PROPOSED STANDARD,IETF,ops,l2sm
+8404,Effects of Pervasive Encryption on Operators,"A. Morton,K. Moriarty",July 2018,INFORMATIONAL,IETF,,NON WORKING GROUP
+8406,Taxonomy of Coding Techniques for Efficient Network Communications,"A. Masucci,B. Adamson,C. Adjih,E. Lochin,F. Fitzek,G. Peralta,J. Bilbao,M-J. Montpetit,M. Pedersen,P. Saxena,S. Ghanem,S. Sivakumar,V. Firoiu,V. Roca",June 2018,INFORMATIONAL,IRTF,,
+8415,Dynamic Host Configuration Protocol for IPv6 (DHCPv6),"A. Yourtchenko,B. Volz,M. Richardson,M. Siodelski,S. Jiang,T. Lemon,T. Mrugalski,T. Winters",November 2018,PROPOSED STANDARD,IETF,int,dhc
+8426,Recommendations for RSVP-TE and Segment Routing (SR) Label Switched Path (LSP) Coexistence,"H. Sitaraman,I. Minei,S. Sivabalan,V. Beeram",July 2018,INFORMATIONAL,IETF,rtg,teas
+8466,A YANG Data Model for Layer 2 Virtual Private Network (L2VPN) Service Delivery,"B. Wen,C. Xie,G. Fioccola,L. Jalil",October 2018,PROPOSED STANDARD,IETF,ops,l2sm
 8501,Reverse DNS in IPv6 for Internet Service Providers,L. Howard,November 2018,INFORMATIONAL,IETF,ops,dnsop
-8506,Diameter Credit-Control Application,"L. Bertz, D. Dolson, Y. Lifshitz",March 2019,PROPOSED STANDARD,IETF,ops,dime
-8520,Manufacturer Usage Description Specification,"E. Lear, R. Droms, D. Romascanu",March 2019,PROPOSED STANDARD,IETF,ops,opsawg
-8559,Dynamic Authorization Proxying in the Remote Authentication Dial-In User Service (RADIUS) Protocol,"A. DeKok, J. Korhonen",April 2019,PROPOSED STANDARD,IETF,ops,radext
+8506,Diameter Credit-Control Application,"D. Dolson,L. Bertz,Y. Lifshitz",March 2019,PROPOSED STANDARD,IETF,ops,dime
+8520,Manufacturer Usage Description Specification,"D. Romascanu,E. Lear,R. Droms",March 2019,PROPOSED STANDARD,IETF,ops,opsawg
+8559,Dynamic Authorization Proxying in the Remote Authentication Dial-In User Service (RADIUS) Protocol,"A. DeKok,J. Korhonen",April 2019,PROPOSED STANDARD,IETF,ops,radext
 8565,Hypertext Jeopardy Protocol (HTJP/1.0),E. Fokschaner,1 April 2019,INFORMATIONAL,INDEPENDENT,,
-8568,Network Virtualization Research Challenges,"CJ. Bernardos, A. Rahman, JC. Zuniga, LM. Contreras, P. Aranda, P. Lynch",April 2019,INFORMATIONAL,IRTF,,
-8577,Signaling RSVP-TE Tunnels on a Shared MPLS Forwarding Plane,"H. Sitaraman, V. Beeram, T. Parikh, T. Saad",April 2019,PROPOSED STANDARD,IETF,rtg,mpls
+8568,Network Virtualization Research Challenges,"A. Rahman,CJ. Bernardos,JC. Zuniga,LM. Contreras,P. Aranda,P. Lynch",April 2019,INFORMATIONAL,IRTF,,
+8577,Signaling RSVP-TE Tunnels on a Shared MPLS Forwarding Plane,"H. Sitaraman,T. Parikh,T. Saad,V. Beeram",April 2019,PROPOSED STANDARD,IETF,rtg,mpls
 8578,Deterministic Networking Use Cases,E. Grossman,May 2019,INFORMATIONAL,IETF,rtg,detnet
 8581,Diameter Agent Overload and the Peer Overload Report,S. Donovan,August 2019,PROPOSED STANDARD,IETF,ops,dime
-8582,Diameter Overload Rate Control,"S. Donovan, E. Noel",August 2019,PROPOSED STANDARD,IETF,ops,dime
-8583,Diameter Load Information Conveyance,"B. Campbell, S. Donovan, JJ. Trottin",August 2019,PROPOSED STANDARD,IETF,ops,dime
-8597,Cooperating Layered Architecture for Software-Defined Networking (CLAS),"LM. Contreras, CJ. Bernardos, D. Lopez, M. Boucadair, P. Iovanna",May 2019,INFORMATIONAL,INDEPENDENT,,
-8658,RADIUS Attributes for Softwire Mechanisms Based on Address plus Port (A+P),"S. Jiang, Y. Fu, C. Xie, T. Li, M. Boucadair",November 2019,PROPOSED STANDARD,IETF,int,softwire
-8711,"Structure of the IETF Administrative Support Activity, Version 2.0","B. Haberman, J. Hall, J. Livingood",February 2020,BEST CURRENT PRACTICE,IETF,gen,iasa2
-8772,"The China Mobile, Huawei, and ZTE Broadband Network Gateway (BNG) Simple Control and User Plane Separation Protocol (S-CUSP)","S. Hu, D. Eastlake, F. Qin, T. Chua, D. Huang",May 2020,INFORMATIONAL,INDEPENDENT,,
-8802,The Quality for Service (Q4S) Protocol,"J.J. Aranda, M. Cortes, J. Salvach\xc3\xbaa, M. Narganes, I. Mart\xc3\xadnez-Sarriegui",July 2020,INFORMATIONAL,INDEPENDENT,,
-8869,Evaluation Test Cases for Interactive Real-Time Media over Wireless Networks,"Z. Sarker, X. Zhu, J. Fu",January 2021,INFORMATIONAL,IETF,tsv,rmcat
-8881,Network File System (NFS) Version 4 Minor Version 1 Protocol,"D. Noveck, C. Lever",August 2020,PROPOSED STANDARD,IETF,tsv,nfsv4
-8886,Secure Device Install,"W. Kumari, C. Doyle",September 2020,INFORMATIONAL,IETF,ops,opsawg
-8907,The Terminal Access Controller Access-Control System Plus (TACACS+) Protocol,"T. Dahm, A. Ota, D.C. Medway Gash, D. Carrel, L. Grant",September 2020,INFORMATIONAL,IETF,ops,opsawg
-8921,Dynamic Service Negotiation: The Connectivity Provisioning Negotiation Protocol (CPNP),"M. Boucadair, C. Jacquenet, D. Zhang, P. Georgatsos",October 2020,INFORMATIONAL,INDEPENDENT,,
-8979,Subscriber and Performance Policy Identifier Context Headers in the Network Service Header (NSH),"B. Sarikaya, D. von Hugo, M. Boucadair",February 2021,PROPOSED STANDARD,IETF,rtg,sfc
-8993,A Reference Model for Autonomic Networking,"M. Behringer, B. Carpenter, T. Eckert, L. Ciavaglia, J. Nobre",May 2021,INFORMATIONAL,IETF,ops,anima
-8994,An Autonomic Control Plane (ACP),"T. Eckert, M. Behringer, S. Bjarnason",May 2021,PROPOSED STANDARD,IETF,ops,anima
-9005,Path Computation Element Communication Protocol (PCEP) Extension for Associating Policies and Label Switched Paths (LSPs),"S. Litkowski, S. Sivabalan, J. Tantsura, J. Hardwick, C. Li",March 2021,PROPOSED STANDARD,IETF,rtg,pce
+8582,Diameter Overload Rate Control,"E. Noel,S. Donovan",August 2019,PROPOSED STANDARD,IETF,ops,dime
+8583,Diameter Load Information Conveyance,"B. Campbell,JJ. Trottin,S. Donovan",August 2019,PROPOSED STANDARD,IETF,ops,dime
+8597,Cooperating Layered Architecture for Software-Defined Networking (CLAS),"CJ. Bernardos,D. Lopez,LM. Contreras,M. Boucadair,P. Iovanna",May 2019,INFORMATIONAL,INDEPENDENT,,
+8658,RADIUS Attributes for Softwire Mechanisms Based on Address plus Port (A+P),"C. Xie,M. Boucadair,S. Jiang,T. Li,Y. Fu",November 2019,PROPOSED STANDARD,IETF,int,softwire
+8711,"Structure of the IETF Administrative Support Activity, Version 2.0","B. Haberman,J. Hall,J. Livingood",February 2020,BEST CURRENT PRACTICE,IETF,gen,iasa2
+8772,"The China Mobile, Huawei, and ZTE Broadband Network Gateway (BNG) Simple Control and User Plane Separation Protocol (S-CUSP)","D. Eastlake,D. Huang,F. Qin,S. Hu,T. Chua",May 2020,INFORMATIONAL,INDEPENDENT,,
+8802,The Quality for Service (Q4S) Protocol,"I. Mart\xc3\xadnez-Sarriegui,J. Salvach\xc3\xbaa,J.J. Aranda,M. Cortes,M. Narganes",July 2020,INFORMATIONAL,INDEPENDENT,,
+8869,Evaluation Test Cases for Interactive Real-Time Media over Wireless Networks,"J. Fu,X. Zhu,Z. Sarker",January 2021,INFORMATIONAL,IETF,tsv,rmcat
+8881,Network File System (NFS) Version 4 Minor Version 1 Protocol,"C. Lever,D. Noveck",August 2020,PROPOSED STANDARD,IETF,tsv,nfsv4
+8886,Secure Device Install,"C. Doyle,W. Kumari",September 2020,INFORMATIONAL,IETF,ops,opsawg
+8907,The Terminal Access Controller Access-Control System Plus (TACACS+) Protocol,"A. Ota,D. Carrel,D.C. Medway Gash,L. Grant,T. Dahm",September 2020,INFORMATIONAL,IETF,ops,opsawg
+8921,Dynamic Service Negotiation: The Connectivity Provisioning Negotiation Protocol (CPNP),"C. Jacquenet,D. Zhang,M. Boucadair,P. Georgatsos",October 2020,INFORMATIONAL,INDEPENDENT,,
+8979,Subscriber and Performance Policy Identifier Context Headers in the Network Service Header (NSH),"B. Sarikaya,D. von Hugo,M. Boucadair",February 2021,PROPOSED STANDARD,IETF,rtg,sfc
+8993,A Reference Model for Autonomic Networking,"B. Carpenter,J. Nobre,L. Ciavaglia,M. Behringer,T. Eckert",May 2021,INFORMATIONAL,IETF,ops,anima
+8994,An Autonomic Control Plane (ACP),"M. Behringer,S. Bjarnason,T. Eckert",May 2021,PROPOSED STANDARD,IETF,ops,anima
+9005,Path Computation Element Communication Protocol (PCEP) Extension for Associating Policies and Label Switched Paths (LSPs),"C. Li,J. Hardwick,J. Tantsura,S. Litkowski,S. Sivabalan",March 2021,PROPOSED STANDARD,IETF,rtg,pce

@@ -3,7 +3,7 @@ RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
 694,Protocol information,J. Postel,June 1975,UNKNOWN,Legacy,,
 873,Illusion of vendor support,M.A. Padlipsky,September 1982,UNKNOWN,Legacy,,
 874,Critique of X.25,M.A. Padlipsky,September 1982,UNKNOWN,Legacy,,
-898,Gateway special interest group meeting notes,"R.M. Hinden, J. Postel, M. Muuss, J.K. Reynolds",April 1984,UNKNOWN,Legacy,,
+898,Gateway special interest group meeting notes,"J. Postel,J.K. Reynolds,M. Muuss,R.M. Hinden",April 1984,UNKNOWN,Legacy,,
 939,Executive summary of the NRC report on transport protocols for Department of Defense data networks,National Research Council,February 1985,UNKNOWN,Legacy,,
 942,Transport protocols for Department of Defense data networks,National Research Council,February 1985,UNKNOWN,Legacy,,
 1007,Military supplement to the ISO Transport Protocol,W. McCoy,June 1987,UNKNOWN,Legacy,,
@@ -13,75 +13,75 @@ RFC_ID,Title,Authors,Date,Status,Stream,Area,Working_Group
 1251,"Who\'s Who in the Internet: Biographies of IAB, IESG and IRSG Members",G. Malkin,August 1991,INFORMATIONAL,Legacy,,
 1336,"Who\'s Who in the Internet: Biographies of IAB, IESG and IRSG Members",G. Malkin,May 1992,INFORMATIONAL,Legacy,,
 1677,Tactical Radio Frequency Communication Requirements for IPng,B. Adamson,August 1994,INFORMATIONAL,Legacy,,
-1986,Experiments with a Simple File Transfer Protocol for Radio Links using Enhanced Trivial File Transfer Protocol (ETFTP),"W. Polites, W. Wollman, D. Woo, R. Langan",August 1996,EXPERIMENTAL,Legacy,,
-2501,Mobile Ad hoc Networking (MANET): Routing Protocol Performance Issues and Evaluation Considerations,"S. Corson, J. Macker",January 1999,INFORMATIONAL,IETF,rtg,manet
-2550,Y10K and Beyond,"S. Glassman, M. Manasse, J. Mogul",1 April 1999,INFORMATIONAL,Legacy,,
-2702,Requirements for Traffic Engineering Over MPLS,"D. Awduche, J. Malcolm, J. Agogbua, M. O\'Dell, J. McManus",September 1999,INFORMATIONAL,IETF,rtg,mpls
-2792,DSA and RSA Key and Signature Encoding for the KeyNote Trust Management System,"M. Blaze, J. Ioannidis, A. Keromytis",March 2000,INFORMATIONAL,Legacy,,
+1986,Experiments with a Simple File Transfer Protocol for Radio Links using Enhanced Trivial File Transfer Protocol (ETFTP),"D. Woo,R. Langan,W. Polites,W. Wollman",August 1996,EXPERIMENTAL,Legacy,,
+2501,Mobile Ad hoc Networking (MANET): Routing Protocol Performance Issues and Evaluation Considerations,"J. Macker,S. Corson",January 1999,INFORMATIONAL,IETF,rtg,manet
+2550,Y10K and Beyond,"J. Mogul,M. Manasse,S. Glassman",1 April 1999,INFORMATIONAL,Legacy,,
+2702,Requirements for Traffic Engineering Over MPLS,"D. Awduche,J. Agogbua,J. Malcolm,J. McManus,M. O\'Dell",September 1999,INFORMATIONAL,IETF,rtg,mpls
+2792,DSA and RSA Key and Signature Encoding for the KeyNote Trust Management System,"A. Keromytis,J. Ioannidis,M. Blaze",March 2000,INFORMATIONAL,Legacy,,
 2828,Internet Security Glossary,R. Shirey,May 2000,INFORMATIONAL,Legacy,,
-3272,Overview and Principles of Internet Traffic Engineering,"D. Awduche, A. Chiu, A. Elwalid, I. Widjaja, X. Xiao",May 2002,INFORMATIONAL,IETF,subip,tewg
-3286,An Introduction to the Stream Control Transmission Protocol (SCTP),"L. Ong, J. Yoakum",May 2002,INFORMATIONAL,IETF,,NON WORKING GROUP
-3346,Applicability Statement for Traffic Engineering with MPLS,"J. Boyle, V. Gill, A. Hannan, D. Cooper, D. Awduche, B. Christian, W.S. Lai",August 2002,INFORMATIONAL,IETF,subip,tewg
-3386,Network Hierarchy and Multilayer Survivability,"W. Lai, D. McDysan",November 2002,INFORMATIONAL,IETF,subip,tewg
-3469,Framework for Multi-Protocol Label Switching (MPLS)-based Recovery,"V. Sharma, F. Hellstrand",February 2003,INFORMATIONAL,IETF,rtg,mpls
-3552,Guidelines for Writing RFC Text on Security Considerations,"E. Rescorla, B. Korver",July 2003,BEST CURRENT PRACTICE,IAB,,
-3564,Requirements for Support of Differentiated Services-aware MPLS Traffic Engineering,"F. Le Faucheur, W. Lai",July 2003,INFORMATIONAL,IETF,subip,tewg
-3582,Goals for IPv6 Site-Multihoming Architectures,"J. Abley, B. Black, V. Gill",August 2003,INFORMATIONAL,IETF,ops,multi6
-3717,IP over Optical Networks: A Framework,"B. Rajagopalan, J. Luciani, D. Awduche",March 2004,INFORMATIONAL,IETF,subip,ipo
-3740,The Multicast Group Security Architecture,"T. Hardjono, B. Weis",March 2004,INFORMATIONAL,IETF,sec,msec
+3272,Overview and Principles of Internet Traffic Engineering,"A. Chiu,A. Elwalid,D. Awduche,I. Widjaja,X. Xiao",May 2002,INFORMATIONAL,IETF,subip,tewg
+3286,An Introduction to the Stream Control Transmission Protocol (SCTP),"J. Yoakum,L. Ong",May 2002,INFORMATIONAL,IETF,,NON WORKING GROUP
+3346,Applicability Statement for Traffic Engineering with MPLS,"A. Hannan,B. Christian,D. Awduche,D. Cooper,J. Boyle,V. Gill,W.S. Lai",August 2002,INFORMATIONAL,IETF,subip,tewg
+3386,Network Hierarchy and Multilayer Survivability,"D. McDysan,W. Lai",November 2002,INFORMATIONAL,IETF,subip,tewg
+3469,Framework for Multi-Protocol Label Switching (MPLS)-based Recovery,"F. Hellstrand,V. Sharma",February 2003,INFORMATIONAL,IETF,rtg,mpls
+3552,Guidelines for Writing RFC Text on Security Considerations,"B. Korver,E. Rescorla",July 2003,BEST CURRENT PRACTICE,IAB,,
+3564,Requirements for Support of Differentiated Services-aware MPLS Traffic Engineering,"F. Le Faucheur,W. Lai",July 2003,INFORMATIONAL,IETF,subip,tewg
+3582,Goals for IPv6 Site-Multihoming Architectures,"B. Black,J. Abley,V. Gill",August 2003,INFORMATIONAL,IETF,ops,multi6
+3717,IP over Optical Networks: A Framework,"B. Rajagopalan,D. Awduche,J. Luciani",March 2004,INFORMATIONAL,IETF,subip,ipo
+3740,The Multicast Group Security Architecture,"B. Weis,T. Hardjono",March 2004,INFORMATIONAL,IETF,sec,msec
 3945,Generalized Multi-Protocol Label Switching (GMPLS) Architecture,E. Mannie,October 2004,PROPOSED STANDARD,IETF,rtg,ccamp
-4116,IPv4 Multihoming Practices and Limitations,"J. Abley, K. Lindqvist, E. Davies, B. Black, V. Gill",July 2005,INFORMATIONAL,IETF,ops,multi6
+4116,IPv4 Multihoming Practices and Limitations,"B. Black,E. Davies,J. Abley,K. Lindqvist,V. Gill",July 2005,INFORMATIONAL,IETF,ops,multi6
 4177,Architectural Approaches to Multi-homing for IPv6,G. Huston,September 2005,INFORMATIONAL,IETF,ops,multi6
 4204,Link Management Protocol (LMP),J. Lang,October 2005,PROPOSED STANDARD,IETF,rtg,ccamp
-4209,Link Management Protocol (LMP) for Dense Wavelength Division Multiplexing (DWDM) Optical Line Systems,"A. Fredette, J. Lang",October 2005,PROPOSED STANDARD,IETF,rtg,ccamp
-4257,Framework for Generalized Multi-Protocol Label Switching (GMPLS)-based Control of Synchronous Digital Hierarchy/Synchronous Optical Networking (SDH/SONET) Networks,"G. Bernstein, E. Mannie, V. Sharma, E. Gray",December 2005,INFORMATIONAL,IETF,rtg,ccamp
+4209,Link Management Protocol (LMP) for Dense Wavelength Division Multiplexing (DWDM) Optical Line Systems,"A. Fredette,J. Lang",October 2005,PROPOSED STANDARD,IETF,rtg,ccamp
+4257,Framework for Generalized Multi-Protocol Label Switching (GMPLS)-based Control of Synchronous Digital Hierarchy/Synchronous Optical Networking (SDH/SONET) Networks,"E. Gray,E. Mannie,G. Bernstein,V. Sharma",December 2005,INFORMATIONAL,IETF,rtg,ccamp
 4258,Requirements for Generalized Multi-Protocol Label Switching (GMPLS) Routing for the Automatically Switched Optical Network (ASON),D. Brungard,November 2005,INFORMATIONAL,IETF,rtg,ccamp
-4426,Generalized Multi-Protocol Label Switching (GMPLS) Recovery Functional Specification,"J. Lang, B. Rajagopalan, D. Papadimitriou",March 2006,PROPOSED STANDARD,IETF,rtg,ccamp
-4427,Recovery (Protection and Restoration) Terminology for Generalized Multi-Protocol Label Switching (GMPLS),"E. Mannie, D. Papadimitriou",March 2006,INFORMATIONAL,IETF,rtg,ccamp
-4428,Analysis of Generalized Multi-Protocol Label Switching (GMPLS)-based Recovery Mechanisms (including Protection and Restoration),"D. Papadimitriou, E. Mannie",March 2006,INFORMATIONAL,IETF,rtg,ccamp
+4426,Generalized Multi-Protocol Label Switching (GMPLS) Recovery Functional Specification,"B. Rajagopalan,D. Papadimitriou,J. Lang",March 2006,PROPOSED STANDARD,IETF,rtg,ccamp
+4427,Recovery (Protection and Restoration) Terminology for Generalized Multi-Protocol Label Switching (GMPLS),"D. Papadimitriou,E. Mannie",March 2006,INFORMATIONAL,IETF,rtg,ccamp
+4428,Analysis of Generalized Multi-Protocol Label Switching (GMPLS)-based Recovery Mechanisms (including Protection and Restoration),"D. Papadimitriou,E. Mannie",March 2006,INFORMATIONAL,IETF,rtg,ccamp
 4686,Analysis of Threats Motivating DomainKeys Identified Mail (DKIM),J. Fenton,September 2006,INFORMATIONAL,IETF,sec,dkim
 4949,"Internet Security Glossary, Version 2",R. Shirey,August 2007,INFORMATIONAL,INDEPENDENT,,
-4974,Generalized MPLS (GMPLS) RSVP-TE Signaling Extensions in Support of Calls,"D. Papadimitriou, A. Farrel",August 2007,PROPOSED STANDARD,IETF,rtg,ccamp
+4974,Generalized MPLS (GMPLS) RSVP-TE Signaling Extensions in Support of Calls,"A. Farrel,D. Papadimitriou",August 2007,PROPOSED STANDARD,IETF,rtg,ccamp
 5016,Requirements for a DomainKeys Identified Mail (DKIM) Signing Practices Protocol,M. Thomas,October 2007,INFORMATIONAL,IETF,sec,dkim
-5061,Stream Control Transmission Protocol (SCTP) Dynamic Address Reconfiguration,"R. Stewart, Q. Xie, M. Tuexen, S. Maruyama, M. Kozuka",September 2007,PROPOSED STANDARD,IETF,tsv,tsvwg
-5317,Joint Working Team (JWT) Report on MPLS Architectural Considerations for a Transport Profile,"S. Bryant, L. Andersson",February 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
-5654,Requirements of an MPLS Transport Profile,"B. Niven-Jenkins, D. Brungard, M. Betts, N. Sprecher, S. Ueno",September 2009,PROPOSED STANDARD,IETF,rtg,mpls
-5718,An In-Band Data Communication Network For the MPLS Transport Profile,"D. Beller, A. Farrel",January 2010,PROPOSED STANDARD,IETF,rtg,mpls
-5772,A Set of Possible Requirements for a Future Routing Architecture,"A. Doria, E. Davies, F. Kastenholz",February 2010,HISTORIC,IRTF,,
-5887,Renumbering Still Needs Work,"B. Carpenter, R. Atkinson, H. Flinck",May 2010,INFORMATIONAL,IETF,,NON WORKING GROUP
-5906,Network Time Protocol Version 4: Autokey Specification,"B. Haberman, D. Mills",June 2010,INFORMATIONAL,IETF,int,ntp
-5921,A Framework for MPLS in Transport Networks,"M. Bocci, S. Bryant, D. Frost, L. Levrau, L. Berger",July 2010,INFORMATIONAL,IETF,rtg,mpls
-6077,Open Research Issues in Internet Congestion Control,"D. Papadimitriou, M. Welzl, M. Scharf, B. Briscoe",February 2011,INFORMATIONAL,IRTF,,
-6139,Routing and Addressing in Networks with Global Enterprise Recursion (RANGER) Scenarios,"S. Russert, E. Fleischman, F. Templin",February 2011,INFORMATIONAL,INDEPENDENT,,
+5061,Stream Control Transmission Protocol (SCTP) Dynamic Address Reconfiguration,"M. Kozuka,M. Tuexen,Q. Xie,R. Stewart,S. Maruyama",September 2007,PROPOSED STANDARD,IETF,tsv,tsvwg
+5317,Joint Working Team (JWT) Report on MPLS Architectural Considerations for a Transport Profile,"L. Andersson,S. Bryant",February 2009,INFORMATIONAL,IETF,,NON WORKING GROUP
+5654,Requirements of an MPLS Transport Profile,"B. Niven-Jenkins,D. Brungard,M. Betts,N. Sprecher,S. Ueno",September 2009,PROPOSED STANDARD,IETF,rtg,mpls
+5718,An In-Band Data Communication Network For the MPLS Transport Profile,"A. Farrel,D. Beller",January 2010,PROPOSED STANDARD,IETF,rtg,mpls
+5772,A Set of Possible Requirements for a Future Routing Architecture,"A. Doria,E. Davies,F. Kastenholz",February 2010,HISTORIC,IRTF,,
+5887,Renumbering Still Needs Work,"B. Carpenter,H. Flinck,R. Atkinson",May 2010,INFORMATIONAL,IETF,,NON WORKING GROUP
+5906,Network Time Protocol Version 4: Autokey Specification,"B. Haberman,D. Mills",June 2010,INFORMATIONAL,IETF,int,ntp
+5921,A Framework for MPLS in Transport Networks,"D. Frost,L. Berger,L. Levrau,M. Bocci,S. Bryant",July 2010,INFORMATIONAL,IETF,rtg,mpls
+6077,Open Research Issues in Internet Congestion Control,"B. Briscoe,D. Papadimitriou,M. Scharf,M. Welzl",February 2011,INFORMATIONAL,IRTF,,
+6139,Routing and Addressing in Networks with Global Enterprise Recursion (RANGER) Scenarios,"E. Fleischman,F. Templin,S. Russert",February 2011,INFORMATIONAL,INDEPENDENT,,
 6274,Security Assessment of the Internet Protocol Version 4,F. Gont,July 2011,INFORMATIONAL,IETF,ops,opsec
-6296,IPv6-to-IPv6 Network Prefix Translation,"M. Wasserman, F. Baker",June 2011,EXPERIMENTAL,IETF,,NON WORKING GROUP
-6372,MPLS Transport Profile (MPLS-TP) Survivability Framework,"N. Sprecher, A. Farrel",September 2011,INFORMATIONAL,IETF,rtg,mpls
-6373,MPLS Transport Profile (MPLS-TP) Control Plane Framework,"L. Andersson, L. Berger, L. Fang, N. Bitar, E. Gray",September 2011,INFORMATIONAL,IETF,rtg,ccamp
-6376,DomainKeys Identified Mail (DKIM) Signatures,"D. Crocker, T. Hansen, M. Kucherawy",September 2011,INTERNET STANDARD,IETF,sec,dkim
-6378,MPLS Transport Profile (MPLS-TP) Linear Protection,"Y. Weingarten, S. Bryant, E. Osborne, N. Sprecher, A. Fulignoli",October 2011,PROPOSED STANDARD,IETF,rtg,mpls
-6568,Design and Application Spaces for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs),"E. Kim, D. Kaspar, JP. Vasseur",April 2012,INFORMATIONAL,IETF,int,6lowpan
-6740,Identifier-Locator Network Protocol (ILNP) Architectural Description,"RJ Atkinson, SN Bhatti",November 2012,EXPERIMENTAL,IRTF,,
-6879,"IPv6 Enterprise Network Renumbering Scenarios, Considerations, and Methods","S. Jiang, B. Liu, B. Carpenter",February 2013,INFORMATIONAL,IETF,ops,6renum
-6965,MPLS Transport Profile (MPLS-TP) Applicability: Use Cases and Design,"L. Fang, N. Bitar, R. Zhang, M. Daikoku, P. Pan",August 2013,INFORMATIONAL,IETF,rtg,mpls
-6974,Applicability of MPLS Transport Profile for Ring Topologies,"Y. Weingarten, S. Bryant, D. Ceccarelli, D. Caviglia, F. Fondelli, M. Corsi, B. Wu, X. Dai",July 2013,INFORMATIONAL,IETF,rtg,mpls
-7010,IPv6 Site Renumbering Gap Analysis,"B. Liu, S. Jiang, B. Carpenter, S. Venaas, W. George",September 2013,INFORMATIONAL,IETF,ops,6renum
-7062,Framework for GMPLS and PCE Control of G.709 Optical Transport Networks,"F. Zhang, D. Li, H. Li, S. Belotti, D. Ceccarelli",November 2013,INFORMATIONAL,IETF,rtg,ccamp
-7087,A Thesaurus for the Interpretation of Terminology Used in MPLS Transport Profile (MPLS-TP) Internet-Drafts and RFCs in the Context of the ITU-T\'s Transport Network Recommendations,"H. van Helvoort, L. Andersson, N. Sprecher",December 2013,INFORMATIONAL,IETF,rtg,mpls
-7167,A Framework for Point-to-Multipoint MPLS in Transport Networks,"D. Frost, S. Bryant, M. Bocci, L. Berger",April 2014,INFORMATIONAL,IETF,rtg,mpls
-7260,"GMPLS RSVP-TE Extensions for Operations, Administration, and Maintenance (OAM) Configuration","A. Takacs, D. Fedyk, J. He",June 2014,PROPOSED STANDARD,IETF,rtg,ccamp
-7271,"MPLS Transport Profile (MPLS-TP) Linear Protection to Match the Operational Expectations of Synchronous Digital Hierarchy, Optical Transport Network, and Ethernet Transport Network Operators","J. Ryoo, E. Gray, H. van Helvoort, A. D\'Alessandro, T. Cheung, E. Osborne",June 2014,PROPOSED STANDARD,IETF,rtg,mpls
-7368,IPv6 Home Networking Architecture Principles,"T. Chown, J. Arkko, A. Brandt, O. Troan, J. Weil",October 2014,INFORMATIONAL,IETF,int,homenet
-7412,Requirements for MPLS Transport Profile (MPLS-TP) Shared Mesh Protection,"Y. Weingarten, S. Aldrin, P. Pan, J. Ryoo, G. Mirsky",December 2014,INFORMATIONAL,IETF,rtg,mpls
-7487,"Configuration of Proactive Operations, Administration, and Maintenance (OAM) Functions for MPLS-Based Transport Networks Using RSVP-TE","E. Bellagamba, A. Takacs, G. Mirsky, L. Andersson, P. Skoldstrom, D. Ward",March 2015,PROPOSED STANDARD,IETF,rtg,ccamp
-7491,A PCE-Based Architecture for Application-Based Network Operations,"D. King, A. Farrel",March 2015,INFORMATIONAL,IETF,,NON WORKING GROUP
-7759,"Configuration of Proactive Operations, Administration, and Maintenance (OAM) Functions for MPLS-Based Transport Networks Using Label Switched Path (LSP) Ping","E. Bellagamba, G. Mirsky, L. Andersson, P. Skoldstrom, D. Ward, J. Drake",February 2016,PROPOSED STANDARD,IETF,rtg,mpls
-7960,"Interoperability Issues between Domain-based Message Authentication, Reporting, and Conformance (DMARC) and Indirect Email Flows","F. Martin, E. Lear, T. Draegen, E. Zwicky, K. Andersen",September 2016,INFORMATIONAL,IETF,art,dmarc
-8051,Applicability of a Stateful Path Computation Element (PCE),"X. Zhang, I. Minei",January 2017,INFORMATIONAL,IETF,rtg,pce
-8184,Dual-Homing Protection for MPLS and the MPLS Transport Profile (MPLS-TP) Pseudowires,"W. Cheng, L. Wang, H. Li, S. Davari, J. Dong",June 2017,INFORMATIONAL,IETF,rtg,pals
-8185,Dual-Homing Coordination for MPLS Transport Profile (MPLS-TP) Pseudowires Protection,"W. Cheng, L. Wang, H. Li, J. Dong, A. D\'Alessandro",June 2017,PROPOSED STANDARD,IETF,rtg,pals
-8227,MPLS-TP Shared-Ring Protection (MSRP) Mechanism for Ring Topology,"W. Cheng, L. Wang, H. Li, H. van Helvoort, J. Dong",August 2017,PROPOSED STANDARD,IETF,rtg,mpls
-8256,Requirements for Hitless MPLS Path Segment Monitoring,"A. D\'Alessandro, L. Andersson, S. Ueno, K. Arai, Y. Koike",October 2017,INFORMATIONAL,IETF,rtg,mpls
-8453,Framework for Abstraction and Control of TE Networks (ACTN),"D. Ceccarelli, Y. Lee",August 2018,INFORMATIONAL,IETF,rtg,teas
-8454,Information Model for Abstraction and Control of TE Networks (ACTN),"Y. Lee, S. Belotti, D. Dhody, D. Ceccarelli, B. Yoon",September 2018,INFORMATIONAL,IETF,rtg,teas
-8655,Deterministic Networking Architecture,"N. Finn, P. Thubert, B. Varga, J. Farkas",October 2019,PROPOSED STANDARD,IETF,rtg,detnet
-8694,Applicability of the Path Computation Element to Inter-area and Inter-AS MPLS and GMPLS Traffic Engineering,"D. King, H. Zheng",December 2019,INFORMATIONAL,IETF,rtg,pce
+6296,IPv6-to-IPv6 Network Prefix Translation,"F. Baker,M. Wasserman",June 2011,EXPERIMENTAL,IETF,,NON WORKING GROUP
+6372,MPLS Transport Profile (MPLS-TP) Survivability Framework,"A. Farrel,N. Sprecher",September 2011,INFORMATIONAL,IETF,rtg,mpls
+6373,MPLS Transport Profile (MPLS-TP) Control Plane Framework,"E. Gray,L. Andersson,L. Berger,L. Fang,N. Bitar",September 2011,INFORMATIONAL,IETF,rtg,ccamp
+6376,DomainKeys Identified Mail (DKIM) Signatures,"D. Crocker,M. Kucherawy,T. Hansen",September 2011,INTERNET STANDARD,IETF,sec,dkim
+6378,MPLS Transport Profile (MPLS-TP) Linear Protection,"A. Fulignoli,E. Osborne,N. Sprecher,S. Bryant,Y. Weingarten",October 2011,PROPOSED STANDARD,IETF,rtg,mpls
+6568,Design and Application Spaces for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs),"D. Kaspar,E. Kim,JP. Vasseur",April 2012,INFORMATIONAL,IETF,int,6lowpan
+6740,Identifier-Locator Network Protocol (ILNP) Architectural Description,"RJ Atkinson,SN Bhatti",November 2012,EXPERIMENTAL,IRTF,,
+6879,"IPv6 Enterprise Network Renumbering Scenarios, Considerations, and Methods","B. Carpenter,B. Liu,S. Jiang",February 2013,INFORMATIONAL,IETF,ops,6renum
+6965,MPLS Transport Profile (MPLS-TP) Applicability: Use Cases and Design,"L. Fang,M. Daikoku,N. Bitar,P. Pan,R. Zhang",August 2013,INFORMATIONAL,IETF,rtg,mpls
+6974,Applicability of MPLS Transport Profile for Ring Topologies,"B. Wu,D. Caviglia,D. Ceccarelli,F. Fondelli,M. Corsi,S. Bryant,X. Dai,Y. Weingarten",July 2013,INFORMATIONAL,IETF,rtg,mpls
+7010,IPv6 Site Renumbering Gap Analysis,"B. Carpenter,B. Liu,S. Jiang,S. Venaas,W. George",September 2013,INFORMATIONAL,IETF,ops,6renum
+7062,Framework for GMPLS and PCE Control of G.709 Optical Transport Networks,"D. Ceccarelli,D. Li,F. Zhang,H. Li,S. Belotti",November 2013,INFORMATIONAL,IETF,rtg,ccamp
+7087,A Thesaurus for the Interpretation of Terminology Used in MPLS Transport Profile (MPLS-TP) Internet-Drafts and RFCs in the Context of the ITU-T\'s Transport Network Recommendations,"H. van Helvoort,L. Andersson,N. Sprecher",December 2013,INFORMATIONAL,IETF,rtg,mpls
+7167,A Framework for Point-to-Multipoint MPLS in Transport Networks,"D. Frost,L. Berger,M. Bocci,S. Bryant",April 2014,INFORMATIONAL,IETF,rtg,mpls
+7260,"GMPLS RSVP-TE Extensions for Operations, Administration, and Maintenance (OAM) Configuration","A. Takacs,D. Fedyk,J. He",June 2014,PROPOSED STANDARD,IETF,rtg,ccamp
+7271,"MPLS Transport Profile (MPLS-TP) Linear Protection to Match the Operational Expectations of Synchronous Digital Hierarchy, Optical Transport Network, and Ethernet Transport Network Operators","A. D\'Alessandro,E. Gray,E. Osborne,H. van Helvoort,J. Ryoo,T. Cheung",June 2014,PROPOSED STANDARD,IETF,rtg,mpls
+7368,IPv6 Home Networking Architecture Principles,"A. Brandt,J. Arkko,J. Weil,O. Troan,T. Chown",October 2014,INFORMATIONAL,IETF,int,homenet
+7412,Requirements for MPLS Transport Profile (MPLS-TP) Shared Mesh Protection,"G. Mirsky,J. Ryoo,P. Pan,S. Aldrin,Y. Weingarten",December 2014,INFORMATIONAL,IETF,rtg,mpls
+7487,"Configuration of Proactive Operations, Administration, and Maintenance (OAM) Functions for MPLS-Based Transport Networks Using RSVP-TE","A. Takacs,D. Ward,E. Bellagamba,G. Mirsky,L. Andersson,P. Skoldstrom",March 2015,PROPOSED STANDARD,IETF,rtg,ccamp
+7491,A PCE-Based Architecture for Application-Based Network Operations,"A. Farrel,D. King",March 2015,INFORMATIONAL,IETF,,NON WORKING GROUP
+7759,"Configuration of Proactive Operations, Administration, and Maintenance (OAM) Functions for MPLS-Based Transport Networks Using Label Switched Path (LSP) Ping","D. Ward,E. Bellagamba,G. Mirsky,J. Drake,L. Andersson,P. Skoldstrom",February 2016,PROPOSED STANDARD,IETF,rtg,mpls
+7960,"Interoperability Issues between Domain-based Message Authentication, Reporting, and Conformance (DMARC) and Indirect Email Flows","E. Lear,E. Zwicky,F. Martin,K. Andersen,T. Draegen",September 2016,INFORMATIONAL,IETF,art,dmarc
+8051,Applicability of a Stateful Path Computation Element (PCE),"I. Minei,X. Zhang",January 2017,INFORMATIONAL,IETF,rtg,pce
+8184,Dual-Homing Protection for MPLS and the MPLS Transport Profile (MPLS-TP) Pseudowires,"H. Li,J. Dong,L. Wang,S. Davari,W. Cheng",June 2017,INFORMATIONAL,IETF,rtg,pals
+8185,Dual-Homing Coordination for MPLS Transport Profile (MPLS-TP) Pseudowires Protection,"A. D\'Alessandro,H. Li,J. Dong,L. Wang,W. Cheng",June 2017,PROPOSED STANDARD,IETF,rtg,pals
+8227,MPLS-TP Shared-Ring Protection (MSRP) Mechanism for Ring Topology,"H. Li,H. van Helvoort,J. Dong,L. Wang,W. Cheng",August 2017,PROPOSED STANDARD,IETF,rtg,mpls
+8256,Requirements for Hitless MPLS Path Segment Monitoring,"A. D\'Alessandro,K. Arai,L. Andersson,S. Ueno,Y. Koike",October 2017,INFORMATIONAL,IETF,rtg,mpls
+8453,Framework for Abstraction and Control of TE Networks (ACTN),"D. Ceccarelli,Y. Lee",August 2018,INFORMATIONAL,IETF,rtg,teas
+8454,Information Model for Abstraction and Control of TE Networks (ACTN),"B. Yoon,D. Ceccarelli,D. Dhody,S. Belotti,Y. Lee",September 2018,INFORMATIONAL,IETF,rtg,teas
+8655,Deterministic Networking Architecture,"B. Varga,J. Farkas,N. Finn,P. Thubert",October 2019,PROPOSED STANDARD,IETF,rtg,detnet
+8694,Applicability of the Path Computation Element to Inter-area and Inter-AS MPLS and GMPLS Traffic Engineering,"D. King,H. Zheng",December 2019,INFORMATIONAL,IETF,rtg,pce

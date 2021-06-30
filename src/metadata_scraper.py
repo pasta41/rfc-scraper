@@ -21,6 +21,7 @@ with open("../data/metadata.csv", "w", encoding='utf-8') as csv_file:
 	writer = csv.writer(csv_file)
 	writer.writerow(['RFC_ID', 'Title', 'Authors', 'Date', 'Status', 'Stream', "Area", "Working_Group"])
 
+	max_authors = 0
 	for rfc in rfcs:
 		# otherwise, not issued
 		if "<b>" in rfc and "JavaScript" not in rfc:
@@ -31,6 +32,16 @@ with open("../data/metadata.csv", "w", encoding='utf-8') as csv_file:
 			authors, remainder = remainder.split("[", 1)
 			# i hate python
 			authors = authors.split("\\n")[0].strip()
+			authors_split = authors.split(",")
+			authors_split = [x.strip() for x in authors_split]
+			authors_split.sort()
+			authors = ",".join(authors_split)
+			#if len(authors_split) > max_authors:
+			#	max_authors = len(authors_split)
+			#	print(authors_split)
+			#	print(len(authors_split))
+			#	print()
+			
 			date, remainder = remainder.split("]", 1)
 			date = date.strip()
 

@@ -2,6 +2,8 @@ import sys
 from subprocess import check_call
 import pandas as pd
 import re
+from collections import defaultdict
+import csv
 
 # TODO more sophisticated parsing
 if len(sys.argv) != 2:
@@ -62,3 +64,25 @@ with open(match_output_file) as f:
 matched_df = metadata_df[metadata_df['RFC_ID'].isin(rfc_id_list)]
 
 matched_df.to_csv("../data/match/{}.csv".format(word), index = False)
+
+
+# print list of unique authors matched
+
+authors = defaultdict(int)
+
+matched_df_authors = matched_df['Authors'].to_list()
+for matched_author_list in matched_df_authors:
+	a_s = matched_author_list.split(",")
+	for a in a_s:
+		authors[a] += 1
+
+authors_output_file = "../data/match/{}_authors.csv".format(word)
+print("Saved matched rfc author counts: {}".format(authors_output_file))
+print("Unique authors: {}".format(len(authors.keys())))
+
+with open(authors_output_file, 'w') as csv_file:  
+    writer = csv.writer(csv_file)
+    writer.writerow(['Author', "RFC_Match_Count"])
+
+    for key, value in authors.items():
+       writer.writerow([key, value])
