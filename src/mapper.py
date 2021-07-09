@@ -77,8 +77,6 @@ for matched_author_list in matched_df_authors:
 		authors[a] += 1
 
 authors_output_file = "../data/match/{}_authors.csv".format(word)
-print("Saved matched rfc author counts: {}".format(authors_output_file))
-print("Unique authors: {}".format(len(authors.keys())))
 
 with open(authors_output_file, 'w') as csv_file:  
     writer = csv.writer(csv_file)
@@ -86,3 +84,23 @@ with open(authors_output_file, 'w') as csv_file:
 
     for key, value in authors.items():
        writer.writerow([key, value])
+
+print("Saved matched rfc author counts: {}".format(authors_output_file))
+print("Unique authors: {}".format(len(authors.keys())))
+
+matched_df_wgs = matched_df[['RFC_ID', 'Working_Group']]
+wgs = set(filter(None, matched_df_wgs["Working_Group"].to_list()))
+
+wgs_output_file = "../data/match/{}_wgs.csv".format(word)
+
+with open(wgs_output_file, 'w') as csv_file:
+	writer = csv.writer(csv_file)
+	writer.writerow(['Working_Group', "RFC_Match_Count", "Matched_RFC_IDs"])
+
+	for wg in wgs:
+		matches_for_wg = matched_df_wgs[matched_df_wgs["Working_Group"] == wg]
+		rfcs_for_wg = matches_for_wg["RFC_ID"].to_list()
+		writer.writerow([wg, len(rfcs_for_wg), ','.join([str(i) for i in rfcs_for_wg])])
+
+print("Saved matched rfcs by working group and counts: {}".format(wgs_output_file))
+print("Unique working groups: {}".format(len(wgs)))

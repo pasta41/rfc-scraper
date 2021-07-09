@@ -1,0 +1,24 @@
+Working_Group,RFC_Match_Count,Matched_RFC_IDs
+iasa2,1,8711
+problem,1,3774
+dkim,2,"4686,5585"
+NON WORKING GROUP,7,"2970,4071,5226,5518,5598,8126,8753"
+ssh,1,2504
+pkix,2,"2527,3628"
+nea,1,5209
+sip,2,"3323,4474"
+sieve,2,"5228,5435"
+httpbis,1,7231
+spwg,1,1281
+ipfix,1,7015
+rserpool,1,5355
+http,4,"1945,2068,2310,2616"
+diffserv,1,3086
+stir,1,8224
+rtfm,3,"2063,2064,2720"
+fax,1,4141
+cat,1,1507
+ianaplan,1,7979
+geopriv,1,3694
+acct,1,1272
+ecrit,1,7378
