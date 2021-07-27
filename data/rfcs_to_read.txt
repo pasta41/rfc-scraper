@@ -1,12 +1,15 @@
 Notes: 
 
 -There is / was an Internet Accounting WG
--RADIUS accounting facility
+-RADIUS accounting facility (2865, 2866)
+- Diameter Base Protocol -- 2012 (probably later than we want to discuss, but a huge RFC on this -- 6733)
 - Roughly speaking, >4000 is around 2005; >5000 is around 2008, >6000 is around 2010; I think we are mostly interested in 1- ~4000.
 - Survivability vs. availability? Interesting shift in language (cloud computing / 2005ish); do they mean the same thing (literally)? I think so. But the wording changed. And then at some point "session survivability" ("transport-layer (or without hyphen) survivability") became a thing and the term took on a different meaning (search for that pair or triplet of words for more info)
 -Other words to potentially search on: "audit", "monitor"
 - lol this quote from 822: "Since the critical function served by the  "Sender"  field  is identification  of  the agent responsible for sending mail and since computer programs cannot be held accountable  for  their behavior, it is strongly recommended that when a computer program generates a message, the HUMAN  who  is  responsible  for that program be referenced as part of the "Sender" field mail-box specification."
 - At a quick glance, Aboba is an author that has come up several times
+
+-Overlapping rfc matches: 2702, 2828, 3717 4949
 
 Account* matches
 
@@ -14,6 +17,7 @@ Account* matches
 77
 82
 100
+101
 122
 129
 136
@@ -59,12 +63,15 @@ Account* matches
 822
 869
 871
+892
+905
 913
 926
 943
 949
 959
 984
+1009
 1010
 1015
 1017
@@ -77,6 +84,7 @@ Account* matches
 1114
 1125
 1126
+1167
 1180
 1190
 1192
@@ -92,12 +100,16 @@ Account* matches
 1380
 1399
 1454
+1486
 1507
 1528
 1529
 1550
 1588
+1596
+1604
 1616
+1633
 1636
 1649
 1671
@@ -117,10 +129,12 @@ Account* matches
 1855
 1862
 1935
+1945
 1987
 2050
 2058
 2059
+2063
 2064
 2068
 2072
@@ -131,6 +145,7 @@ Account* matches
 2138
 2139
 2151
+2194
 2196
 2199
 2208
@@ -140,15 +155,21 @@ Account* matches
 2341
 2382
 2400
+2456
+2475
 2477
+2504
 2512
 2513
 2527
 2548
+2566
 2588
 2607
 2616
+2619
 2620
+2621
 2626
 2635
 2664
@@ -169,9 +190,12 @@ Account* matches
 2809
 2816
 2828
+2837
 2865
 2866
 2867
+2868
+2869
 2881
 2882
 2888
@@ -183,8 +207,10 @@ Account* matches
 2906
 2924
 2940
+2954
 2970
 2975
+2977
 2989
 2990
 2998
@@ -194,6 +220,7 @@ Account* matches
 3013
 3042
 3053
+3084
 3127
 3141
 3145
@@ -205,10 +232,12 @@ Account* matches
 3317
 3318
 3323
+3334
 3374
 3387
 3423
 3435
+3457
 3466
 3483
 3499
@@ -223,7 +252,9 @@ Account* matches
 3575
 3576
 3578
+3579
 3580
+3588
 3599
 3603
 3611
@@ -240,13 +271,19 @@ Account* matches
 3726
 3752
 3774
+3837
+3869
 3871
 3881
 3917
 3954
+3955
+3957
 3965
 3993
 4004
+4005
+4006
 4031
 4058
 4071
@@ -260,6 +297,7 @@ Account* matches
 4176
 4258
 4331
+4333
 4372
 4377
 4378
@@ -269,16 +307,20 @@ Account* matches
 4651
 4652
 4670
+4671
+4675
 4679
 4686
 4687
 4721
 4740
+4778
 4779
 4818
 4821
 4844
 4849
+4925
 4942
 4949
 4962
@@ -291,14 +333,25 @@ Account* matches
 5113
 5116
 5166
+5176
+5213
+5216
 5226
+5288
 5290
 5355
+5393
 5394
 5419
+5423
+5435
 5447
 5470
+5472
 5503
+5518
+5571
+5580
 5585
 5594
 5598
@@ -316,6 +369,7 @@ Account* matches
 5850
 5851
 5863
+5866
 5879
 5897
 5901
@@ -326,6 +380,7 @@ Account* matches
 6035
 6036
 6041
+6065
 6077
 6158 
 6218
@@ -336,12 +391,16 @@ Account* matches
 6462
 6572
 6613
+6614
 6632
 6645
 6697
 6728
+6733
+6736
 6807
 6819
+6827
 6908
 6911
 6934
@@ -351,6 +410,7 @@ Account* matches
 7075 
 7119
 7155
+7270
 7326
 7375
 7378
@@ -361,6 +421,7 @@ Account* matches
 7500 
 7565
 7574
+7576
 7593
 7642
 7666
@@ -369,8 +430,10 @@ Account* matches
 7752
 7778
 7791
+7831
 7846
 7862
+7922
 7933
 7937
 7955
@@ -392,6 +455,7 @@ Account* matches
 8720
 8728
 8729
+8772
 8802
 8907
 8932
@@ -421,5 +485,3 @@ Survivab* matches
 5772
 5906
 6372
-
-Trust* matches: TODO
