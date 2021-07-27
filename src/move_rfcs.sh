@@ -7,6 +7,9 @@
 # (no trailing /)
 
 while read -r line; do
-	FILENAME="$2/rfc$line.txt"
-    cp "$FILENAME" "$3/"
+	# convert to pdf
+	enscript -p "output.ps" "$2/rfc$line.txt"
+	ps2pdf "output.ps" "$2/rfc$line.pdf"
+    mv "$2/rfc$line.pdf" "$3/"
 done < "$1"
+rm "output.ps"
