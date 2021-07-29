@@ -13,6 +13,9 @@ metadata_df.fillna('', inplace=True)
 
 matched_df = metadata_df[metadata_df['RFC_ID'].isin(rfc_id_list)]
 
+# save subsetted metadata df; TODO refactor
+matched_df.to_csv("../data/rfcs_filtered_metadata.csv", index=False, encoding='utf-8')
+
 matched_df_wgs = matched_df[['RFC_ID', 'Working_Group']]
 wgs = set(filter(None, matched_df_wgs["Working_Group"].to_list()))
 
