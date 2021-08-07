@@ -1,2 +1,2 @@
 #!/bin/sh
-grep -c . $1
+grep -c . "$1"
